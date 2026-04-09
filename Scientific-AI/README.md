@@ -22,6 +22,8 @@ Datasets for chemistry, proteins, materials, scientific literature, and reaction
 | 14 | Open Quantum Materials Database (OQMD) | Materials structures | [Site](https://oqmd.org/) | Unknown | Materials discovery and crystal property prediction | [Paper](https://www.nature.com/articles/npjcompumats201510) | A canonical large-scale materials database in computational materials ML. |
 | 15 | JARVIS | Materials + atomistic data | [Site](https://jarvis.nist.gov/) | Unknown | Materials property modeling across modalities | [Docs](https://pages.nist.gov/jarvis/databases/) | NIST's open platform is widely used for atomistic, electronic, and materials AI tasks. |
 | 16 | CATH | Protein structures | [Site](https://www.cathdb.info/) | CC BY 4.0 | Protein fold and structure classification | [Docs](https://www.cathdb.info/) | A canonical protein structure classification database used in structural biology ML. |
+| 17 | BindingDB | Protein-ligand interactions | [Site](https://www.bindingdb.org/rwd/bind/index.jsp) | Unknown | Drug-target interaction and affinity modeling | [Docs](https://www.bindingdb.org/rwd/bind/aboutus.jsp) | One of the canonical public sources for measured binding affinities in drug-discovery ML. |
+| 18 | MD17 | Molecules + forces | [Site](https://www.quantum-machine.org/datasets/) | Unknown | Molecular dynamics force-field learning | [Docs](https://www.quantum-machine.org/datasets/) | A default benchmark family for energy-and-force prediction in atomistic ML. |
 
 ## Related Benchmarks
 

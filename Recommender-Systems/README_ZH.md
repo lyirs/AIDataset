@@ -16,6 +16,8 @@
 | 8 | KuaiRand | Sequential recommendation logs | [Site](https://kuairand.com/) | Unknown | 去偏序列推荐 | [Paper](https://doi.org/10.1145/3511808.3557624) | 通过随机曝光机制支持反事实学习和 unbiased recommendation 研究。 |
 | 9 | YOOCHOOSE / RecSys Challenge 2015 | Session clicks | [Site](https://recsys.acm.org/recsys15/challenge/) | Unknown | Session-based recommendation | [Docs](https://recsys.acm.org/recsys15/challenge/) | RecSys Challenge 2015 的代表性会话推荐 benchmark。 |
 | 10 | Amazon Reviews'23 | Reviews + metadata + graphs | [Site](https://amazon-reviews-2023.github.io/) | Unknown | 大规模商品检索与推荐 | [Paper](https://arxiv.org/abs/2403.03952) | 现代推荐研究中很重要的大规模资源，包含评论文本、元数据与商品关联结构。 |
+| 11 | Jester | Ratings | [Site](https://eigentaste.berkeley.edu/dataset/) | Custom / research use | 稠密显式评分协同过滤 | [Docs](https://eigentaste.berkeley.edu/about.html) | 推荐系统学术研究里寿命很长、也非常经典的稠密评分数据集之一。 |
+| 12 | Book-Crossing | Ratings + metadata | [Site](https://grouplens.org/datasets/book-crossing/) | Unknown | 图书推荐与显隐式反馈建模 | [Docs](https://grouplens.org/datasets/book-crossing/) | 图书推荐方向的经典 benchmark，带稀疏评分交互和元数据。 |
 
 ## 相关评测
 

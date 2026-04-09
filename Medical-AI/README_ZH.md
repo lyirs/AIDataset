@@ -22,6 +22,10 @@
 | 14 | NIH ChestX-ray14 | English | [Site](https://nihcc.app.box.com/v/ChestXray-NIHCC) | Unknown | 胸片分类与病灶定位 | [Paper](https://arxiv.org/abs/1705.02315) | 医学视觉里最基础、最常见的大规模胸部 X 光 benchmark 之一。 |
 | 15 | ISIC Archive | Medical imaging | [Site](https://www.isic-archive.com/) | Mixed / challenge-specific | 皮肤病灶分析与皮肤镜图像建模 | [Docs](https://challenge.isic-archive.com/data/) | 皮肤病灶分类和分割研究中复用率极高的公开资源。 |
 | 16 | CAMELYON16 | Digital pathology | [Site](https://camelyon16.grand-challenge.org/) | Unknown | 全切片淋巴结转移检测 | [Paper](https://jamanetwork.com/journals/jama/article-abstract/2763118) | 病理 WSI 里的经典 benchmark，常用于弱监督、定位和切片级分类。 |
+| 17 | TCGA | Cancer genomics | [Site](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) | Mixed / open + controlled access | 癌症基因组与多组学建模 | [Docs](https://gdc.cancer.gov/resources-tcga-users) | 这是癌症多组学研究里最具标志性的 landmark 项目之一。 |
+| 18 | LIDC-IDRI | Medical imaging | [Site](https://www.cancerimagingarchive.net/collection/lidc-idri/) | CC BY 3.0 | 肺结节检测与分割 | [Docs](https://www.cancerimagingarchive.net/collection/lidc-idri/) | 肺部 CT 结节检测、标注和 CAD 研究里最经典的公开 benchmark 之一。 |
+| 19 | UK Biobank | Biomedical multimodal data | [Site](https://www.ukbiobank.ac.uk/about-us/how-we-work/access-to-uk-biobank-data/) | Custom / application-based access | 人群级健康建模 | [Docs](https://www.ukbiobank.ac.uk/use-our-data/apply-for-access/) | 这是当今最重要的大规模生物医学资源之一，但访问需申请并受协议约束。 |
+| 20 | PadChest | Spanish radiology + images | [Site](https://bimcv.cipf.es/bimcv-projects/padchest/) | Custom / research use agreement | 胸部放射视觉语言学习 | [Docs](https://bimcv.cipf.es/bimcv-projects/padchest/padchest-dataset-research-use-agreement/) | 来自西班牙胸部放射实践的高信号胸片数据集，带报告和丰富标签。 |
 
 ## 相关评测
 

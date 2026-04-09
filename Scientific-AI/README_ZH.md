@@ -22,6 +22,8 @@
 | 14 | Open Quantum Materials Database (OQMD) | Materials structures | [Site](https://oqmd.org/) | Unknown | 材料发现与晶体属性预测 | [Paper](https://www.nature.com/articles/npjcompumats201510) | 计算材料与材料 ML 里最 canonical 的大规模数据库之一。 |
 | 15 | JARVIS | Materials + atomistic data | [Site](https://jarvis.nist.gov/) | Unknown | 多模态材料属性建模 | [Docs](https://pages.nist.gov/jarvis/databases/) | NIST 维护的开放平台，在原子级和材料 AI 任务里使用频率很高。 |
 | 16 | CATH | Protein structures | [Site](https://www.cathdb.info/) | CC BY 4.0 | 蛋白质折叠与结构分类 | [Docs](https://www.cathdb.info/) | 结构生物学和蛋白结构学习中最经典的分类数据库之一。 |
+| 17 | BindingDB | Protein-ligand interactions | [Site](https://www.bindingdb.org/rwd/bind/index.jsp) | Unknown | 药物靶点相互作用与亲和力建模 | [Docs](https://www.bindingdb.org/rwd/bind/aboutus.jsp) | 药物发现机器学习里最经典的公开实验结合亲和力来源之一。 |
+| 18 | MD17 | Molecules + forces | [Site](https://www.quantum-machine.org/datasets/) | Unknown | 分子动力学力场学习 | [Docs](https://www.quantum-machine.org/datasets/) | 原子级机器学习里默认会出现的一类能量与力预测 benchmark 家族。 |
 
 ## 相关评测
 

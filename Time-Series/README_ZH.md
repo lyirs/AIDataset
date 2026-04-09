@@ -16,6 +16,9 @@
 | 8 | PEMS-BAY | Traffic time series + graph | [GitHub](https://github.com/liyaguang/DCRNN) | Unknown | 路网交通预测 | [Paper](https://arxiv.org/abs/1707.01926) | 常与 METR-LA 配套出现，是图时序建模的重要基准。 |
 | 9 | Numenta Anomaly Benchmark (NAB) | Time series | [GitHub](https://github.com/numenta/NAB) | Unknown | 流式异常检测 | [Paper](https://arxiv.org/abs/1510.03336) | 经典的实时异常评分 benchmark，适合在线检测场景。 |
 | 10 | PhysioNet/CinC Challenge 2012 | Clinical multivariate time series | [Site](https://physionet.org/content/challenge-2012/1.0.0/) | Open access / PhysioNet terms | 临床时序风险建模 | [Docs](https://physionet.org/content/challenge-2012/1.0.0/) | 面向 ICU 死亡风险预测，包含不规则采样的生理观测序列。 |
+| 11 | M3 Competition | Time series | [Site](https://forecasters.org/resources/time-series-data/m3-competition/) | Unknown | 经典大规模预测评测 | [Docs](https://forecasters.org/resources/time-series-data/m3-competition/) | 作为 M4 的前代，它在 forecasting benchmark 对比里仍然经常出现。 |
+| 12 | ElectricityLoadDiagrams20112014 | Time series | [Site](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) | CC BY 4.0 | 电力负荷预测 | [Docs](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) | 长时序预测论文里反复出现的标准电力负荷数据集。 |
+| 13 | PhysioNet/CinC Challenge 2019 | Clinical multivariate time series | [Site](https://physionet.org/challenge/2019/) | Unknown | 早期脓毒症预测 | [Docs](https://physionet.org/static/published-projects/challenge-2019/1.0.0/physionet_challenge_2019_ccm_manuscript.pdf) | 临床时序预警里很高信号的 ICU benchmark，强调早期识别。 |
 
 ## 相关评测
 

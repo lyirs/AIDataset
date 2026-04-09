@@ -16,6 +16,8 @@ Datasets for collaborative filtering, ranking, click-through prediction, news re
 | 8 | KuaiRand | Sequential recommendation logs | [Site](https://kuairand.com/) | Unknown | Debiased sequential recommendation | [Paper](https://doi.org/10.1145/3511808.3557624) | Includes randomly exposed items for counterfactual and unbiased recommendation research. |
 | 9 | YOOCHOOSE / RecSys Challenge 2015 | Session clicks | [Site](https://recsys.acm.org/recsys15/challenge/) | Unknown | Session-based recommendation | [Docs](https://recsys.acm.org/recsys15/challenge/) | Canonical session recommendation benchmark from the RecSys Challenge 2015. |
 | 10 | Amazon Reviews'23 | Reviews + metadata + graphs | [Site](https://amazon-reviews-2023.github.io/) | Unknown | Large-scale item retrieval and recommendation | [Paper](https://arxiv.org/abs/2403.03952) | Modern large-scale benchmark with review text, item metadata, and item-link structure. |
+| 11 | Jester | Ratings | [Site](https://eigentaste.berkeley.edu/dataset/) | Custom / research use | Collaborative filtering with dense explicit ratings | [Docs](https://eigentaste.berkeley.edu/about.html) | One of the longest-running dense-rating recommendation datasets in academic recommender research. |
+| 12 | Book-Crossing | Ratings + metadata | [Site](https://grouplens.org/datasets/book-crossing/) | Unknown | Book recommendation and implicit-explicit feedback modeling | [Docs](https://grouplens.org/datasets/book-crossing/) | A classic benchmark for recommendation over sparse book-rating interactions with metadata. |
 
 ## Related Benchmarks
 
