@@ -18,6 +18,10 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 | 10 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | General assistant evaluation with tool use | [Paper](https://arxiv.org/abs/2311.12983) | Widely cited for evaluating practical assistant behavior beyond static QA. |
 | 11 | OpenOOD | Visual | [GitHub](https://github.com/Jingkang50/OpenOOD) | MIT | Out-of-distribution detection benchmarking | [Paper](https://arxiv.org/abs/2306.09301) | The de facto open benchmark suite for generalized OOD detection in recent vision papers. |
 | 12 | OpenCompass | Multilingual / multimodal | [GitHub](https://github.com/open-compass/opencompass) | Apache-2.0 | Unified benchmark execution across models and tasks | [Docs](https://opencompass.readthedocs.io/en/latest/) | A widely used open evaluation platform that aggregates many modern LLM and multimodal benchmarks. |
+| 13 | MMBench | Chinese/English multimodal | [Site](https://mmbench.opencompass.org.cn/home) | Unknown | Holistic vision-language benchmark evaluation | [Paper](https://arxiv.org/abs/2307.06281) | One of the most cited bilingual all-around VLM benchmarks. |
+| 14 | MathVista | Multimodal | [Site](https://mathvista.github.io/) | CC BY-SA 4.0 | Visual mathematical reasoning evaluation | [Paper](https://arxiv.org/abs/2310.02255) | Now a near-default benchmark for math-heavy multimodal reasoning tables. |
+| 15 | Video-MME | Video + language | [Site](https://video-mme.github.io/home_page.html) | Unknown | General video-language model evaluation | [Paper](https://arxiv.org/abs/2405.21075) | A standard recent benchmark for comparing video-LLMs across broad capability slices. |
+| 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | Agent benchmarking across interactive environments | [Paper](https://arxiv.org/abs/2308.03688) | A canonical early benchmark for treating LLMs as agents rather than static chatbots. |
 
 ## Additional Cross-References
 

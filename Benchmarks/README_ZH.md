@@ -18,6 +18,10 @@
 | 10 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | 带工具调用的通用助手评测 | [Paper](https://arxiv.org/abs/2311.12983) | 用来评估实用型 assistant 的代表性 benchmark 之一，不止是静态问答。 |
 | 11 | OpenOOD | Visual | [GitHub](https://github.com/Jingkang50/OpenOOD) | MIT | 分布外检测评测 | [Paper](https://arxiv.org/abs/2306.09301) | 近年视觉论文里 generalized OOD detection 最常见的开放 benchmark suite。 |
 | 12 | OpenCompass | Multilingual / multimodal | [GitHub](https://github.com/open-compass/opencompass) | Apache-2.0 | 多模型多任务统一评测执行 | [Docs](https://opencompass.readthedocs.io/en/latest/) | 当前最常用的开放评测平台之一，聚合了大量现代 LLM 与多模态 benchmark。 |
+| 13 | MMBench | Chinese/English multimodal | [Site](https://mmbench.opencompass.org.cn/home) | Unknown | 全面视觉语言 benchmark 评测 | [Paper](https://arxiv.org/abs/2307.06281) | 它是目前引用频率最高的中英双语综合型 VLM benchmark 之一。 |
+| 14 | MathVista | Multimodal | [Site](https://mathvista.github.io/) | CC BY-SA 4.0 | 视觉数学推理评测 | [Paper](https://arxiv.org/abs/2310.02255) | 现在几乎已经成了多模态数学推理对比表里的默认 benchmark。 |
+| 15 | Video-MME | Video + language | [Site](https://video-mme.github.io/home_page.html) | Unknown | 通用视频语言模型评测 | [Paper](https://arxiv.org/abs/2405.21075) | 近两年比较视频大模型时最常出现的 benchmark 之一。 |
+| 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | 交互环境中的 Agent 评测 | [Paper](https://arxiv.org/abs/2308.03688) | 它是“把 LLM 当 Agent 来评测”这条线里最经典的早期 benchmark 之一。 |
 
 ## 额外交叉索引
 

@@ -16,6 +16,9 @@ Sound event recognition, audio captioning, audio-language learning, and general 
 | 8 | WavCaps | English | [GitHub](https://github.com/XinhaoMei/WavCaps) | Academic-only / source-specific | Large-scale audio-language pretraining | [Paper](https://arxiv.org/abs/2303.17395) | A high-signal weakly labeled caption dataset for audio-language multimodal learning. |
 | 9 | AIR-Bench | Audio + language | [GitHub](https://github.com/OFA-Sys/AIR-Bench) | Unknown | Audio-language model evaluation | [Paper](https://arxiv.org/abs/2402.07729) | A strong recent benchmark family for audio foundation and chat-style models. |
 | 10 | MMAU | Audio + language | [Site](https://sakshi113.github.io/mmau_homepage/) | Unknown | Unified audio understanding and reasoning evaluation | [Paper](https://arxiv.org/abs/2410.19168) | Covers speech, sound, and music understanding in a single modern benchmark. |
+| 11 | NSynth | Audio | [Site](https://magenta.tensorflow.org/datasets/nsynth) | CC BY 4.0 | Neural audio synthesis and music representation learning | [Paper](https://arxiv.org/abs/1704.01279) | A foundational music-audio dataset for controllable synthesis and representation learning. |
+| 12 | MAESTRO | Audio + MIDI | [Site](https://magenta.tensorflow.org/datasets/maestro) | CC BY-NC-SA 4.0 | Piano transcription and symbolic-audio music modeling | [Paper](https://arxiv.org/abs/1810.12247) | One of the most standard modern datasets for piano transcription and music generation. |
+| 13 | MUSDB18 | Audio | [Site](https://sigsep.github.io/datasets/musdb.html) | Mixed / track-specific CC terms | Music source separation and demixing evaluation | [Paper](https://arxiv.org/abs/1804.06267) | The default benchmark family for modern music source separation papers. |
 
 ## Related Benchmarks
 

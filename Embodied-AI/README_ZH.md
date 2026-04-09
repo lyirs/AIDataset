@@ -19,6 +19,9 @@
 | 11 | Matterport3D | Visual + 3D scenes | [Site](https://niessner.github.io/Matterport/) | Custom / access agreement | 室内三维场景理解与具身预训练 | [Paper](https://arxiv.org/abs/1709.06158) | 后续很多具身智能与三维场景 benchmark 都建立在它之上。 |
 | 12 | Room-to-Room (R2R) | Vision + language | [Site](https://bringmeaspoon.org/) | Mixed / task data + Matterport terms | 真实建筑中的视觉语言导航 | [Paper](https://arxiv.org/abs/1711.07280) | 它几乎就是 VLN 方向里最 canonical 的 benchmark。 |
 | 13 | Room-Across-Room (RxR) | Multilingual vision + language | [GitHub](https://github.com/google-research-datasets/RxR) | CC BY 4.0 | 多语言且密集标注的视觉语言导航 | [Paper](https://arxiv.org/abs/2010.07954) | 它把 VLN 从英文扩展到了多语言，并显著强化了时序 grounding。 |
+| 14 | CVDN | Vision + dialogue | [GitHub](https://github.com/mmurray/cvdn) | Mixed / dialog data + Matterport terms | 协作式具身对话导航 | [Paper](https://arxiv.org/abs/1907.04957) | 它是多轮 embodied dialogue grounded navigation 里最经典的 benchmark 之一。 |
+| 15 | Touchdown | Vision + language | [GitHub](https://github.com/lil-lab/touchdown) | CC BY 4.0 | 街景导航与空间推理 | [Paper](https://arxiv.org/abs/1811.12354) | 它把语言导航从室内 Matterport 风格环境扩展到了真实街景。 |
+| 16 | ProcTHOR | 3D scenes + simulation | [Site](https://procthor.allenai.org/) | Apache-2.0 (repo) | 大规模程序化具身环境生成 | [Paper](https://arxiv.org/abs/2206.06994) | 很多新一代具身训练与评测工作都会把它当作可扩展数据引擎来引用。 |
 
 ## 相关评测
 

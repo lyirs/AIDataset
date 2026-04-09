@@ -16,6 +16,9 @@
 | 8 | WavCaps | English | [GitHub](https://github.com/XinhaoMei/WavCaps) | Academic-only / source-specific | 大规模音频语言预训练 | [Paper](https://arxiv.org/abs/2303.17395) | 面向 audio-language 多模态学习的高信号弱标注 caption 数据集。 |
 | 9 | AIR-Bench | Audio + language | [GitHub](https://github.com/OFA-Sys/AIR-Bench) | Unknown | 音频语言模型评测 | [Paper](https://arxiv.org/abs/2402.07729) | 近两年音频 foundation model 和 chat-style audio model 常见的强 benchmark。 |
 | 10 | MMAU | Audio + language | [Site](https://sakshi113.github.io/mmau_homepage/) | Unknown | 统一音频理解与推理评测 | [Paper](https://arxiv.org/abs/2410.19168) | 把语音、环境声音和音乐理解统一到同一个现代 benchmark 中。 |
+| 11 | NSynth | Audio | [Site](https://magenta.tensorflow.org/datasets/nsynth) | CC BY 4.0 | 神经音频合成与音乐表征学习 | [Paper](https://arxiv.org/abs/1704.01279) | 它是可控音乐音频合成和表征学习里最基础的一批数据集之一。 |
+| 12 | MAESTRO | Audio + MIDI | [Site](https://magenta.tensorflow.org/datasets/maestro) | CC BY-NC-SA 4.0 | 钢琴转录与符号-音频联合建模 | [Paper](https://arxiv.org/abs/1810.12247) | 现代钢琴转录和音乐生成论文里最常见的数据集之一。 |
+| 13 | MUSDB18 | Audio | [Site](https://sigsep.github.io/datasets/musdb.html) | Mixed / track-specific CC terms | 音乐源分离与 demixing 评测 | [Paper](https://arxiv.org/abs/1804.06267) | 现代音乐源分离论文几乎都会报告它。 |
 
 ## 相关评测
 

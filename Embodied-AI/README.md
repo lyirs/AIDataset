@@ -19,6 +19,9 @@ Datasets for embodied navigation, language-conditioned task completion, egocentr
 | 11 | Matterport3D | Visual + 3D scenes | [Site](https://niessner.github.io/Matterport/) | Custom / access agreement | Indoor 3D scene understanding and embodied pretraining | [Paper](https://arxiv.org/abs/1709.06158) | Foundational scanned-environment dataset behind many later embodied and 3D benchmarks. |
 | 12 | Room-to-Room (R2R) | Vision + language | [Site](https://bringmeaspoon.org/) | Mixed / task data + Matterport terms | Vision-language navigation in real buildings | [Paper](https://arxiv.org/abs/1711.07280) | The canonical VLN benchmark built on Matterport3D scenes. |
 | 13 | Room-Across-Room (RxR) | Multilingual vision + language | [GitHub](https://github.com/google-research-datasets/RxR) | CC BY 4.0 | Multilingual and densely grounded vision-language navigation | [Paper](https://arxiv.org/abs/2010.07954) | Extends VLN beyond English with longer instructions and denser temporal grounding. |
+| 14 | CVDN | Vision + dialogue | [GitHub](https://github.com/mmurray/cvdn) | Mixed / dialog data + Matterport terms | Cooperative embodied dialogue navigation | [Paper](https://arxiv.org/abs/1907.04957) | A canonical benchmark for multi-turn embodied dialogue grounded in navigation. |
+| 15 | Touchdown | Vision + language | [GitHub](https://github.com/lil-lab/touchdown) | CC BY 4.0 | Street-view navigation and spatial reasoning | [Paper](https://arxiv.org/abs/1811.12354) | A standard outdoor language-navigation benchmark beyond indoor Matterport-style settings. |
+| 16 | ProcTHOR | 3D scenes + simulation | [Site](https://procthor.allenai.org/) | Apache-2.0 (repo) | Large-scale procedurally generated embodied environments | [Paper](https://arxiv.org/abs/2206.06994) | Commonly cited as the scalable data engine behind newer embodied training and evaluation pipelines. |
 
 ## Related Benchmarks
 
