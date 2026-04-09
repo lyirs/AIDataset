@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 25 个分类目录
-- 452 条主条目
+- 456 条主条目
 - 链接整理与核验日期：2026-04-10
 
 ## 收录规则
@@ -28,7 +28,7 @@
 | 视频与三维（Video-3D） | 视频、第一视角、点云、3D 场景与形状数据。 | [英文](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
 | 自动驾驶（Autonomous-Driving） | 自动驾驶感知、三维检测、跟踪、预测、地图与协同感知数据。 | [英文](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 24 |
 | 遥感（Remote-Sensing） | 卫星、航拍、高空、多光谱、SAR 与地理空间制图数据。 | [英文](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 23 |
-| 多模态（Multimodal） | 视觉语言、VQA、图文对齐、图表与 OCR 感知推理、多模态指令数据。 | [英文](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 21 |
+| 多模态（Multimodal） | 视觉语言、VQA、图文对齐、图表与 OCR 感知推理、多模态指令数据。 | [英文](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 24 |
 | 语音与音频（Speech-Audio） | ASR、语音翻译、说话人或语言识别、情感语音与语音生成数据。 | [英文](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 19 |
 | 音频理解（Audio-Understanding） | 声音事件、音频描述、音频语言学习与音频基础模型评测数据。 | [英文](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 13 |
 | 时间序列（Time-Series） | 预测、分类、异常检测、临床时序与时空序列数据。 | [英文](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 13 |
@@ -45,7 +45,7 @@
 | 科学 AI（Scientific-AI） | 分子、蛋白质、材料、反应与科学文献数据。 | [英文](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 18 |
 | 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 21 |
 | 金融与法律（Finance-Legal） | 金融、监管、法律推理、抽取、文件分析、合同理解与合规数据。 | [英文](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
-| 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 18 |
+| 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 19 |
 | 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
 | 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 10 |
 

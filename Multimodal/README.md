@@ -27,10 +27,14 @@ Vision-language, visual reasoning, OCR-aware VQA, and multimodal instruction-tun
 | 19 | MMStar | Multimodal | [Site](https://mmstar-benchmark.github.io/) | Unknown | Visual dependency and leakage-aware evaluation | [Paper](https://arxiv.org/abs/2403.20330) | High-signal benchmark supported by current multimodal eval toolkits. |
 | 20 | MME | Multimodal | [GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | Unknown | Quick perception-vs-cognition evaluation | [Paper](https://arxiv.org/abs/2306.13394) | Near-ubiquitous quick check in multimodal model reports. |
 | 21 | MM-Vet | English | [GitHub](https://github.com/yuweihao/MM-Vet) | Unknown | Integrated multimodal capability evaluation | [Paper](https://arxiv.org/abs/2308.02490) | A very common high-difficulty benchmark in recent multimodal model reports. |
+| 22 | RefCOCO / RefCOCO+ / RefCOCOg | English | [GitHub](https://github.com/lichengunc/refer) | Mixed / source-dataset terms | Referring expression grounding and comprehension | [Paper](https://arxiv.org/abs/1511.02283) | The canonical referring-expression family used in grounding and referring-segmentation papers. |
+| 23 | VCR | English | [Site](https://visualcommonsense.com/) | Custom / dataset license | Visual commonsense reasoning | [Paper](https://arxiv.org/abs/1811.10830) | A long-running benchmark for cognition-level visual reasoning beyond surface perception. |
+| 24 | SNLI-VE | English | [GitHub](https://github.com/necla-ml/SNLI-VE) | Mixed / source-dataset terms | Visual entailment | [Paper](https://arxiv.org/abs/1901.06706) | The standard visual-entailment dataset built on top of SNLI and Flickr30k. |
 
 ## Related Benchmarks
 
 - [Benchmarks overview](../Benchmarks/README.md)
 - [MMMU](https://mmmu-benchmark.github.io/)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
+- [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [GAIA](https://huggingface.co/gaia-benchmark)

@@ -24,6 +24,7 @@
 | 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | 交互环境中的 Agent 评测 | [Paper](https://arxiv.org/abs/2308.03688) | 它是“把 LLM 当 Agent 来评测”这条线里最经典的早期 benchmark 之一。 |
 | 17 | WILDS | Multidomain | [Site](https://wilds.stanford.edu/datasets/) | Mixed / dataset-specific | 真实世界分布偏移评测 | [Paper](https://arxiv.org/abs/2012.07421) | 它是评估 in-the-wild distribution shift 的标准 benchmark suite，覆盖视觉、语言和生物等多类任务。 |
 | 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | 标准化对抗鲁棒性评测 | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | 它是现代视觉鲁棒性论文里最常用的开放 benchmark 和 leaderboard 之一。 |
+| 19 | SEED-Bench | Multimodal | [GitHub](https://github.com/AILab-CVC/SEED-Bench) | Apache-2.0 | 生成式多模态评测 | [Paper](https://arxiv.org/abs/2307.16125) | 它是评估多模态大模型 generative comprehension 能力时最常见的一组 benchmark 家族之一。 |
 
 ## 额外交叉索引
 
@@ -35,6 +36,7 @@
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
 - [WILDS](https://wilds.stanford.edu/datasets/)
 - [RobustBench](https://robustbench.github.io/)
+- [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [CRAG](../Search-Retrieval/README_ZH.md)
 - [RealMMRAg](../Search-Retrieval/README_ZH.md)
 - [AfriMTEB](../Search-Retrieval/README_ZH.md)

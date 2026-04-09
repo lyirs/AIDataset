@@ -24,6 +24,7 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 | 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | Agent benchmarking across interactive environments | [Paper](https://arxiv.org/abs/2308.03688) | A canonical early benchmark for treating LLMs as agents rather than static chatbots. |
 | 17 | WILDS | Multidomain | [Site](https://wilds.stanford.edu/datasets/) | Mixed / dataset-specific | Real-world distribution shift benchmarking | [Paper](https://arxiv.org/abs/2012.07421) | A standard suite for evaluating robustness under in-the-wild distribution shifts across vision, language, and biology tasks. |
 | 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | Standardized adversarial robustness benchmarking | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | The de facto open benchmark and leaderboard for adversarial robustness in modern vision papers. |
+| 19 | SEED-Bench | Multimodal | [GitHub](https://github.com/AILab-CVC/SEED-Bench) | Apache-2.0 | Generative multimodal benchmark evaluation | [Paper](https://arxiv.org/abs/2307.16125) | A widely adopted benchmark family for evaluating generative comprehension in multimodal LLMs. |
 
 ## Additional Cross-References
 
@@ -35,6 +36,7 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
 - [WILDS](https://wilds.stanford.edu/datasets/)
 - [RobustBench](https://robustbench.github.io/)
+- [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [CRAG](../Search-Retrieval/README.md)
 - [RealMMRAg](../Search-Retrieval/README.md)
 - [AfriMTEB](../Search-Retrieval/README.md)

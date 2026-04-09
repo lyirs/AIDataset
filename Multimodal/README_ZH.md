@@ -27,10 +27,14 @@
 | 19 | MMStar | Multimodal | [Site](https://mmstar-benchmark.github.io/) | Unknown | 视觉依赖与数据泄漏感知评测 | [Paper](https://arxiv.org/abs/2403.20330) | 当前多模态评测工具链里支持度很高的 benchmark。 |
 | 20 | MME | Multimodal | [GitHub](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | Unknown | 快速感知与认知能力评测 | [Paper](https://arxiv.org/abs/2306.13394) | 在多模态模型报告中几乎是最常见的 quick check 之一。 |
 | 21 | MM-Vet | English | [GitHub](https://github.com/yuweihao/MM-Vet) | Unknown | 多模态综合能力评测 | [Paper](https://arxiv.org/abs/2308.02490) | 近两年多模态模型报告里高频出现的高难度 benchmark。 |
+| 22 | RefCOCO / RefCOCO+ / RefCOCOg | English | [GitHub](https://github.com/lichengunc/refer) | Mixed / source-dataset terms | 指代表达 grounding 与理解 | [Paper](https://arxiv.org/abs/1511.02283) | 它是 visual grounding 和 referring segmentation 论文里最经典的一组指代表达数据集。 |
+| 23 | VCR | English | [Site](https://visualcommonsense.com/) | Custom / dataset license | 视觉常识推理 | [Paper](https://arxiv.org/abs/1811.10830) | 它是超越表层感知、强调 cognition-level visual reasoning 的经典 benchmark。 |
+| 24 | SNLI-VE | English | [GitHub](https://github.com/necla-ml/SNLI-VE) | Mixed / source-dataset terms | 视觉蕴含推理 | [Paper](https://arxiv.org/abs/1901.06706) | 它是建立在 SNLI 和 Flickr30k 之上的标准 visual entailment 数据集。 |
 
 ## 相关评测
 
 - [Benchmarks 总览](../Benchmarks/README_ZH.md)
 - [MMMU](https://mmmu-benchmark.github.io/)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
+- [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [GAIA](https://huggingface.co/gaia-benchmark)
