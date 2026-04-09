@@ -20,6 +20,9 @@ Datasets for driving perception, 3D detection, tracking, mapping, forecasting, a
 | 12 | OpenLane-V2 | Sensor + topology | [GitHub](https://github.com/OpenDriveLab/OpenLane-V2) | Unknown | Lane topology and structured road understanding | [Docs](https://github.com/OpenDriveLab/OpenLane-V2) | High-signal benchmark for reasoning over lanes, traffic elements, and topology. |
 | 13 | DriveLM | Vision + language | [GitHub](https://github.com/OpenDriveLab/DriveLM) | Unknown | Language-grounded driving reasoning | [Paper](https://arxiv.org/abs/2312.14150) | A canonical benchmark for VLM-style reasoning in driving scenes. |
 | 14 | Bench2Drive | Driving benchmark | [Site](https://thinklab-sjtu.github.io/Bench2Drive/) | Unknown | Closed-loop end-to-end driving evaluation | [Paper](https://arxiv.org/abs/2406.03877) | Increasingly common in end-to-end driving and planning comparisons. |
+| 15 | SemanticKITTI | LiDAR | [Site](https://semantic-kitti.org/) | CC BY-NC-SA 4.0 | LiDAR semantic segmentation and scene completion | [Paper](https://arxiv.org/abs/1904.01416) | The default LiDAR segmentation benchmark in many autonomous-driving papers. |
+| 16 | KITTI-360 | Sensor + 3D scenes | [Site](https://www.cvlibs.net/datasets/kitti-360/) | CC BY-NC-SA 3.0 | Unified 2D/3D urban scene understanding and mapping | [Paper](https://arxiv.org/abs/2109.13410) | A successor-scale extension of KITTI used across perception, mapping, and novel-view tasks. |
+| 17 | ApolloScape | Sensor | [GitHub](https://github.com/ApolloScapeAuto/dataset-api) | Unknown | Multi-task driving perception and trajectory prediction | [Paper](https://arxiv.org/abs/1803.06184) | Official toolkit hub for a historically influential large-scale driving dataset family. |
 
 ## Related Benchmarks
 

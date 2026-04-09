@@ -16,6 +16,9 @@ Datasets for embodied navigation, language-conditioned task completion, egocentr
 | 8 | DROID | Robot trajectories | [Site](https://droid-dataset.github.io/) | Unknown | Real-world robot manipulation pretraining | [Docs](https://droid-dataset.github.io/droid/the-droid-dataset) | High-signal real-world data for generalist visuomotor policies. |
 | 9 | CALVIN | Multimodal robot data | [GitHub](https://github.com/mees/calvin) | Unknown | Language-conditioned long-horizon manipulation | [Paper](https://arxiv.org/abs/2112.03227) | A standard benchmark for chaining multiple robot skills from language goals. |
 | 10 | LIBERO | Manipulation tasks | [Site](https://libero-project.github.io/main.html) | Unknown | Lifelong and compositional robot learning | [Docs](https://libero-project.github.io/main.html) | Common reference point for continual and compositional embodied learning. |
+| 11 | Matterport3D | Visual + 3D scenes | [Site](https://niessner.github.io/Matterport/) | Custom / access agreement | Indoor 3D scene understanding and embodied pretraining | [Paper](https://arxiv.org/abs/1709.06158) | Foundational scanned-environment dataset behind many later embodied and 3D benchmarks. |
+| 12 | Room-to-Room (R2R) | Vision + language | [Site](https://bringmeaspoon.org/) | Mixed / task data + Matterport terms | Vision-language navigation in real buildings | [Paper](https://arxiv.org/abs/1711.07280) | The canonical VLN benchmark built on Matterport3D scenes. |
+| 13 | Room-Across-Room (RxR) | Multilingual vision + language | [GitHub](https://github.com/google-research-datasets/RxR) | CC BY 4.0 | Multilingual and densely grounded vision-language navigation | [Paper](https://arxiv.org/abs/2010.07954) | Extends VLN beyond English with longer instructions and denser temporal grounding. |
 
 ## Related Benchmarks
 

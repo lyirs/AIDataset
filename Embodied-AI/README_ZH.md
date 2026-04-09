@@ -16,6 +16,9 @@
 | 8 | DROID | Robot trajectories | [Site](https://droid-dataset.github.io/) | Unknown | 真实机器人操作预训练 | [Docs](https://droid-dataset.github.io/droid/the-droid-dataset) | 面向通用 visuomotor policy 的高信号真实操作数据。 |
 | 9 | CALVIN | Multimodal robot data | [GitHub](https://github.com/mees/calvin) | Unknown | 语言条件长时程操作 | [Paper](https://arxiv.org/abs/2112.03227) | 用语言目标串联多个机器人技能的经典基准。 |
 | 10 | LIBERO | Manipulation tasks | [Site](https://libero-project.github.io/main.html) | Unknown | 持续学习与组合式机器人学习 | [Docs](https://libero-project.github.io/main.html) | 在 continual 与 compositional embodied learning 中很常见。 |
+| 11 | Matterport3D | Visual + 3D scenes | [Site](https://niessner.github.io/Matterport/) | Custom / access agreement | 室内三维场景理解与具身预训练 | [Paper](https://arxiv.org/abs/1709.06158) | 后续很多具身智能与三维场景 benchmark 都建立在它之上。 |
+| 12 | Room-to-Room (R2R) | Vision + language | [Site](https://bringmeaspoon.org/) | Mixed / task data + Matterport terms | 真实建筑中的视觉语言导航 | [Paper](https://arxiv.org/abs/1711.07280) | 它几乎就是 VLN 方向里最 canonical 的 benchmark。 |
+| 13 | Room-Across-Room (RxR) | Multilingual vision + language | [GitHub](https://github.com/google-research-datasets/RxR) | CC BY 4.0 | 多语言且密集标注的视觉语言导航 | [Paper](https://arxiv.org/abs/2010.07954) | 它把 VLN 从英文扩展到了多语言，并显著强化了时序 grounding。 |
 
 ## 相关评测
 

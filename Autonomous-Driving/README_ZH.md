@@ -20,6 +20,9 @@
 | 12 | OpenLane-V2 | Sensor + topology | [GitHub](https://github.com/OpenDriveLab/OpenLane-V2) | Unknown | 车道拓扑与结构化道路理解 | [Docs](https://github.com/OpenDriveLab/OpenLane-V2) | 面向车道、交通元素与拓扑关系推理的高信号 benchmark。 |
 | 13 | DriveLM | Vision + language | [GitHub](https://github.com/OpenDriveLab/DriveLM) | Unknown | 语言驱动的自动驾驶场景推理 | [Paper](https://arxiv.org/abs/2312.14150) | 自动驾驶场景中的 VLM 推理 benchmark 里最常见的一类资源。 |
 | 14 | Bench2Drive | Driving benchmark | [Site](https://thinklab-sjtu.github.io/Bench2Drive/) | Unknown | 闭环端到端驾驶评测 | [Paper](https://arxiv.org/abs/2406.03877) | 在 end-to-end driving 和 planning 对比中越来越常见。 |
+| 15 | SemanticKITTI | LiDAR | [Site](https://semantic-kitti.org/) | CC BY-NC-SA 4.0 | LiDAR 语义分割与场景补全 | [Paper](https://arxiv.org/abs/1904.01416) | 它几乎是自动驾驶 LiDAR segmentation 论文里的默认 benchmark。 |
+| 16 | KITTI-360 | Sensor + 3D scenes | [Site](https://www.cvlibs.net/datasets/kitti-360/) | CC BY-NC-SA 3.0 | 统一的 2D/3D 城市场景理解与建图 | [Paper](https://arxiv.org/abs/2109.13410) | 它是 KITTI 的后继级扩展，在感知、建图和 novel-view 任务中都很常见。 |
+| 17 | ApolloScape | Sensor | [GitHub](https://github.com/ApolloScapeAuto/dataset-api) | Unknown | 多任务自动驾驶感知与轨迹预测 | [Paper](https://arxiv.org/abs/1803.06184) | 官方 toolkit 仓库对应的是一个历史影响力很强的大规模自动驾驶数据家族。 |
 
 ## 相关评测
 
