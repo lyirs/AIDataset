@@ -41,6 +41,8 @@
 | 33 | DomainNet | Visual | [Site](http://ai.bu.edu/M3SDA/) | Non-commercial research / fair use notice | 多源域迁移与域泛化 | [Paper](https://arxiv.org/abs/1812.01754) | 六个视觉域组成的大规模跨域基准，在 transfer 论文里长期高频出现。 |
 | 34 | ImageNet-Sketch | Visual | [GitHub](https://github.com/HaohanWang/ImageNet-Sketch) | Unknown | 素描风格分布偏移评测 | [Paper](https://arxiv.org/abs/1905.13549) | 常和 ImageNet-A、R、V2、ObjectNet 一起出现在 robustness 对比表中。 |
 | 35 | Office-Home | Visual | [Site](https://www.hemanthdv.org/officeHomeDataset.html) | Non-commercial research / fair use notice | 域迁移与域泛化 | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Venkateswara_Deep_Hashing_Network_CVPR_2017_paper.html) | 四个视觉域组成的经典 benchmark，在 transfer learning 对比表里到现在仍然非常常见。 |
+| 36 | PACS | Visual | [Site](https://domaingeneralization.github.io/) | Unknown | 大风格偏移下的域泛化 | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html) | Art-Painting、Cartoon、Photo、Sketch 四域组成的 canonical DG benchmark，很多论文仍会优先报告它。 |
+| 37 | CompCars | Visual | [Site](https://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/) | Non-commercial research only | 细粒度车辆识别与属性预测 | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yang_A_Large-Scale_Car_2015_CVPR_paper.html) | 它提供车型、视角、部件和验证任务，是车辆视觉里长期高频使用的数据集。 |
 
 ## 相关评测
 

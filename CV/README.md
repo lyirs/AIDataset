@@ -41,6 +41,8 @@ Core image datasets for classification, detection, segmentation, scene understan
 | 33 | DomainNet | Visual | [Site](http://ai.bu.edu/M3SDA/) | Non-commercial research / fair use notice | Multi-source domain adaptation and domain generalization | [Paper](https://arxiv.org/abs/1812.01754) | A standard large-scale six-domain benchmark for cross-domain transfer. |
 | 34 | ImageNet-Sketch | Visual | [GitHub](https://github.com/HaohanWang/ImageNet-Sketch) | Unknown | Sketch-style distribution shift evaluation | [Paper](https://arxiv.org/abs/1905.13549) | Frequently reported alongside ImageNet-A, R, V2, and ObjectNet in robustness tables. |
 | 35 | Office-Home | Visual | [Site](https://www.hemanthdv.org/officeHomeDataset.html) | Non-commercial research / fair use notice | Domain adaptation and domain generalization | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Venkateswara_Deep_Hashing_Network_CVPR_2017_paper.html) | A long-running four-domain benchmark that still appears in transfer-learning comparison tables. |
+| 36 | PACS | Visual | [Site](https://domaingeneralization.github.io/) | Unknown | Domain generalization under large style shift | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/html/Li_Deeper_Broader_and_ICCV_2017_paper.html) | A canonical Art-Painting, Cartoon, Photo, Sketch benchmark that still anchors DG papers. |
+| 37 | CompCars | Visual | [Site](https://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/) | Non-commercial research only | Fine-grained vehicle recognition and attribute prediction | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yang_A_Large-Scale_Car_2015_CVPR_paper.html) | A long-running vehicle benchmark with viewpoints, parts, and verification tasks. |
 
 ## Related Benchmarks
 

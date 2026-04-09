@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 25 个分类目录
-- 430 条主条目
+- 432 条主条目
 - 链接整理与核验日期：2026-04-09
 
 ## 收录规则
@@ -24,7 +24,7 @@
 | 分类 | 方向说明 | 英文 | 中文 | 数量 |
 | --- | --- | --- | --- | --- |
 | 自然语言处理（NLP） | 文本方向数据集，覆盖 NER、QA、摘要、推理、分类、多语迁移与语言理解。 | [英文](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
-| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 35 |
+| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 37 |
 | 视频与三维（Video-3D） | 视频、第一视角、点云、3D 场景与形状数据。 | [英文](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
 | 自动驾驶（Autonomous-Driving） | 自动驾驶感知、三维检测、跟踪、预测、地图与协同感知数据。 | [英文](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 19 |
 | 遥感（Remote-Sensing） | 卫星、航拍、高空、多光谱、SAR 与地理空间制图数据。 | [英文](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 16 |

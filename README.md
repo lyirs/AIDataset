@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 430 primary entries
+- 432 primary entries
 - Links checked on 2026-04-09
 
 ## Inclusion Rules
@@ -24,7 +24,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Category | Focus | English | 中文 | Count |
 | --- | --- | --- | --- | --- |
 | NLP | Text datasets for NER, QA, summarization, reasoning, classification, multilingual transfer, and language understanding. | [Open](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
-| CV | Image datasets for classification, detection, segmentation, grounding, scene understanding, RGB-D perception, and fine-grained recognition. | [Open](CV/README.md) | [中文](CV/README_ZH.md) | 35 |
+| CV | Image datasets for classification, detection, segmentation, grounding, scene understanding, RGB-D perception, and fine-grained recognition. | [Open](CV/README.md) | [中文](CV/README_ZH.md) | 37 |
 | Video-3D | Video, egocentric, point-cloud, 3D scene, and shape datasets. | [Open](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
 | Autonomous-Driving | Driving perception, 3D detection, tracking, forecasting, mapping, and cooperative sensing datasets. | [Open](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 19 |
 | Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 16 |
