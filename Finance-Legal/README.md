@@ -18,6 +18,8 @@ Financial, regulatory, and legal-domain datasets for reasoning, extraction, clas
 | 10 | EUR-Lex | Multilingual | [Site](https://eur-lex.europa.eu/) | Unknown | Multilingual legislation retrieval and classification | [Docs](https://eur-lex.europa.eu/) | The canonical public source for EU legislation and multilingual legal text. |
 | 11 | TAT-QA | English | [GitHub](https://github.com/NExTplusplus/TAT-QA) | MIT | Financial table-text QA with arithmetic reasoning | [Paper](https://aclanthology.org/2021.acl-long.254/) | A strong complement to FinQA for financial reasoning over tables and narratives. |
 | 12 | MultiEURLEX | 23 EU languages | [GitHub](https://github.com/nlpaueb/multi-eurlex) | Unknown | Multilingual legal document classification | [Paper](https://aclanthology.org/2021.emnlp-main.559/) | Provides reusable multilingual legal classification splits beyond the raw EUR-Lex portal. |
+| 13 | MAUD | English | [Site](https://www.atticusprojectai.org/maud) | CC BY 4.0 | Merger agreement understanding and legal QA | [Paper](https://arxiv.org/abs/2301.00876) | A high-signal expert-annotated dataset for M&A contract reading and due-diligence style reasoning. |
+| 14 | LegalBench | English | [GitHub](https://github.com/HazyResearch/legalbench) | Mixed / task-specific | Broad legal reasoning benchmarking | [Paper](https://arxiv.org/abs/2209.06120) | The most visible open benchmark suite for diverse legal reasoning tasks with LLMs. |
 
 ## Related Benchmarks
 
@@ -25,6 +27,7 @@ Financial, regulatory, and legal-domain datasets for reasoning, extraction, clas
 - [Search-Retrieval overview](../Search-Retrieval/README.md)
 - [LexGLUE](https://github.com/coastalcph/lex-glue)
 - [LegalBench](https://github.com/HazyResearch/legalbench)
+- [MAUD](https://www.atticusprojectai.org/maud)
 
 ## Selection Note
 

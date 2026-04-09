@@ -18,6 +18,8 @@
 | 10 | EUR-Lex | Multilingual | [Site](https://eur-lex.europa.eu/) | Unknown | 多语言法规检索与分类 | [Docs](https://eur-lex.europa.eu/) | 欧盟法规与多语言法律文本最 canonical 的公共来源。 |
 | 11 | TAT-QA | English | [GitHub](https://github.com/NExTplusplus/TAT-QA) | MIT | 金融表格文本问答与算术推理 | [Paper](https://aclanthology.org/2021.acl-long.254/) | 是 FinQA 之外最常见的金融表格与叙述联合推理 benchmark 之一。 |
 | 12 | MultiEURLEX | 23 EU languages | [GitHub](https://github.com/nlpaueb/multi-eurlex) | Unknown | 多语言法律文档分类 | [Paper](https://aclanthology.org/2021.emnlp-main.559/) | 相比原始 EUR-Lex 门户，它提供了可直接复用的多语多标签法律分类划分。 |
+| 13 | MAUD | English | [Site](https://www.atticusprojectai.org/maud) | CC BY 4.0 | 并购协议理解与法律问答 | [Paper](https://arxiv.org/abs/2301.00876) | 这是并购合同阅读、尽调和条款理解里很高信号的专家标注数据集。 |
+| 14 | LegalBench | English | [GitHub](https://github.com/HazyResearch/legalbench) | Mixed / task-specific | 广谱法律推理评测 | [Paper](https://arxiv.org/abs/2209.06120) | 当前最有代表性的开放法律推理 benchmark suite 之一，覆盖多种法律任务。 |
 
 ## 相关评测
 
@@ -25,6 +27,7 @@
 - [Search-Retrieval 总览](../Search-Retrieval/README_ZH.md)
 - [LexGLUE](https://github.com/coastalcph/lex-glue)
 - [LegalBench](https://github.com/HazyResearch/legalbench)
+- [MAUD](https://www.atticusprojectai.org/maud)
 
 ## 收录说明
 

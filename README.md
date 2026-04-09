@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 390 primary entries
+- 394 primary entries
 - Links checked on 2026-04-09
 
 ## Inclusion Rules
@@ -35,7 +35,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Document-AI | OCR, layout analysis, forms, receipts, tables, charts, and document QA datasets. | [Open](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 20 |
 | Code | Code generation, repair, execution, repository understanding, and software engineering agent datasets. | [Open](Code/README.md) | [中文](Code/README_ZH.md) | 16 |
 | Search-Retrieval | Embedding, retrieval, reranking, multilingual IR, RAG grounding, and multimodal or audio-text retrieval datasets. | [Open](Search-Retrieval/README.md) | [中文](Search-Retrieval/README_ZH.md) | 18 |
-| Graph-Learning | Node, link, graph-level, molecular, and knowledge graph datasets for graph machine learning. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 10 |
+| Graph-Learning | Node, link, graph-level, molecular, knowledge, heterogeneous, and temporal graph datasets. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 12 |
 | Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 12 |
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 12 |
 | LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 21 |
@@ -44,7 +44,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Embodied-AI | Embodied navigation, instruction following, egocentric perception, and language-conditioned behavior datasets. | [Open](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 10 |
 | Scientific-AI | Molecule, protein, material, reaction, and scientific literature datasets. | [Open](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 18 |
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 20 |
-| Finance-Legal | Finance, regulation, legal reasoning, extraction, filing analysis, and compliance datasets. | [Open](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 12 |
+| Finance-Legal | Finance, regulation, legal reasoning, extraction, filing analysis, contract understanding, and compliance datasets. | [Open](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
 | Benchmarks | Cross-domain evaluation suites for NLP, CV, multimodal systems, retrieval, code, agents, and general platforms. | [Open](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 12 |
 | Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
 | Safety-Evals | Safety eval suites, risk taxonomies, red-teaming collections, and agent safety resources. | [Open](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 7 |

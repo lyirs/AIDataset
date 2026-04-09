@@ -16,6 +16,8 @@ Datasets, archives, and benchmark suites for node classification, link predictio
 | 8 | Long Range Graph Benchmark (LRGB) | Graphs | [GitHub](https://github.com/vijaydwivedi75/lrgb) | Mixed / source-specific | Long-range graph reasoning | [Paper](https://arxiv.org/abs/2206.08164) | Focuses on long-range dependencies that challenge local message-passing GNNs. |
 | 9 | MoleculeNet | Molecular graphs | [GitHub](https://github.com/deepchem/moleculenet) | Mixed / source-specific | Molecular property prediction | [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00083) | Benchmark suite spanning QM, biophysics, and physiology tasks with multiple split strategies. |
 | 10 | ZINC | Molecular graphs | [Site](https://zinc.docking.org/) | Unknown | Molecular graph regression and generation | [Docs](https://zinc.docking.org/) | Small ZINC subsets remain standard in graph regression and graph generation papers. |
+| 11 | Temporal Graph Benchmark (TGB) | Temporal graphs | [Site](https://tgb.complexdatalab.com/) | Mixed / source-specific | Temporal link prediction and dynamic graph learning | [Paper](https://arxiv.org/abs/2307.01026) | The clearest modern benchmark family for realistic machine learning on temporal graphs. |
+| 12 | Heterogeneous Graph Benchmark (HGB) | Heterogeneous graphs | [GitHub](https://github.com/THUDM/HGB) | Mixed / source-specific | Heterogeneous graph learning and evaluation | [Paper](https://arxiv.org/abs/2112.14936) | A standard benchmark suite for heterogenous node classification, link prediction, and recommendation-style tasks. |
 
 ## Related Benchmarks
 
@@ -23,6 +25,7 @@ Datasets, archives, and benchmark suites for node classification, link predictio
 - [Open Graph Benchmark](https://ogb.stanford.edu/)
 - [OGB-LSC](https://ogb.stanford.edu/docs/lsc/)
 - [Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
+- [Temporal Graph Benchmark](https://tgb.complexdatalab.com/)
 
 ## Selection Note
 

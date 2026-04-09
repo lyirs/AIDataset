@@ -16,6 +16,8 @@
 | 8 | Long Range Graph Benchmark (LRGB) | Graphs | [GitHub](https://github.com/vijaydwivedi75/lrgb) | Mixed / source-specific | 长距离图推理 | [Paper](https://arxiv.org/abs/2206.08164) | 专门考察长距离依赖，对局部 message passing 模型更有挑战。 |
 | 9 | MoleculeNet | Molecular graphs | [GitHub](https://github.com/deepchem/moleculenet) | Mixed / source-specific | 分子性质预测 | [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00083) | 覆盖量子化学、生物物理和生理等任务，是分子图学习的常用套件。 |
 | 10 | ZINC | Molecular graphs | [Site](https://zinc.docking.org/) | Unknown | 分子图回归与生成 | [Docs](https://zinc.docking.org/) | 小型 ZINC 子集至今仍是图回归和分子生成论文里的常见基准。 |
+| 11 | Temporal Graph Benchmark (TGB) | Temporal graphs | [Site](https://tgb.complexdatalab.com/) | Mixed / source-specific | 时序链路预测与动态图学习 | [Paper](https://arxiv.org/abs/2307.01026) | 这是当前最清晰、最现代的一类真实时序图学习 benchmark 家族。 |
+| 12 | Heterogeneous Graph Benchmark (HGB) | Heterogeneous graphs | [GitHub](https://github.com/THUDM/HGB) | Mixed / source-specific | 异构图学习与评测 | [Paper](https://arxiv.org/abs/2112.14936) | 异构节点分类、链路预测和推荐式任务里很常见的标准 benchmark suite。 |
 
 ## 相关评测
 
@@ -23,6 +25,7 @@
 - [Open Graph Benchmark](https://ogb.stanford.edu/)
 - [OGB-LSC](https://ogb.stanford.edu/docs/lsc/)
 - [Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
+- [Temporal Graph Benchmark](https://tgb.complexdatalab.com/)
 
 ## 收录说明
 
