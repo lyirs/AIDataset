@@ -20,6 +20,7 @@ Datasets for overhead imagery, satellite scene understanding, aerial detection, 
 | 12 | SatlasPretrain | Satellite imagery | [Site](https://satlas-pretrain.allen.ai/) | Unknown | Large-scale remote-sensing pretraining | [Paper](https://arxiv.org/abs/2211.15660) | A high-signal pretraining corpus for recent earth-observation foundation models. |
 | 13 | MMEarth | Multimodal Earth observation | [GitHub](https://github.com/vishalned/MMEarth-data) | Unknown | Sensor-rich multimodal geospatial pretraining | [Paper](https://arxiv.org/abs/2405.02771) | Adds a newer multimodal earth-observation resource with richer sensor coverage. |
 | 14 | xBD / xView2 | Disaster imagery | [Site](https://xview2.org/dataset) | Unknown | Disaster damage assessment and building-level change analysis | [Paper](https://arxiv.org/abs/1911.09296) | Still the default open benchmark for satellite-based disaster-response modeling. |
+| 15 | ISPRS 2D Semantic Labeling (Vaihingen / Potsdam) | Aerial imagery | [Site](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) | Unknown | Urban aerial semantic segmentation | [Docs](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) | A long-running canonical benchmark pair for high-resolution remote-sensing segmentation. |
 
 ## Related Benchmarks
 

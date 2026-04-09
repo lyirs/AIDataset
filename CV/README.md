@@ -37,6 +37,9 @@ Core image datasets for classification, detection, segmentation, scene understan
 | 29 | ImageNet-R | Visual | [GitHub](https://github.com/hendrycks/imagenet-r) | MIT | Rendition shift robustness evaluation | [Paper](https://arxiv.org/abs/2006.16241) | Commonly reported in CLIP, ViT, and robustness comparison tables. |
 | 30 | FGVC-Aircraft | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) | Non-commercial research only | Fine-grained aircraft recognition | [Paper](https://arxiv.org/abs/1306.5151) | A canonical FGVC benchmark alongside birds, pets, and flowers. |
 | 31 | DTD | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Research only / custom | Texture recognition and material-style representation learning | [Paper](https://arxiv.org/abs/1311.3618) | Still common in texture, transfer, and representation-learning papers. |
+| 32 | VisDA-2017 | Visual | [Site](http://ai.bu.edu/visda-2017/) | Unknown | Synthetic-to-real domain adaptation | [Paper](https://arxiv.org/abs/1710.06924) | The canonical large-scale benchmark for visual domain adaptation from simulation to reality. |
+| 33 | DomainNet | Visual | [Site](http://ai.bu.edu/M3SDA/) | Non-commercial research / fair use notice | Multi-source domain adaptation and domain generalization | [Paper](https://arxiv.org/abs/1812.01754) | A standard large-scale six-domain benchmark for cross-domain transfer. |
+| 34 | ImageNet-Sketch | Visual | [GitHub](https://github.com/HaohanWang/ImageNet-Sketch) | Unknown | Sketch-style distribution shift evaluation | [Paper](https://arxiv.org/abs/1905.13549) | Frequently reported alongside ImageNet-A, R, V2, and ObjectNet in robustness tables. |
 
 ## Related Benchmarks
 

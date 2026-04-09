@@ -37,6 +37,9 @@
 | 29 | ImageNet-R | Visual | [GitHub](https://github.com/hendrycks/imagenet-r) | MIT | 渲染分布偏移鲁棒性评测 | [Paper](https://arxiv.org/abs/2006.16241) | 在 CLIP、ViT 和 robustness 对比表里非常常见。 |
 | 30 | FGVC-Aircraft | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) | Non-commercial research only | 细粒度飞机识别 | [Paper](https://arxiv.org/abs/1306.5151) | 和 birds、pets、flowers 一样，属于细粒度识别里的 canonical 数据集。 |
 | 31 | DTD | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Research only / custom | 纹理识别与材质表征学习 | [Paper](https://arxiv.org/abs/1311.3618) | 在纹理识别、迁移学习和表征学习论文里仍然很常见。 |
+| 32 | VisDA-2017 | Visual | [Site](http://ai.bu.edu/visda-2017/) | Unknown | 合成到真实域迁移 | [Paper](https://arxiv.org/abs/1710.06924) | 它是视觉领域 simulation-to-reality domain adaptation 最经典的大规模 benchmark 之一。 |
+| 33 | DomainNet | Visual | [Site](http://ai.bu.edu/M3SDA/) | Non-commercial research / fair use notice | 多源域迁移与域泛化 | [Paper](https://arxiv.org/abs/1812.01754) | 六个视觉域组成的大规模跨域基准，在 transfer 论文里长期高频出现。 |
+| 34 | ImageNet-Sketch | Visual | [GitHub](https://github.com/HaohanWang/ImageNet-Sketch) | Unknown | 素描风格分布偏移评测 | [Paper](https://arxiv.org/abs/1905.13549) | 常和 ImageNet-A、R、V2、ObjectNet 一起出现在 robustness 对比表中。 |
 
 ## 相关评测
 
