@@ -22,6 +22,7 @@
 | 14 | xBD / xView2 | Disaster imagery | [Site](https://xview2.org/dataset) | Unknown | 灾害损伤评估与建筑级变化分析 | [Paper](https://arxiv.org/abs/1911.09296) | 目前仍是卫星灾后响应建模里最常见的开放 benchmark。 |
 | 15 | ISPRS 2D Semantic Labeling (Vaihingen / Potsdam) | Aerial imagery | [Site](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) | Unknown | 城市航拍语义分割 | [Docs](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) | 这是高分辨率遥感分割方向持续多年的 canonical benchmark 组合。 |
 | 16 | UAVid | UAV imagery | [Site](https://uavid.nl/) | CC BY-NC-SA 4.0 | 无人机城市场景语义分割 | [Paper](https://doi.org/10.1016/j.isprsjprs.2020.05.009) | 在 UAV 语义分割与低空遥感论文里，它属于最常被复用的 benchmark 之一。 |
+| 17 | Inria Aerial Image Labeling | Aerial imagery | [Site](https://project.inria.fr/aerialimagelabeling/) | Unknown | 航拍建筑物轮廓分割 | [Paper](https://doi.org/10.1109/IGARSS.2017.8127684) | 它是高分辨率建筑提取与跨城市泛化研究中最经典的 benchmark 之一。 |
 
 ## 相关评测
 

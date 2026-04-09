@@ -22,6 +22,8 @@
 | 14 | MathVista | Multimodal | [Site](https://mathvista.github.io/) | CC BY-SA 4.0 | 视觉数学推理评测 | [Paper](https://arxiv.org/abs/2310.02255) | 现在几乎已经成了多模态数学推理对比表里的默认 benchmark。 |
 | 15 | Video-MME | Video + language | [Site](https://video-mme.github.io/home_page.html) | Unknown | 通用视频语言模型评测 | [Paper](https://arxiv.org/abs/2405.21075) | 近两年比较视频大模型时最常出现的 benchmark 之一。 |
 | 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | 交互环境中的 Agent 评测 | [Paper](https://arxiv.org/abs/2308.03688) | 它是“把 LLM 当 Agent 来评测”这条线里最经典的早期 benchmark 之一。 |
+| 17 | WILDS | Multidomain | [Site](https://wilds.stanford.edu/datasets/) | Mixed / dataset-specific | 真实世界分布偏移评测 | [Paper](https://arxiv.org/abs/2012.07421) | 它是评估 in-the-wild distribution shift 的标准 benchmark suite，覆盖视觉、语言和生物等多类任务。 |
+| 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | 标准化对抗鲁棒性评测 | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | 它是现代视觉鲁棒性论文里最常用的开放 benchmark 和 leaderboard 之一。 |
 
 ## 额外交叉索引
 
@@ -31,6 +33,8 @@
 - [Video-MME](https://video-mme.github.io/home_page.html)
 - [BRIGHT](https://brightbenchmark.github.io/)
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
+- [WILDS](https://wilds.stanford.edu/datasets/)
+- [RobustBench](https://robustbench.github.io/)
 - [CRAG](../Search-Retrieval/README_ZH.md)
 - [RealMMRAg](../Search-Retrieval/README_ZH.md)
 - [AfriMTEB](../Search-Retrieval/README_ZH.md)

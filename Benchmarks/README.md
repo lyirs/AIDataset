@@ -22,6 +22,8 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 | 14 | MathVista | Multimodal | [Site](https://mathvista.github.io/) | CC BY-SA 4.0 | Visual mathematical reasoning evaluation | [Paper](https://arxiv.org/abs/2310.02255) | Now a near-default benchmark for math-heavy multimodal reasoning tables. |
 | 15 | Video-MME | Video + language | [Site](https://video-mme.github.io/home_page.html) | Unknown | General video-language model evaluation | [Paper](https://arxiv.org/abs/2405.21075) | A standard recent benchmark for comparing video-LLMs across broad capability slices. |
 | 16 | AgentBench | English / environments | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 (benchmark repo) / mixed task backends | Agent benchmarking across interactive environments | [Paper](https://arxiv.org/abs/2308.03688) | A canonical early benchmark for treating LLMs as agents rather than static chatbots. |
+| 17 | WILDS | Multidomain | [Site](https://wilds.stanford.edu/datasets/) | Mixed / dataset-specific | Real-world distribution shift benchmarking | [Paper](https://arxiv.org/abs/2012.07421) | A standard suite for evaluating robustness under in-the-wild distribution shifts across vision, language, and biology tasks. |
+| 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | Standardized adversarial robustness benchmarking | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | The de facto open benchmark and leaderboard for adversarial robustness in modern vision papers. |
 
 ## Additional Cross-References
 
@@ -31,6 +33,8 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 - [Video-MME](https://video-mme.github.io/home_page.html)
 - [BRIGHT](https://brightbenchmark.github.io/)
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
+- [WILDS](https://wilds.stanford.edu/datasets/)
+- [RobustBench](https://robustbench.github.io/)
 - [CRAG](../Search-Retrieval/README.md)
 - [RealMMRAg](../Search-Retrieval/README.md)
 - [AfriMTEB](../Search-Retrieval/README.md)

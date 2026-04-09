@@ -25,6 +25,9 @@
 | 17 | ApolloScape | Sensor | [GitHub](https://github.com/ApolloScapeAuto/dataset-api) | Unknown | 多任务自动驾驶感知与轨迹预测 | [Paper](https://arxiv.org/abs/1803.06184) | 官方 toolkit 仓库对应的是一个历史影响力很强的大规模自动驾驶数据家族。 |
 | 18 | Talk2Car | Vision + language | [Site](https://talk2car.github.io/) | CC BY-NC-SA 4.0 | 语言驱动的驾驶指令 grounding | [Paper](https://arxiv.org/abs/1909.10838) | 它是把乘客自然语言指令对齐到真实驾驶场景中的经典 benchmark。 |
 | 19 | BDD-X | Vision + language | [GitHub](https://github.com/JinkyuKimUCB/BDD-X-dataset) | Research / educational / non-profit only | 可解释自动驾驶决策与文本解释 | [Paper](https://arxiv.org/abs/1807.11546) | 它是自动驾驶动作解释和文本 justification 方向里最有代表性的 benchmark 之一。 |
+| 20 | GTA5 | Synthetic urban scenes | [Site](https://download.visinf.tu-darmstadt.de/data/from_games/) | Research and educational use only | 合成到真实街景分割迁移 | [Paper](https://arxiv.org/abs/1608.02192) | GTA5 到 Cityscapes 这组设置至今仍是自动驾驶域迁移论文里的经典对比基线。 |
+| 21 | SHIFT | Synthetic driving | [GitHub](https://github.com/SysCV/shift-dev) | Custom / research-use terms | 面向驾驶场景的可控分布偏移评测 | [Paper](https://arxiv.org/abs/2206.08367) | 它是近年自动驾驶里评估天气、昼夜和交通分布偏移最强信号的一类 benchmark。 |
+| 22 | NAVSIM | Simulation benchmark | [GitHub](https://github.com/autonomousvision/navsim) | Apache-2.0 (benchmark repo) / mixed source datasets | 基于仿真的端到端驾驶评测 | [Paper](https://arxiv.org/abs/2406.15349) | 它是近两年闭环 end-to-end driving 与 planning 对比中很高频的仿真 benchmark。 |
 
 ## 相关评测
 

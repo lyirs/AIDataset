@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 432 primary entries
+- 438 primary entries
 - Links checked on 2026-04-09
 
 ## Inclusion Rules
@@ -26,8 +26,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | NLP | Text datasets for NER, QA, summarization, reasoning, classification, multilingual transfer, and language understanding. | [Open](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
 | CV | Image datasets for classification, detection, segmentation, grounding, scene understanding, RGB-D perception, and fine-grained recognition. | [Open](CV/README.md) | [中文](CV/README_ZH.md) | 37 |
 | Video-3D | Video, egocentric, point-cloud, 3D scene, and shape datasets. | [Open](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
-| Autonomous-Driving | Driving perception, 3D detection, tracking, forecasting, mapping, and cooperative sensing datasets. | [Open](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 19 |
-| Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 16 |
+| Autonomous-Driving | Driving perception, 3D detection, tracking, forecasting, mapping, and cooperative sensing datasets. | [Open](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 22 |
+| Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 17 |
 | Multimodal | Vision-language, VQA, chart and OCR-grounded reasoning, image-text alignment, and multimodal instruction datasets. | [Open](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 21 |
 | Speech-Audio | ASR, speech translation, speaker or language ID, speech emotion, and speech generation datasets. | [Open](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 19 |
 | Audio-Understanding | Sound events, audio captioning, audio-language learning, and audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 13 |
@@ -45,7 +45,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Scientific-AI | Molecule, protein, material, reaction, and scientific literature datasets. | [Open](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 18 |
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 21 |
 | Finance-Legal | Finance, regulation, legal reasoning, extraction, filing analysis, contract understanding, and compliance datasets. | [Open](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
-| Benchmarks | Cross-domain evaluation suites for NLP, CV, multimodal systems, retrieval, code, agents, and general platforms. | [Open](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 16 |
+| Benchmarks | Cross-domain evaluation suites for NLP, CV, multimodal systems, retrieval, code, agents, and general platforms. | [Open](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 18 |
 | Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
 | Safety-Evals | Safety eval suites, risk taxonomies, red-teaming collections, and agent safety resources. | [Open](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 10 |
 
