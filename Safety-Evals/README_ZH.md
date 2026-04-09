@@ -13,6 +13,9 @@
 | 5 | Agent-Action-Guard | English | [GitHub](https://github.com/Pro-GenAI/Agent-Action-Guard) | Unknown | 工具型 Agent 的防护与审计 | [Docs](https://github.com/Pro-GenAI/Agent-Action-Guard) | 与 HarmActionsEval 高度相关，偏实战防护。 |
 | 6 | HarmBench | English | [GitHub](https://github.com/centerforaisafety/HarmBench) | MIT | 标准化 LLM 有害性与拒答评测 | [Docs](https://github.com/centerforaisafety/HarmBench) | 自动化 red teaming 与 robust refusal 测试中的高信号 benchmark。 |
 | 7 | JailbreakBench | English | [GitHub](https://github.com/JailbreakBench/jailbreakbench) | MIT | 越狱鲁棒性评测 | [Docs](https://github.com/JailbreakBench/jailbreakbench) | 强调跨模型、跨攻击方式的可复现 jailbreak 评测。 |
+| 8 | SafetyBench | Chinese/English | [GitHub](https://github.com/thu-coai/SafetyBench) | MIT | 中英双语 LLM 安全 benchmark 评测 | [Paper](https://arxiv.org/abs/2309.07045) | ACL 方向里很有代表性的安全 benchmark，同时覆盖中文和英文选择题。 |
+| 9 | AgentDojo | English | [GitHub](https://github.com/ethz-spylab/agentdojo) | MIT | Agent 提示注入攻击与防御评测 | [Paper](https://openreview.net/forum?id=m1YYAQjO3w) | 它是目前最清晰、最官方的 agent security 与 tool-use defense benchmark 之一。 |
+| 10 | StrongREJECT | English | [GitHub](https://github.com/dsbowen/strong_reject) | Mixed / source-specific | 越狱 benchmark 与有害提示评测 | [Paper](https://arxiv.org/abs/2402.10260) | 信号很强的越狱评测资源，但提示来源混合了原创与既有数据集，许可需要保守处理。 |
 
 ## 说明
 

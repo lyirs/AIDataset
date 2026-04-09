@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 25 个分类目录
-- 394 条主条目
+- 401 条主条目
 - 链接整理与核验日期：2026-04-09
 
 ## 收录规则
@@ -24,7 +24,7 @@
 | 分类 | 方向说明 | 英文 | 中文 | 数量 |
 | --- | --- | --- | --- | --- |
 | 自然语言处理（NLP） | 文本方向数据集，覆盖 NER、QA、摘要、推理、分类、多语迁移与语言理解。 | [英文](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
-| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 27 |
+| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 31 |
 | 视频与三维（Video-3D） | 视频、第一视角、点云、3D 场景与形状数据。 | [英文](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
 | 自动驾驶（Autonomous-Driving） | 自动驾驶感知、三维检测、跟踪、预测、地图与协同感知数据。 | [英文](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 14 |
 | 遥感（Remote-Sensing） | 卫星、航拍、高空、多光谱、SAR 与地理空间制图数据。 | [英文](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 14 |
@@ -47,7 +47,7 @@
 | 金融与法律（Finance-Legal） | 金融、监管、法律推理、抽取、文件分析、合同理解与合规数据。 | [英文](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
 | 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 12 |
 | 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
-| 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 7 |
+| 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 10 |
 
 ## 来源类型
 

@@ -13,6 +13,9 @@ Safety-focused eval registries, benchmark suites, and failure taxonomies for LLM
 | 5 | Agent-Action-Guard | English | [GitHub](https://github.com/Pro-GenAI/Agent-Action-Guard) | Unknown | Guarding and auditing tool-using agents | [Docs](https://github.com/Pro-GenAI/Agent-Action-Guard) | Closely related to HarmActionsEval and practical agent safety testing. |
 | 6 | HarmBench | English | [GitHub](https://github.com/centerforaisafety/HarmBench) | MIT | Standardized LLM harm and refusal evaluation | [Docs](https://github.com/centerforaisafety/HarmBench) | A high-signal benchmark for automated red teaming and robust refusal testing. |
 | 7 | JailbreakBench | English | [GitHub](https://github.com/JailbreakBench/jailbreakbench) | MIT | Jailbreak robustness evaluation | [Docs](https://github.com/JailbreakBench/jailbreakbench) | Focuses on reproducible jailbreak evaluation across models and attacks. |
+| 8 | SafetyBench | Chinese/English | [GitHub](https://github.com/thu-coai/SafetyBench) | MIT | Bilingual LLM safety benchmark evaluation | [Paper](https://arxiv.org/abs/2309.07045) | A widely cited ACL-era safety benchmark with both Chinese and English multiple-choice tests. |
+| 9 | AgentDojo | English | [GitHub](https://github.com/ethz-spylab/agentdojo) | MIT | Prompt-injection attack and defense evaluation for agents | [Paper](https://openreview.net/forum?id=m1YYAQjO3w) | One of the clearest official benchmarks for agent security and tool-use defenses. |
+| 10 | StrongREJECT | English | [GitHub](https://github.com/dsbowen/strong_reject) | Mixed / source-specific | Jailbreak benchmarking and harmful prompt evaluation | [Paper](https://arxiv.org/abs/2402.10260) | High-signal jailbreak benchmark; prompt sources mix original and prior datasets with different terms. |
 
 ## Notes
 

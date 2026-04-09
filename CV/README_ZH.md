@@ -33,6 +33,10 @@
 | 25 | ObjectNet | Visual | [Site](https://objectnet.dev/) | Unknown | 去偏置的真实世界识别偏移评测 | [Paper](https://papers.neurips.cc/paper_files/paper/2019/file/97af07a14cacba681feacf3012730892-Paper.pdf) | 很适合检验视角、背景变化下的真实识别能力。 |
 | 26 | V3Det | Visual | [Site](https://v3det.openxlab.org.cn/) | Unknown | 开放词表目标检测 | [Paper](https://arxiv.org/abs/2304.03752) | 面向现代 open-world perception 的大类别检测 benchmark，近年引用频率很高。 |
 | 27 | PACO | Visual | [GitHub](https://github.com/facebookresearch/paco) | Unknown | 部件与属性识别 | [Paper](https://arxiv.org/abs/2301.01795) | 让视觉感知从框和掩码进一步扩展到物体部件与属性层面。 |
+| 28 | ImageNet-A | Visual | [GitHub](https://github.com/hendrycks/natural-adv-examples) | MIT | 自然对抗鲁棒性评测 | [Paper](https://arxiv.org/abs/1907.07174) | 它是很多 ImageNet 系模型在合成腐蚀之外的标准压力测试。 |
+| 29 | ImageNet-R | Visual | [GitHub](https://github.com/hendrycks/imagenet-r) | MIT | 渲染分布偏移鲁棒性评测 | [Paper](https://arxiv.org/abs/2006.16241) | 在 CLIP、ViT 和 robustness 对比表里非常常见。 |
+| 30 | FGVC-Aircraft | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) | Non-commercial research only | 细粒度飞机识别 | [Paper](https://arxiv.org/abs/1306.5151) | 和 birds、pets、flowers 一样，属于细粒度识别里的 canonical 数据集。 |
+| 31 | DTD | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Research only / custom | 纹理识别与材质表征学习 | [Paper](https://arxiv.org/abs/1311.3618) | 在纹理识别、迁移学习和表征学习论文里仍然很常见。 |
 
 ## 相关评测
 

@@ -33,6 +33,10 @@ Core image datasets for classification, detection, segmentation, scene understan
 | 25 | ObjectNet | Visual | [Site](https://objectnet.dev/) | Unknown | Bias-controlled real-world recognition shift | [Paper](https://papers.neurips.cc/paper_files/paper/2019/file/97af07a14cacba681feacf3012730892-Paper.pdf) | A strong test of viewpoint and background shift for real-world object recognition. |
 | 26 | V3Det | Visual | [Site](https://v3det.openxlab.org.cn/) | Unknown | Open-vocabulary object detection | [Paper](https://arxiv.org/abs/2304.03752) | A high-signal large-category detection benchmark for modern open-world perception. |
 | 27 | PACO | Visual | [GitHub](https://github.com/facebookresearch/paco) | Unknown | Part and attribute recognition | [Paper](https://arxiv.org/abs/2301.01795) | Expands beyond boxes and masks toward richer object-part and attribute reasoning. |
+| 28 | ImageNet-A | Visual | [GitHub](https://github.com/hendrycks/natural-adv-examples) | MIT | Natural adversarial robustness evaluation | [Paper](https://arxiv.org/abs/1907.07174) | A standard post-ImageNet stress test beyond synthetic corruptions. |
+| 29 | ImageNet-R | Visual | [GitHub](https://github.com/hendrycks/imagenet-r) | MIT | Rendition shift robustness evaluation | [Paper](https://arxiv.org/abs/2006.16241) | Commonly reported in CLIP, ViT, and robustness comparison tables. |
+| 30 | FGVC-Aircraft | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) | Non-commercial research only | Fine-grained aircraft recognition | [Paper](https://arxiv.org/abs/1306.5151) | A canonical FGVC benchmark alongside birds, pets, and flowers. |
+| 31 | DTD | Visual | [Site](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Research only / custom | Texture recognition and material-style representation learning | [Paper](https://arxiv.org/abs/1311.3618) | Still common in texture, transfer, and representation-learning papers. |
 
 ## Related Benchmarks
 
