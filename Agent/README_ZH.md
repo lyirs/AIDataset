@@ -26,6 +26,7 @@
 | 18 | tau2-bench | English | [GitHub](https://github.com/sierra-research/tau2-bench) | MIT | 双控制环境下的工具代理交互 | [Paper](https://arxiv.org/abs/2506.07982) | 相比 tau-bench 更新，强调协同、约束和真实策略交互。 |
 | 19 | BrowseComp | English | [Site](https://openai.com/index/browsecomp/) | Unknown | 高难网页浏览与多跳事实定位 | [Paper](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) | OpenAI 官方浏览代理 benchmark，强调持续搜索和难定位事实。 |
 | 20 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | 机器学习工程 agent 评测 | [Paper](https://arxiv.org/abs/2410.07095) | 面向端到端 ML engineering workflow 的高信号 agent benchmark。 |
+| 21 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | 函数调用与交互式编码 Agent | [Paper](https://arxiv.org/abs/2407.18901) | 它是 ACL 方向里很强的一类 benchmark，强调多应用执行、有状态工具使用和交互式代码生成。 |
 
 ## 相关评测
 

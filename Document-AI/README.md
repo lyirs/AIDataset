@@ -26,6 +26,7 @@ OCR, layout parsing, receipt understanding, chart reasoning, and document questi
 | 18 | DocILE | Business documents | [Site](https://docile.rossum.ai/) | Custom / access-controlled terms | Business document information extraction | [Paper](https://arxiv.org/abs/2302.05658) | High-signal benchmark for invoices, orders, and line-item extraction. |
 | 19 | OmniDocBench | Multilingual documents | [GitHub](https://github.com/opendatalab/OmniDocBench) | Unknown | PDF parsing and end-to-end document understanding | [Paper](https://arxiv.org/abs/2412.07626) | A strong 2025-era benchmark for modern document foundation models. |
 | 20 | OCRBench v2 | Bilingual | [Site](https://99franklin.github.io/ocrbench_v2/) | Unknown | OCR-centric multimodal evaluation | [Paper](https://arxiv.org/abs/2501.00321) | A newer large bilingual benchmark for text localization, recognition, and reasoning. |
+| 21 | SlideVQA | English | [GitHub](https://github.com/nttmdlab-nlp/SlideVQA) | Evaluation license | Multi-image document visual question answering | [Paper](https://arxiv.org/abs/2301.04883) | A high-signal benchmark for reasoning across slide decks rather than single-page documents. |
 
 ## Related Benchmarks
 

@@ -26,6 +26,7 @@
 | 18 | DocILE | Business documents | [Site](https://docile.rossum.ai/) | Custom / access-controlled terms | 商业文档信息抽取 | [Paper](https://arxiv.org/abs/2302.05658) | 发票、订单和 line-item 抽取方向里信号很强的 benchmark。 |
 | 19 | OmniDocBench | Multilingual documents | [GitHub](https://github.com/opendatalab/OmniDocBench) | Unknown | PDF 解析与端到端文档理解 | [Paper](https://arxiv.org/abs/2412.07626) | 2025 年后文档基础模型评测里非常值得保留的一类新 benchmark。 |
 | 20 | OCRBench v2 | Bilingual | [Site](https://99franklin.github.io/ocrbench_v2/) | Unknown | OCR 导向的多模态评测 | [Paper](https://arxiv.org/abs/2501.00321) | 覆盖文本定位、识别和推理的新一代大规模双语 benchmark。 |
+| 21 | SlideVQA | English | [GitHub](https://github.com/nttmdlab-nlp/SlideVQA) | Evaluation license | 多页幻灯片文档视觉问答 | [Paper](https://arxiv.org/abs/2301.04883) | 它强调跨整套 slide deck 的推理，而不是单页文档理解。 |
 
 ## 相关评测
 

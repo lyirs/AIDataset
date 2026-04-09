@@ -26,6 +26,7 @@ Clinical, biomedical, imaging, and healthcare-focused datasets with careful atte
 | 18 | LIDC-IDRI | Medical imaging | [Site](https://www.cancerimagingarchive.net/collection/lidc-idri/) | CC BY 3.0 | Lung nodule detection and segmentation | [Docs](https://www.cancerimagingarchive.net/collection/lidc-idri/) | A canonical public CT benchmark for lung nodule detection, annotation, and CAD research. |
 | 19 | UK Biobank | Biomedical multimodal data | [Site](https://www.ukbiobank.ac.uk/about-us/how-we-work/access-to-uk-biobank-data/) | Custom / application-based access | Population-scale health modeling | [Docs](https://www.ukbiobank.ac.uk/use-our-data/apply-for-access/) | One of the most important large-scale biomedical resources, but access is application-gated. |
 | 20 | PadChest | Spanish radiology + images | [Site](https://bimcv.cipf.es/bimcv-projects/padchest/) | Custom / research use agreement | Chest radiology vision-language learning | [Docs](https://bimcv.cipf.es/bimcv-projects/padchest/padchest-dataset-research-use-agreement/) | A high-signal chest X-ray dataset with reports and rich labels from Spanish radiology practice. |
+| 21 | VinDr-CXR | English | [Site](https://physionet.org/content/vindr-cxr/) | Credentialed Health Data License 1.5.0 | Chest X-ray detection and radiologist-annotated localization | [Paper](https://arxiv.org/abs/2012.15029) | A strong post-CheXpert benchmark with explicit bounding-box annotations, but credentialed access is required. |
 
 ## Related Benchmarks
 

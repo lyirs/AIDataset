@@ -26,6 +26,7 @@
 | 18 | LIDC-IDRI | Medical imaging | [Site](https://www.cancerimagingarchive.net/collection/lidc-idri/) | CC BY 3.0 | 肺结节检测与分割 | [Docs](https://www.cancerimagingarchive.net/collection/lidc-idri/) | 肺部 CT 结节检测、标注和 CAD 研究里最经典的公开 benchmark 之一。 |
 | 19 | UK Biobank | Biomedical multimodal data | [Site](https://www.ukbiobank.ac.uk/about-us/how-we-work/access-to-uk-biobank-data/) | Custom / application-based access | 人群级健康建模 | [Docs](https://www.ukbiobank.ac.uk/use-our-data/apply-for-access/) | 这是当今最重要的大规模生物医学资源之一，但访问需申请并受协议约束。 |
 | 20 | PadChest | Spanish radiology + images | [Site](https://bimcv.cipf.es/bimcv-projects/padchest/) | Custom / research use agreement | 胸部放射视觉语言学习 | [Docs](https://bimcv.cipf.es/bimcv-projects/padchest/padchest-dataset-research-use-agreement/) | 来自西班牙胸部放射实践的高信号胸片数据集，带报告和丰富标签。 |
+| 21 | VinDr-CXR | English | [Site](https://physionet.org/content/vindr-cxr/) | Credentialed Health Data License 1.5.0 | 胸部 X 光检测与放射科医生框标注定位 | [Paper](https://arxiv.org/abs/2012.15029) | 它是 CheXpert 之后非常重要的胸片 benchmark，但需要完成 PhysioNet 资质访问。 |
 
 ## 相关评测
 

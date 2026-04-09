@@ -26,6 +26,7 @@ Tool use, browser agents, environment interaction, and software engineering agen
 | 18 | tau2-bench | English | [GitHub](https://github.com/sierra-research/tau2-bench) | MIT | Dual-control tool-agent-user interaction | [Paper](https://arxiv.org/abs/2506.07982) | A newer successor to tau-bench with stronger coordination and policy constraints. |
 | 19 | BrowseComp | English | [Site](https://openai.com/index/browsecomp/) | Unknown | Hard web browsing and multi-hop fact finding | [Paper](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) | Official OpenAI benchmark for persistent browsing agents on hard-to-find web facts. |
 | 20 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | Machine learning engineering agents | [Paper](https://arxiv.org/abs/2410.07095) | High-signal benchmark for agents that run end-to-end ML engineering workflows. |
+| 21 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | Function calling and interactive coding agents | [Paper](https://arxiv.org/abs/2407.18901) | A strong ACL-era benchmark for multi-app execution, stateful tool use, and interactive code generation. |
 
 ## Related Benchmarks
 
