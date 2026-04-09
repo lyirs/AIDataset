@@ -27,6 +27,8 @@
 | 19 | MMLU-Redux | English | [GitHub](https://github.com/aryopg/mmlu-redux) | CC BY 4.0 | 更干净、错误更少的知识评测 | [Paper](https://aclanthology.org/2025.naacl-long.262/) | 用于缓解原始 MMLU 的标注和答案噪声问题。 |
 | 20 | Arena-Hard-Auto | English | [GitHub](https://github.com/lmarena/arena-hard-auto) | Apache-2.0 | 自动化聊天模型评测 | [Paper](https://arxiv.org/abs/2403.04132) | 在 arena-style 评测基础上加入自动评分流程。 |
 | 21 | RewardBench / RewardBench 2 | English | [GitHub](https://github.com/allenai/reward-bench) | Apache-2.0 | Reward model 与 judge model 评测 | [Paper](https://arxiv.org/abs/2506.01937) | 当前最清晰的一类开放 reward-model benchmark 家族，也常用于后训练 judge 分析。 |
+| 22 | Humanity's Last Exam (HLE) | Multimodal expert QA | [Site](https://lastexam.ai/) | MIT | 前沿级知识与推理评测 | [Paper](https://arxiv.org/abs/2501.14249) | 它很快就成了测试专家级广度推理能力的默认前沿 benchmark 之一。 |
+| 23 | BrowseComp | Web browsing | [Site](https://openai.com/index/browsecomp/) | MIT (benchmark repo) | 网页浏览 Agent 评测 | [Paper](https://arxiv.org/abs/2504.12516) | 它专门评测那类需要持续搜索、反复改写查询、难以直接 Google 到答案的浏览任务；官方实现放在 `simple-evals`。 |
 
 ## 相关评测
 

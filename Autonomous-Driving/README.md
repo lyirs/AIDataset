@@ -23,6 +23,8 @@ Datasets for driving perception, 3D detection, tracking, mapping, forecasting, a
 | 15 | SemanticKITTI | LiDAR | [Site](https://semantic-kitti.org/) | CC BY-NC-SA 4.0 | LiDAR semantic segmentation and scene completion | [Paper](https://arxiv.org/abs/1904.01416) | The default LiDAR segmentation benchmark in many autonomous-driving papers. |
 | 16 | KITTI-360 | Sensor + 3D scenes | [Site](https://www.cvlibs.net/datasets/kitti-360/) | CC BY-NC-SA 3.0 | Unified 2D/3D urban scene understanding and mapping | [Paper](https://arxiv.org/abs/2109.13410) | A successor-scale extension of KITTI used across perception, mapping, and novel-view tasks. |
 | 17 | ApolloScape | Sensor | [GitHub](https://github.com/ApolloScapeAuto/dataset-api) | Unknown | Multi-task driving perception and trajectory prediction | [Paper](https://arxiv.org/abs/1803.06184) | Official toolkit hub for a historically influential large-scale driving dataset family. |
+| 18 | Talk2Car | Vision + language | [Site](https://talk2car.github.io/) | CC BY-NC-SA 4.0 | Language-grounded driving command understanding | [Paper](https://arxiv.org/abs/1909.10838) | A canonical benchmark for grounding passenger instructions in real driving scenes. |
+| 19 | BDD-X | Vision + language | [GitHub](https://github.com/JinkyuKimUCB/BDD-X-dataset) | Research / educational / non-profit only | Explainable driving decisions and textual rationales | [Paper](https://arxiv.org/abs/1807.11546) | A high-signal benchmark for action explanations and justification in autonomous driving. |
 
 ## Related Benchmarks
 

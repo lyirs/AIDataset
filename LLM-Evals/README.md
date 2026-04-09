@@ -27,6 +27,8 @@ Instruction following, reasoning, truthfulness, chat, and long-context benchmark
 | 19 | MMLU-Redux | English | [GitHub](https://github.com/aryopg/mmlu-redux) | CC BY 4.0 | Cleaner knowledge evaluation with fewer answer errors | [Paper](https://aclanthology.org/2025.naacl-long.262/) | Reduces annotation and answer-key noise in the original MMLU. |
 | 20 | Arena-Hard-Auto | English | [GitHub](https://github.com/lmarena/arena-hard-auto) | Apache-2.0 | Automatic chat-model benchmarking | [Paper](https://arxiv.org/abs/2403.04132) | Extends arena-style evaluation with automatic grading workflows. |
 | 21 | RewardBench / RewardBench 2 | English | [GitHub](https://github.com/allenai/reward-bench) | Apache-2.0 | Reward-model and judge-model evaluation | [Paper](https://arxiv.org/abs/2506.01937) | The clearest open benchmark family for modern reward-model evaluation and post-training judge analysis. |
+| 22 | Humanity's Last Exam (HLE) | Multimodal expert QA | [Site](https://lastexam.ai/) | MIT | Frontier-level knowledge and reasoning evaluation | [Paper](https://arxiv.org/abs/2501.14249) | Rapidly became a default frontier benchmark for testing expert-level reasoning breadth. |
+| 23 | BrowseComp | Web browsing | [Site](https://openai.com/index/browsecomp/) | MIT (benchmark repo) | Web-browsing agent evaluation | [Paper](https://arxiv.org/abs/2504.12516) | A strong benchmark for persistent, hard-to-Google browsing tasks; the official implementation lives in `simple-evals`. |
 
 ## Related Benchmarks
 

@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 417 primary entries
+- 421 primary entries
 - Links checked on 2026-04-09
 
 ## Inclusion Rules
@@ -26,7 +26,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | NLP | Text datasets for NER, QA, summarization, reasoning, classification, multilingual transfer, and language understanding. | [Open](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
 | CV | Image datasets for classification, detection, segmentation, grounding, scene understanding, RGB-D perception, and fine-grained recognition. | [Open](CV/README.md) | [中文](CV/README_ZH.md) | 31 |
 | Video-3D | Video, egocentric, point-cloud, 3D scene, and shape datasets. | [Open](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
-| Autonomous-Driving | Driving perception, 3D detection, tracking, forecasting, mapping, and cooperative sensing datasets. | [Open](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 17 |
+| Autonomous-Driving | Driving perception, 3D detection, tracking, forecasting, mapping, and cooperative sensing datasets. | [Open](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 19 |
 | Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 14 |
 | Multimodal | Vision-language, VQA, chart and OCR-grounded reasoning, image-text alignment, and multimodal instruction datasets. | [Open](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 21 |
 | Speech-Audio | ASR, speech translation, speaker or language ID, speech emotion, and speech generation datasets. | [Open](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 19 |
@@ -38,7 +38,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Graph-Learning | Node, link, graph-level, molecular, knowledge, heterogeneous, and temporal graph datasets. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 12 |
 | Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 12 |
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 12 |
-| LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 21 |
+| LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 23 |
 | Agent | Tool use, browser and web agents, computer use, software engineering agents, and environment interaction datasets. | [Open](Agent/README.md) | [中文](Agent/README_ZH.md) | 20 |
 | Robotics-RL | Offline RL, imitation learning, manipulation, robot trajectories, and simulator-centered robot learning datasets. | [Open](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 13 |
 | Embodied-AI | Embodied navigation, instruction following, egocentric perception, and language-conditioned behavior datasets. | [Open](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 16 |

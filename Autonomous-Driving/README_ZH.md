@@ -23,6 +23,8 @@
 | 15 | SemanticKITTI | LiDAR | [Site](https://semantic-kitti.org/) | CC BY-NC-SA 4.0 | LiDAR 语义分割与场景补全 | [Paper](https://arxiv.org/abs/1904.01416) | 它几乎是自动驾驶 LiDAR segmentation 论文里的默认 benchmark。 |
 | 16 | KITTI-360 | Sensor + 3D scenes | [Site](https://www.cvlibs.net/datasets/kitti-360/) | CC BY-NC-SA 3.0 | 统一的 2D/3D 城市场景理解与建图 | [Paper](https://arxiv.org/abs/2109.13410) | 它是 KITTI 的后继级扩展，在感知、建图和 novel-view 任务中都很常见。 |
 | 17 | ApolloScape | Sensor | [GitHub](https://github.com/ApolloScapeAuto/dataset-api) | Unknown | 多任务自动驾驶感知与轨迹预测 | [Paper](https://arxiv.org/abs/1803.06184) | 官方 toolkit 仓库对应的是一个历史影响力很强的大规模自动驾驶数据家族。 |
+| 18 | Talk2Car | Vision + language | [Site](https://talk2car.github.io/) | CC BY-NC-SA 4.0 | 语言驱动的驾驶指令 grounding | [Paper](https://arxiv.org/abs/1909.10838) | 它是把乘客自然语言指令对齐到真实驾驶场景中的经典 benchmark。 |
+| 19 | BDD-X | Vision + language | [GitHub](https://github.com/JinkyuKimUCB/BDD-X-dataset) | Research / educational / non-profit only | 可解释自动驾驶决策与文本解释 | [Paper](https://arxiv.org/abs/1807.11546) | 它是自动驾驶动作解释和文本 justification 方向里最有代表性的 benchmark 之一。 |
 
 ## 相关评测
 
