@@ -40,6 +40,7 @@ Core image datasets for classification, detection, segmentation, scene understan
 | 32 | VisDA-2017 | Visual | [Site](http://ai.bu.edu/visda-2017/) | Unknown | Synthetic-to-real domain adaptation | [Paper](https://arxiv.org/abs/1710.06924) | The canonical large-scale benchmark for visual domain adaptation from simulation to reality. |
 | 33 | DomainNet | Visual | [Site](http://ai.bu.edu/M3SDA/) | Non-commercial research / fair use notice | Multi-source domain adaptation and domain generalization | [Paper](https://arxiv.org/abs/1812.01754) | A standard large-scale six-domain benchmark for cross-domain transfer. |
 | 34 | ImageNet-Sketch | Visual | [GitHub](https://github.com/HaohanWang/ImageNet-Sketch) | Unknown | Sketch-style distribution shift evaluation | [Paper](https://arxiv.org/abs/1905.13549) | Frequently reported alongside ImageNet-A, R, V2, and ObjectNet in robustness tables. |
+| 35 | Office-Home | Visual | [Site](https://www.hemanthdv.org/officeHomeDataset.html) | Non-commercial research / fair use notice | Domain adaptation and domain generalization | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Venkateswara_Deep_Hashing_Network_CVPR_2017_paper.html) | A long-running four-domain benchmark that still appears in transfer-learning comparison tables. |
 
 ## Related Benchmarks
 

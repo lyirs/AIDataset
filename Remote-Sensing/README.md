@@ -21,6 +21,7 @@ Datasets for overhead imagery, satellite scene understanding, aerial detection, 
 | 13 | MMEarth | Multimodal Earth observation | [GitHub](https://github.com/vishalned/MMEarth-data) | Unknown | Sensor-rich multimodal geospatial pretraining | [Paper](https://arxiv.org/abs/2405.02771) | Adds a newer multimodal earth-observation resource with richer sensor coverage. |
 | 14 | xBD / xView2 | Disaster imagery | [Site](https://xview2.org/dataset) | Unknown | Disaster damage assessment and building-level change analysis | [Paper](https://arxiv.org/abs/1911.09296) | Still the default open benchmark for satellite-based disaster-response modeling. |
 | 15 | ISPRS 2D Semantic Labeling (Vaihingen / Potsdam) | Aerial imagery | [Site](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) | Unknown | Urban aerial semantic segmentation | [Docs](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) | A long-running canonical benchmark pair for high-resolution remote-sensing segmentation. |
+| 16 | UAVid | UAV imagery | [Site](https://uavid.nl/) | CC BY-NC-SA 4.0 | UAV urban semantic segmentation | [Paper](https://doi.org/10.1016/j.isprsjprs.2020.05.009) | One of the most widely reused UAV semantic-segmentation benchmarks in aerial-scene papers. |
 
 ## Related Benchmarks
 
