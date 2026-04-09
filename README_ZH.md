@@ -7,8 +7,8 @@
 ## 项目概览
 
 - 25 个分类目录
-- 448 条主条目
-- 链接整理与核验日期：2026-04-09
+- 452 条主条目
+- 链接整理与核验日期：2026-04-10
 
 ## 收录规则
 
@@ -24,9 +24,9 @@
 | 分类 | 方向说明 | 英文 | 中文 | 数量 |
 | --- | --- | --- | --- | --- |
 | 自然语言处理（NLP） | 文本方向数据集，覆盖 NER、QA、摘要、推理、分类、多语迁移与语言理解。 | [英文](NLP/README.md) | [中文](NLP/README_ZH.md) | 29 |
-| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 40 |
+| 计算机视觉（CV） | 图像方向数据集，覆盖分类、检测、分割、grounding、场景理解、RGB-D 与细粒度识别。 | [英文](CV/README.md) | [中文](CV/README_ZH.md) | 43 |
 | 视频与三维（Video-3D） | 视频、第一视角、点云、3D 场景与形状数据。 | [英文](Video-3D/README.md) | [中文](Video-3D/README_ZH.md) | 14 |
-| 自动驾驶（Autonomous-Driving） | 自动驾驶感知、三维检测、跟踪、预测、地图与协同感知数据。 | [英文](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 23 |
+| 自动驾驶（Autonomous-Driving） | 自动驾驶感知、三维检测、跟踪、预测、地图与协同感知数据。 | [英文](Autonomous-Driving/README.md) | [中文](Autonomous-Driving/README_ZH.md) | 24 |
 | 遥感（Remote-Sensing） | 卫星、航拍、高空、多光谱、SAR 与地理空间制图数据。 | [英文](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 23 |
 | 多模态（Multimodal） | 视觉语言、VQA、图文对齐、图表与 OCR 感知推理、多模态指令数据。 | [英文](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 21 |
 | 语音与音频（Speech-Audio） | ASR、语音翻译、说话人或语言识别、情感语音与语音生成数据。 | [英文](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 19 |

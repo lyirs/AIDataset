@@ -29,12 +29,14 @@ Datasets for driving perception, 3D detection, tracking, mapping, forecasting, a
 | 21 | SHIFT | Synthetic driving | [GitHub](https://github.com/SysCV/shift-dev) | Custom / research-use terms | Controlled distribution-shift evaluation for driving | [Paper](https://arxiv.org/abs/2206.08367) | A strong recent benchmark for weather, time-of-day, and traffic-distribution shift in autonomous driving. |
 | 22 | NAVSIM | Simulation benchmark | [GitHub](https://github.com/autonomousvision/navsim) | Apache-2.0 (benchmark repo) / mixed source datasets | Simulation-based end-to-end driving evaluation | [Paper](https://arxiv.org/abs/2406.15349) | A high-signal recent benchmark for closed-loop end-to-end driving and planning evaluation. |
 | 23 | CamVid | Driving video | [Site](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) | Unknown | Classic urban-scene semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314216300305) | A long-running early benchmark for street-scene segmentation and video scene understanding. |
+| 24 | Waymo Open Sim Agents Challenge | Simulation benchmark | [Site](https://waymo.com/research/the-waymo-open-sim-agents-challenge/) | Custom / Waymo non-commercial use terms | Multi-agent traffic simulation benchmarking | [Paper](https://arxiv.org/abs/2305.12032) | A major public benchmark for realistic closed-loop traffic-agent simulation built on Waymo challenge infrastructure. |
 
 ## Related Benchmarks
 
 - [Benchmarks overview](../Benchmarks/README.md)
 - [nuScenes Benchmarks](https://www.nuscenes.org/object-detection)
 - [Waymo Open Challenges](https://waymo.com/open/challenges/)
+- [Waymo Open Sim Agents Challenge](https://waymo.com/research/the-waymo-open-sim-agents-challenge/)
 - [Argoverse](https://www.argoverse.org/)
 - [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/)
 

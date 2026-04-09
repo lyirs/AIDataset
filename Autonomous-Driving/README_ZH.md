@@ -29,12 +29,14 @@
 | 21 | SHIFT | Synthetic driving | [GitHub](https://github.com/SysCV/shift-dev) | Custom / research-use terms | 面向驾驶场景的可控分布偏移评测 | [Paper](https://arxiv.org/abs/2206.08367) | 它是近年自动驾驶里评估天气、昼夜和交通分布偏移最强信号的一类 benchmark。 |
 | 22 | NAVSIM | Simulation benchmark | [GitHub](https://github.com/autonomousvision/navsim) | Apache-2.0 (benchmark repo) / mixed source datasets | 基于仿真的端到端驾驶评测 | [Paper](https://arxiv.org/abs/2406.15349) | 它是近两年闭环 end-to-end driving 与 planning 对比中很高频的仿真 benchmark。 |
 | 23 | CamVid | Driving video | [Site](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) | Unknown | 经典城市场景语义分割 | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314216300305) | 它是街景语义分割和视频场景理解方向非常早期、但长期被反复引用的 benchmark。 |
+| 24 | Waymo Open Sim Agents Challenge | Simulation benchmark | [Site](https://waymo.com/research/the-waymo-open-sim-agents-challenge/) | Custom / Waymo non-commercial use terms | 多智能体交通仿真评测 | [Paper](https://arxiv.org/abs/2305.12032) | 它是基于 Waymo challenge 体系构建的公共闭环交通仿真 benchmark，在近年的多车交互仿真论文里很有代表性。 |
 
 ## 相关评测
 
 - [Benchmarks 总览](../Benchmarks/README_ZH.md)
 - [nuScenes Benchmarks](https://www.nuscenes.org/object-detection)
 - [Waymo Open Challenges](https://waymo.com/open/challenges/)
+- [Waymo Open Sim Agents Challenge](https://waymo.com/research/the-waymo-open-sim-agents-challenge/)
 - [Argoverse](https://www.argoverse.org/)
 - [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/)
 

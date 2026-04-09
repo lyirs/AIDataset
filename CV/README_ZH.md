@@ -46,6 +46,9 @@
 | 38 | SUN397 | Visual | [Site](https://3dvision.princeton.edu/projects/2010/SUN/) | Research only / custom | 场景识别与 scene-centric 迁移 | [Paper](https://3dvision.princeton.edu/projects/2010/SUN/paper.pdf) | 它至今仍是和 Places 系数据并列出现的 canonical scene recognition benchmark。 |
 | 39 | COCO-Stuff | Visual | [GitHub](https://github.com/nightrome/cocostuff) | Mixed / COCO terms + CC BY 4.0 annotations | thing 与 stuff 联合语义分割 | [Paper](https://arxiv.org/abs/1612.03716) | 它把 COCO 扩展成稠密场景标签资源，在 semantic、panoptic 和 open-vocabulary segmentation 论文里都很常见。 |
 | 40 | Office-31 | Visual | [Site](https://faculty.cc.gatech.edu/~judy/domainadapt/) | Unknown | 经典小规模域迁移 | [Paper](http://www.cs.uml.edu/~saenko/projects/eccv10.pdf) | 它虽然更老，但现在很多 DA 论文仍会把它和 Office-Home、VisDA、DomainNet 一起报告。 |
+| 41 | PASCAL-Context | Visual | [Site](https://cs.stanford.edu/~roozbeh/pascal-context/) | Mixed / PASCAL VOC 2010 terms | 全场景语义分割与上下文建模 | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Mottaghi_The_Role_of_2014_CVPR_paper.pdf) | 它是基于 VOC 扩展出的经典稠密标注 benchmark，很多 scene parsing 论文至今仍会报告。 |
+| 42 | NABirds | Visual | [Site](https://dl.allaboutbirds.org/nabirds) | Unknown | 细粒度鸟类识别 | [Paper](https://openaccess.thecvf.com/content_cvpr_2015_workshops/w19/html/Horn_Building_a_Bird_2015_CVPR_paper.html) | 它比 CUB 更大、分类层级更丰富，在 FGVC 研究里长期高频出现。 |
+| 43 | Stanford Dogs | Visual | [Site](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html) | Unknown | 细粒度犬种识别 | [Paper](http://people.csail.mit.edu/khosla/papers/fgvc2011.pdf) | 它是犬种识别方向最经典的 benchmark 之一，在细粒度分类和迁移学习里仍然常见。 |
 
 ## 相关评测
 
