@@ -1,0 +1,38 @@
+# Benchmarks
+
+Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, agents, and general evaluation platforms.
+
+[中文说明](README_ZH.md) | [Back to Home](../README.md)
+
+| # | Dataset | Language | Link | License | Best For | Paper/Docs | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | GLUE | English | [Site](https://gluebenchmark.com/) | Unknown | General language understanding evaluation | [Paper](https://aclanthology.org/W18-5446/) | Foundational multi-task NLP benchmark. |
+| 2 | SuperGLUE | English | [Site](https://super.gluebenchmark.com/) | Unknown | Harder successor to GLUE | [Paper](https://arxiv.org/abs/1905.00537) | Still useful as a compact reasoning suite. |
+| 3 | CLUE | Chinese | [GitHub](https://github.com/CLUEbenchmark/CLUE) | Unknown | Chinese language understanding evaluation | [Paper](https://arxiv.org/abs/2004.05986) | Core Chinese benchmark family. |
+| 4 | FewCLUE | Chinese | [GitHub](https://github.com/CLUEbenchmark/FewCLUE) | Unknown | Few-shot Chinese NLP evaluation | [Paper](https://arxiv.org/abs/2107.07498) | Strong low-resource Chinese benchmark. |
+| 5 | CBLUE | Chinese | [GitHub](https://github.com/CBLUEbenchmark/CBLUE) | Unknown | Chinese biomedical NLP evaluation | [Paper](https://arxiv.org/abs/2204.04167) | High-value domain-specific benchmark. |
+| 6 | MTEB | Multilingual | [GitHub](https://github.com/embeddings-benchmark/mteb) | Apache-2.0 | Embedding evaluation across tasks | [Docs](https://github.com/embeddings-benchmark/mteb) | One of the most active modern eval registries. |
+| 7 | BEIR | English | [GitHub](https://github.com/beir-cellar/beir) | Apache-2.0 (code) / mixed datasets | Zero-shot information retrieval benchmarking | [Paper](https://arxiv.org/abs/2104.08663) | A standard reference for retrieval systems. |
+| 8 | MMMU | Multimodal | [Site](https://mmmu-benchmark.github.io/) | Unknown | College-level multimodal reasoning | [Paper](https://arxiv.org/abs/2311.16502) | Strong academic benchmark for advanced VLMs. |
+| 9 | SWE-bench | English | [Site](https://www.swebench.com/) | Unknown | Real GitHub issue resolution by code agents | [Paper](https://arxiv.org/abs/2310.06770) | A central coding-agent benchmark. |
+| 10 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | General assistant evaluation with tool use | [Paper](https://arxiv.org/abs/2311.12983) | Widely cited for evaluating practical assistant behavior beyond static QA. |
+| 11 | OpenOOD | Visual | [GitHub](https://github.com/Jingkang50/OpenOOD) | MIT | Out-of-distribution detection benchmarking | [Paper](https://arxiv.org/abs/2306.09301) | The de facto open benchmark suite for generalized OOD detection in recent vision papers. |
+| 12 | OpenCompass | Multilingual / multimodal | [GitHub](https://github.com/open-compass/opencompass) | Apache-2.0 | Unified benchmark execution across models and tasks | [Docs](https://opencompass.readthedocs.io/en/latest/) | A widely used open evaluation platform that aggregates many modern LLM and multimodal benchmarks. |
+
+## Additional Cross-References
+
+- [LLM-Evals overview](../LLM-Evals/README.md)
+- [MMBench](https://mmbench.opencompass.org.cn/home)
+- [MathVista](https://mathvista.github.io/)
+- [Video-MME](https://video-mme.github.io/home_page.html)
+- [BRIGHT](https://brightbenchmark.github.io/)
+- [OpenOOD](https://github.com/Jingkang50/OpenOOD)
+- [CRAG](../Search-Retrieval/README.md)
+- [RealMMRAg](../Search-Retrieval/README.md)
+- [AfriMTEB](../Search-Retrieval/README.md)
+- [HarmActionsEval](../Safety-Evals/README.md)
+
+## Selection Note
+
+- This page keeps cross-domain, task-family, and platform-style benchmark resources in one place.
+- LLM-specific evaluation sets that now form a large standalone cluster are maintained separately in [LLM-Evals](../LLM-Evals/README.md).
