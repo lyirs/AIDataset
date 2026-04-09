@@ -25,6 +25,10 @@
 | 17 | Inria Aerial Image Labeling | Aerial imagery | [Site](https://project.inria.fr/aerialimagelabeling/) | Unknown | 航拍建筑物轮廓分割 | [Paper](https://doi.org/10.1109/IGARSS.2017.8127684) | 它是高分辨率建筑提取与跨城市泛化研究中最经典的 benchmark 之一。 |
 | 18 | LEVIR-CD | Aerial imagery | [Site](https://justchenhao.github.io/LEVIR/) | Academic use only / non-commercial | 双时相影像建筑变化检测 | [Paper](https://arxiv.org/abs/2007.09244) | 它是遥感变化检测里最常被复用的大规模 building change benchmark 之一。 |
 | 19 | DeepGlobe | Satellite imagery | [Site](https://deepglobe.org/resources.html) | Challenge-only / custom terms | 道路提取、建筑检测与地表覆盖分割 | [Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w4/html/Demir_DeepGlobe_2018_A_CVPR_2018_paper.html) | 它是 CVPR challenge 体系里非常经典的一组遥感分割数据资源。 |
+| 20 | HRSCD | Aerial imagery | [Site](https://rcdaudt.github.io/hrscd/) | CC BY-NC-SA + source-data terms | 高分辨率航拍语义变化检测 | [Paper](https://rcdaudt.github.io/files/2018cviu-hrscd.pdf) | 它不只给二值变化掩码，还提供语义层面的地物变化标签，是非常经典的 change detection benchmark。 |
+| 21 | S2Looking | Satellite imagery | [GitHub](https://github.com/S2Looking/Dataset) | Unknown | 侧视条件下的建筑变化检测 | [Paper](https://arxiv.org/abs/2107.09244) | 它是近年更贴近真实场景的遥感变化检测 benchmark，常被拿来和 LEVIR-CD 一起比较。 |
+| 22 | WHU Building Dataset | Aerial + satellite imagery | [Site](https://gpcv.whu.edu.cn/data/building_dataset.html) | Unknown | 建筑物轮廓提取与大规模分割 | [Paper](https://doi.org/10.1109/TGRS.2018.2858817) | 它是建筑提取方向最标准的数据家族之一，提供高质量矢量与栅格标注。 |
+| 23 | DIOR | Aerial imagery | [Site](https://gcheng-nwpu.github.io/) | CC BY-NC 4.0 | 大类别遥感目标检测 | [Paper](https://arxiv.org/abs/1909.00133) | 它是光学遥感目标检测里使用频率最高的大规模 benchmark 之一。 |
 
 ## 相关评测
 
