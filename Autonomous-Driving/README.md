@@ -28,6 +28,7 @@ Datasets for driving perception, 3D detection, tracking, mapping, forecasting, a
 | 20 | GTA5 | Synthetic urban scenes | [Site](https://download.visinf.tu-darmstadt.de/data/from_games/) | Research and educational use only | Synthetic-to-real urban scene segmentation | [Paper](https://arxiv.org/abs/1608.02192) | The canonical GTA5-to-Cityscapes setup still anchors many domain-adaptation papers for driving perception. |
 | 21 | SHIFT | Synthetic driving | [GitHub](https://github.com/SysCV/shift-dev) | Custom / research-use terms | Controlled distribution-shift evaluation for driving | [Paper](https://arxiv.org/abs/2206.08367) | A strong recent benchmark for weather, time-of-day, and traffic-distribution shift in autonomous driving. |
 | 22 | NAVSIM | Simulation benchmark | [GitHub](https://github.com/autonomousvision/navsim) | Apache-2.0 (benchmark repo) / mixed source datasets | Simulation-based end-to-end driving evaluation | [Paper](https://arxiv.org/abs/2406.15349) | A high-signal recent benchmark for closed-loop end-to-end driving and planning evaluation. |
+| 23 | CamVid | Driving video | [Site](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) | Unknown | Classic urban-scene semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314216300305) | A long-running early benchmark for street-scene segmentation and video scene understanding. |
 
 ## Related Benchmarks
 
