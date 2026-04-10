@@ -25,6 +25,7 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 | 17 | WILDS | Multidomain | [Site](https://wilds.stanford.edu/datasets/) | Mixed / dataset-specific | Real-world distribution shift benchmarking | [Paper](https://arxiv.org/abs/2012.07421) | A standard suite for evaluating robustness under in-the-wild distribution shifts across vision, language, and biology tasks. |
 | 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | Standardized adversarial robustness benchmarking | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | The de facto open benchmark and leaderboard for adversarial robustness in modern vision papers. |
 | 19 | SEED-Bench | Multimodal | [GitHub](https://github.com/AILab-CVC/SEED-Bench) | Apache-2.0 | Generative multimodal benchmark evaluation | [Paper](https://arxiv.org/abs/2307.16125) | A widely adopted benchmark family for evaluating generative comprehension in multimodal LLMs. |
+| 20 | POPE | Multimodal | [GitHub](https://github.com/RUCAIBox/POPE) | MIT (benchmark repo) | Object hallucination evaluation for LVLMs | [Paper](https://aclanthology.org/2023.emnlp-main.20/) | A standard benchmark for measuring object hallucination in large vision-language models. |
 
 ## Additional Cross-References
 
@@ -37,6 +38,7 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 - [WILDS](https://wilds.stanford.edu/datasets/)
 - [RobustBench](https://robustbench.github.io/)
 - [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
+- [POPE](https://github.com/RUCAIBox/POPE)
 - [CRAG](../Search-Retrieval/README.md)
 - [RealMMRAg](../Search-Retrieval/README.md)
 - [AfriMTEB](../Search-Retrieval/README.md)

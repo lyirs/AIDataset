@@ -30,6 +30,9 @@ Vision-language, visual reasoning, OCR-aware VQA, and multimodal instruction-tun
 | 22 | RefCOCO / RefCOCO+ / RefCOCOg | English | [GitHub](https://github.com/lichengunc/refer) | Mixed / source-dataset terms | Referring expression grounding and comprehension | [Paper](https://arxiv.org/abs/1511.02283) | The canonical referring-expression family used in grounding and referring-segmentation papers. |
 | 23 | VCR | English | [Site](https://visualcommonsense.com/) | Custom / dataset license | Visual commonsense reasoning | [Paper](https://arxiv.org/abs/1811.10830) | A long-running benchmark for cognition-level visual reasoning beyond surface perception. |
 | 24 | SNLI-VE | English | [GitHub](https://github.com/necla-ml/SNLI-VE) | Mixed / source-dataset terms | Visual entailment | [Paper](https://arxiv.org/abs/1901.06706) | The standard visual-entailment dataset built on top of SNLI and Flickr30k. |
+| 25 | ChartQA | English | [GitHub](https://github.com/vis-nlp/ChartQA) | Unknown | Chart question answering and chart reasoning | [Paper](https://aclanthology.org/2022.findings-acl.177/) | A standard chart-understanding benchmark for multimodal models that need both visual and logical reasoning. |
+| 26 | InfographicVQA | English | [Site](https://www.docvqa.org/datasets/infographicvqa) | Unknown | OCR-heavy VQA on infographic documents | [Paper](https://arxiv.org/abs/2104.12756) | A strong benchmark for answering questions over dense infographic layouts rather than natural photos. |
+| 27 | CLEVR | English | [Site](https://cs.stanford.edu/people/jcjohns/clevr/) | CC BY 4.0 | Diagnostic visual reasoning | [Paper](https://arxiv.org/abs/1612.06890) | A classic synthetic benchmark for compositional visual reasoning and controlled capability analysis. |
 
 ## Related Benchmarks
 
@@ -37,4 +40,5 @@ Vision-language, visual reasoning, OCR-aware VQA, and multimodal instruction-tun
 - [MMMU](https://mmmu-benchmark.github.io/)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
 - [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
+- [POPE](../Benchmarks/README.md)
 - [GAIA](https://huggingface.co/gaia-benchmark)

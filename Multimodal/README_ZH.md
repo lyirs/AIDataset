@@ -30,6 +30,9 @@
 | 22 | RefCOCO / RefCOCO+ / RefCOCOg | English | [GitHub](https://github.com/lichengunc/refer) | Mixed / source-dataset terms | 指代表达 grounding 与理解 | [Paper](https://arxiv.org/abs/1511.02283) | 它是 visual grounding 和 referring segmentation 论文里最经典的一组指代表达数据集。 |
 | 23 | VCR | English | [Site](https://visualcommonsense.com/) | Custom / dataset license | 视觉常识推理 | [Paper](https://arxiv.org/abs/1811.10830) | 它是超越表层感知、强调 cognition-level visual reasoning 的经典 benchmark。 |
 | 24 | SNLI-VE | English | [GitHub](https://github.com/necla-ml/SNLI-VE) | Mixed / source-dataset terms | 视觉蕴含推理 | [Paper](https://arxiv.org/abs/1901.06706) | 它是建立在 SNLI 和 Flickr30k 之上的标准 visual entailment 数据集。 |
+| 25 | ChartQA | English | [GitHub](https://github.com/vis-nlp/ChartQA) | Unknown | 图表问答与图表推理 | [Paper](https://aclanthology.org/2022.findings-acl.177/) | 它是图表理解方向最常见的数据集之一，要求模型同时结合视觉信息和逻辑推理。 |
+| 26 | InfographicVQA | English | [Site](https://www.docvqa.org/datasets/infographicvqa) | Unknown | 面向信息图的 OCR 密集型问答 | [Paper](https://arxiv.org/abs/2104.12756) | 它强调在复杂信息图版面上做问答，而不是只处理自然图片。 |
+| 27 | CLEVR | English | [Site](https://cs.stanford.edu/people/jcjohns/clevr/) | CC BY 4.0 | 诊断式视觉推理 | [Paper](https://arxiv.org/abs/1612.06890) | 它是组合式视觉推理里最经典的合成 benchmark 之一，适合做可控能力分析。 |
 
 ## 相关评测
 
@@ -37,4 +40,5 @@
 - [MMMU](https://mmmu-benchmark.github.io/)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
 - [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
+- [POPE](../Benchmarks/README_ZH.md)
 - [GAIA](https://huggingface.co/gaia-benchmark)
