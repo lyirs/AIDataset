@@ -19,6 +19,8 @@
 | 11 | M3 Competition | Time series | [Site](https://forecasters.org/resources/time-series-data/m3-competition/) | Unknown | 经典大规模预测评测 | [Docs](https://forecasters.org/resources/time-series-data/m3-competition/) | 作为 M4 的前代，它在 forecasting benchmark 对比里仍然经常出现。 |
 | 12 | ElectricityLoadDiagrams20112014 | Time series | [Site](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) | CC BY 4.0 | 电力负荷预测 | [Docs](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) | 长时序预测论文里反复出现的标准电力负荷数据集。 |
 | 13 | PhysioNet/CinC Challenge 2019 | Clinical multivariate time series | [Site](https://physionet.org/challenge/2019/) | Unknown | 早期脓毒症预测 | [Docs](https://physionet.org/static/published-projects/challenge-2019/1.0.0/physionet_challenge_2019_ccm_manuscript.pdf) | 临床时序预警里很高信号的 ICU benchmark，强调早期识别。 |
+| 14 | PTB-XL | Clinical multivariate time series | [Site](https://physionet.org/content/ptb-xl/1.0.3/) | CC BY 4.0 | ECG 分类与表征学习 | [Paper](https://www.nature.com/articles/s41597-020-0495-6) | 现代临床时间序列建模里最常出现的 ECG benchmark 之一。 |
+| 15 | HiRID | Clinical multivariate time series | [Site](https://physionet.org/content/hirid/1.1.1/) | PhysioNet Contributor Review Health Data License 1.5.0 | 高分辨率 ICU 预测与插补 | [Docs](https://hirid.intensivecare.ai/) | 需要凭证访问，但在早预警、预测与不规则 ICU 时序研究里非常高频。 |
 
 ## 相关评测
 

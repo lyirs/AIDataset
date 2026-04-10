@@ -6,10 +6,11 @@
 
 ## 覆盖范围
 
-- Pretraining: `C4`, `The Pile`, `Dolma`, `FineWeb`
-- Instruction: `FLAN Collection`, `OpenAssistant Conversations`, `Dolly 15k`
-- Preference: `UltraFeedback`, `HH-RLHF`
-- Safety: `PKU-SafeRLHF`, `BeaverTails`, `WildChat`
+- 预训练：`C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`
+- 指令数据：`FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`
+- 偏好数据：`UltraFeedback`, `HH-RLHF`
+- 安全对齐：`PKU-SafeRLHF`, `BeaverTails`
+- 真实对话：`WildChat`
 
 | 序号 | 数据集 | 语言 | 链接 | 许可 | 适用方向 | 论文/文档 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +26,12 @@
 | 10 | BeaverTails | English | [Site](https://sites.google.com/view/pku-beavertails/home) | Unknown | 安全 SFT 与有害内容过滤 | [Paper](https://arxiv.org/abs/2307.04657) | 带细粒度风险标签的高信号安全语料。 |
 | 11 | FineWeb | English | [HF](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | ODC-By 1.0 | 高质量网页预训练 | [Docs](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | 面向强开放预训练流程构建的现代网页语料。 |
 | 12 | WildChat | Multilingual | [HF](https://huggingface.co/datasets/allenai/WildChat) | ODC-BY | 真实用户对话分布分析 | [Docs](https://huggingface.co/datasets/allenai/WildChat) | 适合研究真实聊天分布，而不只是合成式指令数据。 |
+| 13 | Super-NaturalInstructions | English | [GitHub](https://github.com/allenai/natural-instructions) | Mixed / task-specific | 跨任务指令微调 | [Paper](https://arxiv.org/abs/2204.07705) | 覆盖大量任务模板与源数据集，是 instruction generalization 研究中的核心资源。 |
+| 14 | Self-Instruct | English | [GitHub](https://github.com/yizhongw/self-instruct) | Apache-2.0 | 合成指令数据生成 | [Paper](https://arxiv.org/abs/2212.10560) | Alpaca 一类合成指令流程背后最有代表性的开源数据家族之一。 |
+| 15 | P3 (Public Pool of Prompts) | English | [HF](https://huggingface.co/datasets/bigscience/P3) | Apache-2.0 | Prompt 化多任务指令微调 | [Paper](https://arxiv.org/abs/2110.08207) | T0 一类训练与指令泛化研究里最经典的 prompted mixture。 |
+| 16 | RefinedWeb | English | [HF](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | ODC-By 1.0 | 纯网页 LLM 预训练 | [Paper](https://arxiv.org/abs/2306.01116) | Falcon 及后续开放基座模型预训练对比中经常出现的网页语料。 |
+| 17 | RedPajama-Data-1T | English | [HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T) | Mixed / subset-specific | 开放 LLaMA 风格预训练混合语料 | [Docs](https://github.com/togethercomputer/RedPajama-Data) | 面向复现 LLaMA 数据配方的重要开放语料，但许可需按子集分别理解。 |
+| 18 | Aya Dataset | Multilingual | [HF](https://huggingface.co/datasets/CohereLabs/aya_dataset) | Apache-2.0 | 多语言指令微调 | [Paper](https://arxiv.org/abs/2402.06619) | 覆盖数十种语言，是开放多语言 LLM 里很高频的 instruction 数据。 |
 
 ## 相关评测
 

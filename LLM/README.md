@@ -6,10 +6,11 @@ Pretraining corpora, instruction data, preference data, and alignment resources 
 
 ## Coverage Map
 
-- Pretraining: `C4`, `The Pile`, `Dolma`, `FineWeb`
-- Instruction: `FLAN Collection`, `OpenAssistant Conversations`, `Dolly 15k`
+- Pretraining: `C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`
+- Instruction: `FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`
 - Preference: `UltraFeedback`, `HH-RLHF`
-- Safety: `PKU-SafeRLHF`, `BeaverTails`, `WildChat`
+- Safety: `PKU-SafeRLHF`, `BeaverTails`
+- Real conversations: `WildChat`
 
 | # | Dataset | Language | Link | License | Best For | Paper/Docs | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +26,12 @@ Pretraining corpora, instruction data, preference data, and alignment resources 
 | 10 | BeaverTails | English | [Site](https://sites.google.com/view/pku-beavertails/home) | Unknown | Safety SFT and harmfulness filtering | [Paper](https://arxiv.org/abs/2307.04657) | High-signal safety corpus with fine-grained harm labels. |
 | 11 | FineWeb | English | [HF](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | ODC-By 1.0 | High-quality web pretraining | [Docs](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | Modern open web corpus built for strong large-scale pretraining pipelines. |
 | 12 | WildChat | Multilingual | [HF](https://huggingface.co/datasets/allenai/WildChat) | ODC-BY | Real user-assistant dialogue analysis | [Docs](https://huggingface.co/datasets/allenai/WildChat) | Useful when studying real-world chat distributions beyond synthetic prompts. |
+| 13 | Super-NaturalInstructions | English | [GitHub](https://github.com/allenai/natural-instructions) | Mixed / task-specific | Cross-task instruction tuning | [Paper](https://arxiv.org/abs/2204.07705) | Strong instruction-generalization collection spanning hundreds of task templates and source datasets. |
+| 14 | Self-Instruct | English | [GitHub](https://github.com/yizhongw/self-instruct) | Apache-2.0 | Synthetic instruction generation | [Paper](https://arxiv.org/abs/2212.10560) | Foundational synthetic instruction dataset family behind many Alpaca-style pipelines. |
+| 15 | P3 (Public Pool of Prompts) | English | [HF](https://huggingface.co/datasets/bigscience/P3) | Apache-2.0 | Prompted multitask instruction tuning | [Paper](https://arxiv.org/abs/2110.08207) | Canonical prompted mixture used in T0-style training and instruction generalization studies. |
+| 16 | RefinedWeb | English | [HF](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | ODC-By 1.0 | Web-only LLM pretraining | [Paper](https://arxiv.org/abs/2306.01116) | Important open web corpus behind Falcon and later pretraining comparisons. |
+| 17 | RedPajama-Data-1T | English | [HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T) | Mixed / subset-specific | Open LLaMA-style pretraining mixtures | [Docs](https://github.com/togethercomputer/RedPajama-Data) | Major open reproduction of the LLaMA data recipe with subset-level license constraints. |
+| 18 | Aya Dataset | Multilingual | [HF](https://huggingface.co/datasets/CohereLabs/aya_dataset) | Apache-2.0 | Multilingual instruction tuning | [Paper](https://arxiv.org/abs/2402.06619) | High-signal multilingual instruction dataset spanning dozens of languages for open multilingual LLMs. |
 
 ## Related Benchmarks
 

@@ -20,6 +20,13 @@
 | 12 | Waymo Open Dataset | Visual | [Site](https://waymo.com/open/) | Custom / terms of use | 自动驾驶感知与轨迹预测 | [Paper](https://arxiv.org/abs/1912.04838) | 现代自动驾驶三维感知研究中最有代表性的数据集之一。 |
 | 13 | Video-MME | Visual | [Site](https://video-mme.github.io/home_page.html) | Unknown | 视频 MLLM 评测 | [Paper](https://arxiv.org/abs/2405.21075) | 2024-2026 视频语言模型报告里最常见的一类评测集。 |
 | 14 | ScanNet++ | Visual | [Site](https://scannetpp.mlsg.cit.tum.de/scannetpp/) | Unknown | 高保真三维场景理解 | [Paper](https://arxiv.org/abs/2308.11417) | 新一代很强的 3D benchmark，常见于重建、渲染和场景理解论文。 |
+| 15 | UCF101 | Visual | [Site](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Unknown | 裁剪视频动作识别 | [Paper](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/UCF101_CRCV-TR-12-01.pdf) | 最经典、沿用时间也最长的一批动作识别 benchmark 之一。 |
+| 16 | NTU RGB+D 120 | Visual + depth + skeleton | [Site](https://rose1.ntu.edu.sg/dataset/actionRecognition/) | Custom / academic non-commercial | 三维人体动作理解 | [Paper](https://arxiv.org/abs/1905.04757) | RGB+D、骨架与多模态动作识别论文里最核心的 benchmark 之一。 |
+| 17 | AVA | Visual | [Site](https://research.google.com/ava/download.html) | CC BY 4.0 | 时空动作定位 | [Paper](https://arxiv.org/abs/1705.08421) | 面向电影场景中 person-centric action localization 的高频基准。 |
+| 18 | DAVIS | Visual | [Site](https://davischallenge.org/) | Unknown | 视频目标分割 | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.html) | 半监督和无监督 VOS 论文里几乎绕不开的默认参考数据集。 |
+| 19 | ModelNet40 | Visual / 3D CAD | [Site](https://modelnet.cs.princeton.edu/) | Academic research only | 三维物体分类与检索 | [Docs](https://modelnet.cs.princeton.edu/download.html) | 点云与三维形状学习论文中最基础的形状 benchmark 之一。 |
+| 20 | Matterport3D | Visual / RGB-D | [Site](https://niessner.github.io/Matterport/) | Custom / terms of use | 室内三维场景理解 | [Paper](https://arxiv.org/abs/1709.06158) | 建筑级 RGB-D 场景数据，常被复用于重建、具身智能与场景推理。 |
+| 21 | TUM RGB-D | Visual / RGB-D | [Site](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) | CC BY 4.0 | RGB-D SLAM 与三维重建 | [Paper](https://cvg.cit.tum.de/_media/spezial/bib/sturm12iros.pdf) | 带轨迹、深度与评测工具链的经典 RGB-D benchmark。 |
 
 ## 相关评测
 
