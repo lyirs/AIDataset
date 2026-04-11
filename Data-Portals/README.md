@@ -14,6 +14,8 @@ Discovery hubs and dataset registries that help researchers search, filter, and 
 | 6 | Papers with Code Datasets | English | [Site](https://paperswithcode.com/datasets) | Platform / upstream-specific | Linking datasets to tasks, papers, and leaderboards | [Docs](https://paperswithcode.com/datasets) | Useful when you want task-centric dataset discovery. |
 | 7 | Kaggle Datasets | Multilingual | [Site](https://www.kaggle.com/datasets) | Platform / dataset-specific | Discovering community-shared ML and AI datasets | [Docs](https://www.kaggle.com/datasets) | Still one of the most commonly used public dataset hubs for practitioners. |
 | 8 | Registry of Open Data on AWS | Multilingual | [Site](https://registry.opendata.aws/) | Platform / upstream-specific | Discovering large-scale public cloud-hosted datasets | [Docs](https://registry.opendata.aws/) | Useful when dataset scale and direct cloud access matter for training workflows. |
+| 9 | PhysioNet | English | [Site](https://physionet.org/) | Platform / dataset-specific | Discovering clinical signals, ICU records, and challenge datasets | [Docs](https://physionet.org/about/database/) | The canonical public portal for physiological signals and many medical time-series benchmarks. |
+| 10 | OpenSLR | English | [Site](https://openslr.org/) | Platform / dataset-specific | Discovering speech and language resources | [Docs](https://openslr.org/resources.php) | A standard public index for speech corpora, lexicons, and language resources used in ASR and speech research. |
 
 ## Notes
 

@@ -7,8 +7,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 475 primary entries
-- Links checked on 2026-04-10
+- 489 primary entries
+- Links checked on 2026-04-11
 
 ## Inclusion Rules
 
@@ -35,7 +35,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Document-AI | OCR, layout analysis, forms, receipts, tables, charts, and document QA datasets. | [Open](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |
 | Code | Code generation, repair, execution, repository understanding, and software engineering agent datasets. | [Open](Code/README.md) | [中文](Code/README_ZH.md) | 16 |
 | Search-Retrieval | Embedding, retrieval, reranking, multilingual IR, RAG grounding, and multimodal or audio-text retrieval datasets. | [Open](Search-Retrieval/README.md) | [中文](Search-Retrieval/README_ZH.md) | 18 |
-| Graph-Learning | Node, link, graph-level, molecular, knowledge, heterogeneous, and temporal graph datasets. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 12 |
+| Graph-Learning | Node, link, graph-level, molecular, knowledge, heterogeneous, and temporal graph datasets. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 18 |
 | Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 12 |
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 18 |
 | LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 23 |
@@ -46,11 +46,11 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 21 |
 | Finance-Legal | Finance, regulation, legal reasoning, extraction, filing analysis, contract understanding, and compliance datasets. | [Open](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
 | Benchmarks | Cross-domain evaluation suites for NLP, CV, multimodal systems, retrieval, code, agents, and general platforms. | [Open](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 20 |
-| Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
-| Safety-Evals | Safety eval suites, risk taxonomies, red-teaming collections, and agent safety resources. | [Open](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 10 |
+| Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 10 |
+| Safety-Evals | Safety eval suites, risk taxonomies, red-teaming collections, and agent safety resources. | [Open](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 16 |
 
 ## Source Families
 
 - GitHub: official organization repositories, task repositories, benchmark suites, and maintainers.
-- Public portals: Hugging Face, OpenML, OpenDataLab, UCI, OpenSLR, NIST, and research portals.
+- Public portals: Hugging Face, OpenML, OpenDataLab, UCI, PhysioNet, OpenSLR, NIST, and research portals.
 - Official websites: challenge homepages, dataset landing pages, project sites, and leaderboard pages.

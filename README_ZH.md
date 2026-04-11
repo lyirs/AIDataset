@@ -7,8 +7,8 @@
 ## 项目概览
 
 - 25 个分类目录
-- 475 条主条目
-- 链接整理与核验日期：2026-04-10
+- 489 条主条目
+- 链接整理与核验日期：2026-04-11
 
 ## 收录规则
 
@@ -35,7 +35,7 @@
 | 文档 AI（Document-AI） | OCR、版面分析、表单、票据、表格、图表与文档问答数据。 | [英文](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |
 | 代码（Code） | 代码生成、修复、执行、仓库理解与软件工程 Agent 数据。 | [英文](Code/README.md) | [中文](Code/README_ZH.md) | 16 |
 | 搜索与检索（Search-Retrieval） | embedding、检索、reranking、跨语言 IR、RAG grounding 与多模态或音频文本检索数据。 | [英文](Search-Retrieval/README.md) | [中文](Search-Retrieval/README_ZH.md) | 18 |
-| 图学习（Graph-Learning） | 节点、链路、图级、分子图、知识图谱、异构图与时序图学习数据。 | [英文](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 12 |
+| 图学习（Graph-Learning） | 节点、链路、图级、分子图、知识图谱、异构图与时序图学习数据。 | [英文](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 18 |
 | 推荐系统（Recommender-Systems） | 协同过滤、排序、CTR、新闻推荐、bandit 与工业推荐数据。 | [英文](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 12 |
 | 大语言模型（LLM） | 预训练语料、指令微调、合成监督、偏好数据与对齐数据。 | [英文](LLM/README.md) | [中文](LLM/README_ZH.md) | 18 |
 | 大语言模型评测（LLM-Evals） | 覆盖指令遵循、推理、真实性、聊天与长上下文能力的大语言模型评测数据。 | [英文](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 23 |
@@ -46,11 +46,11 @@
 | 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 21 |
 | 金融与法律（Finance-Legal） | 金融、监管、法律推理、抽取、文件分析、合同理解与合规数据。 | [英文](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
 | 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 20 |
-| 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 8 |
-| 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 10 |
+| 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 10 |
+| 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 16 |
 
 ## 来源类型
 
 - GitHub：官方组织仓库、任务仓库、评测仓库与维护者仓库。
-- 公共门户：Hugging Face、OpenML、OpenDataLab、UCI、OpenSLR、NIST 等。
+- 公共门户：Hugging Face、OpenML、OpenDataLab、UCI、PhysioNet、OpenSLR、NIST 等。
 - 官方站点：任务主页、数据集着陆页、项目官网与榜单页面。

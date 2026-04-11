@@ -14,6 +14,8 @@
 | 6 | Papers with Code Datasets | English | [Site](https://paperswithcode.com/datasets) | Platform / upstream-specific | 连接数据集、任务、论文与榜单 | [Docs](https://paperswithcode.com/datasets) | 适合从任务视角反查数据资源。 |
 | 7 | Kaggle Datasets | Multilingual | [Site](https://www.kaggle.com/datasets) | Platform / dataset-specific | 发现社区共享的 ML 与 AI 数据集 | [Docs](https://www.kaggle.com/datasets) | 对实践者来说仍然是最常用的公共数据集门户之一。 |
 | 8 | Registry of Open Data on AWS | Multilingual | [Site](https://registry.opendata.aws/) | Platform / upstream-specific | 发现大规模云端公开数据集 | [Docs](https://registry.opendata.aws/) | 当训练流程需要大规模数据和直接云访问时尤其有价值。 |
+| 9 | PhysioNet | English | [Site](https://physionet.org/) | Platform / dataset-specific | 发现生理信号、ICU 记录与 challenge 数据 | [Docs](https://physionet.org/about/database/) | 它是生理信号与大量医疗时间序列 benchmark 最核心的公共门户。 |
+| 10 | OpenSLR | English | [Site](https://openslr.org/) | Platform / dataset-specific | 发现语音与语言资源 | [Docs](https://openslr.org/resources.php) | ASR 与语音研究里最常见的公开语音语料与词典索引之一。 |
 
 ## 说明
 

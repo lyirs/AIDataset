@@ -18,6 +18,12 @@
 | 10 | ZINC | Molecular graphs | [Site](https://zinc.docking.org/) | Unknown | 分子图回归与生成 | [Docs](https://zinc.docking.org/) | 小型 ZINC 子集至今仍是图回归和分子生成论文里的常见基准。 |
 | 11 | Temporal Graph Benchmark (TGB) | Temporal graphs | [Site](https://tgb.complexdatalab.com/) | Mixed / source-specific | 时序链路预测与动态图学习 | [Paper](https://arxiv.org/abs/2307.01026) | 这是当前最清晰、最现代的一类真实时序图学习 benchmark 家族。 |
 | 12 | Heterogeneous Graph Benchmark (HGB) | Heterogeneous graphs | [GitHub](https://github.com/THUDM/HGB) | Mixed / source-specific | 异构图学习与评测 | [Paper](https://arxiv.org/abs/2112.14936) | 异构节点分类、链路预测和推荐式任务里很常见的标准 benchmark suite。 |
+| 13 | Reddit | Text-attributed graph | [Site](https://snap.stanford.edu/graphsage/) | Unknown | 大规模归纳式节点分类 | [Paper](https://arxiv.org/abs/1706.02216) | 它是 GraphSAGE 之后最常被直接点名的大规模 attributed graph 基准之一。 |
+| 14 | PPI | Biological interaction graphs | [Site](https://snap.stanford.edu/graphsage/) | Unknown | 跨图归纳泛化 | [Paper](https://arxiv.org/abs/1706.02216) | 多张蛋白互作图上的归纳学习 benchmark，沿用时间很长。 |
+| 15 | FB15k-237 | Knowledge graph | [GitHub](https://github.com/TimDettmers/ConvE) | Unknown | 去泄漏知识图谱补全 | [Paper](https://arxiv.org/abs/1707.01476) | 它仍然是中小规模 KG completion 论文里最常见的默认基准之一。 |
+| 16 | WN18RR | Knowledge graph | [GitHub](https://github.com/TimDettmers/ConvE) | Unknown | WordNet 知识图谱补全 | [Paper](https://arxiv.org/abs/1707.01476) | 作为 FB15k-237 的 WordNet 对照，它依然是经典的 leakage-reduced KG benchmark。 |
+| 17 | Geom-GCN Heterophily Suite | Heterophilous graphs | [GitHub](https://github.com/bingzhewei/geom-gcn) | Unknown | 异配图节点分类 | [Paper](https://arxiv.org/abs/2002.05287) | 经典异配图套件，覆盖 Actor、Chameleon、Squirrel、Texas、Wisconsin 和 Cornell。 |
+| 18 | Yandex Heterophilous Graph Datasets | Heterophilous graphs | [Site](https://research.yandex.com/datasets/heterophilous-graph-datasets) | Unknown | 现代异配图评测 | [Docs](https://research.yandex.com/publications/a-critical-look-at-the-evaluation-of-gnns-under-heterophily-are-we-really-making-progress) | 包含 Roman-empire、Amazon-ratings、Minesweeper、Tolokers 与 Questions。 |
 
 ## 相关评测
 
@@ -26,6 +32,8 @@
 - [OGB-LSC](https://ogb.stanford.edu/docs/lsc/)
 - [Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
 - [Temporal Graph Benchmark](https://tgb.complexdatalab.com/)
+- [GraphSAGE benchmarks](https://snap.stanford.edu/graphsage/)
+- [Yandex heterophilous graph datasets](https://research.yandex.com/datasets/heterophilous-graph-datasets)
 
 ## 收录说明
 
