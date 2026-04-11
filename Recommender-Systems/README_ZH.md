@@ -18,6 +18,11 @@
 | 10 | Amazon Reviews'23 | Reviews + metadata + graphs | [Site](https://amazon-reviews-2023.github.io/) | Unknown | 大规模商品检索与推荐 | [Paper](https://arxiv.org/abs/2403.03952) | 现代推荐研究中很重要的大规模资源，包含评论文本、元数据与商品关联结构。 |
 | 11 | Jester | Ratings | [Site](https://eigentaste.berkeley.edu/dataset/) | Custom / research use | 稠密显式评分协同过滤 | [Docs](https://eigentaste.berkeley.edu/about.html) | 推荐系统学术研究里寿命很长、也非常经典的稠密评分数据集之一。 |
 | 12 | Book-Crossing | Ratings + metadata | [Site](https://grouplens.org/datasets/book-crossing/) | Unknown | 图书推荐与显隐式反馈建模 | [Docs](https://grouplens.org/datasets/book-crossing/) | 图书推荐方向的经典 benchmark，带稀疏评分交互和元数据。 |
+| 13 | HetRec 2011 LastFM 2K | Music listening + tags | [Site](https://grouplens.org/datasets/hetrec-2011/) | Unknown | 音乐推荐与社交推荐 | [Paper](https://dl.acm.org/doi/10.1145/2043932.2043988) | 基于 Last.fm 听歌行为与标签构建，是音乐推荐方向的经典 benchmark。 |
+| 14 | Adressa | English news + click logs | [Site](https://reclab.idi.ntnu.no/dataset/) | Custom / research access | 实时新闻推荐 | [Paper](https://arxiv.org/abs/1808.03162) | 它是 session-aware 与流式新闻推荐研究里最常见的公开 benchmark 之一。 |
+| 15 | Taobao User Behavior Dataset | E-commerce behavior logs | [Site](https://tianchi.aliyun.com/dataset/649) | Custom / Tianchi terms | 序列推荐与 CTR 式行为建模 | [Docs](https://tianchi.aliyun.com/dataset/649) | 阿里电商行为数据里最常被推荐论文复用的一批公开数据之一。 |
+| 16 | XING / RecSys Challenge 2016 | Job recommendation logs | [Site](https://2016.recsyschallenge.com/) | Custom / challenge terms | 职位推荐与隐式反馈排序 | [Docs](https://2016.recsyschallenge.com/challenge.html) | 一个很强的大规模工业级 benchmark，适合隐式反馈和丰富元数据推荐研究。 |
+| 17 | Trivago / RecSys Challenge 2019 | Session interactions | [Site](https://www.recsyschallenge.com/2019/) | Custom / challenge terms | 会话推荐与上下文排序 | [Docs](https://www.recsyschallenge.com/2019/challenge.html) | 会话推荐和反事实排序研究里信号很高的一类公开 challenge 数据。 |
 
 ## 相关评测
 

@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 25 topical directories
-- 489 primary entries
+- 502 primary entries
 - Links checked on 2026-04-11
 
 ## Inclusion Rules
@@ -30,13 +30,13 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 23 |
 | Multimodal | Vision-language, VQA, chart and OCR-grounded reasoning, image-text alignment, and multimodal instruction datasets. | [Open](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 27 |
 | Speech-Audio | ASR, speech translation, speaker or language ID, speech emotion, and speech generation datasets. | [Open](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 19 |
-| Audio-Understanding | Sound events, audio captioning, audio-language learning, and audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 13 |
+| Audio-Understanding | Sound events, audio captioning, audio-language learning, and audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 21 |
 | Time-Series | Forecasting, classification, anomaly detection, clinical time series, and spatiotemporal sequence datasets. | [Open](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 15 |
 | Document-AI | OCR, layout analysis, forms, receipts, tables, charts, and document QA datasets. | [Open](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |
 | Code | Code generation, repair, execution, repository understanding, and software engineering agent datasets. | [Open](Code/README.md) | [中文](Code/README_ZH.md) | 16 |
 | Search-Retrieval | Embedding, retrieval, reranking, multilingual IR, RAG grounding, and multimodal or audio-text retrieval datasets. | [Open](Search-Retrieval/README.md) | [中文](Search-Retrieval/README_ZH.md) | 18 |
 | Graph-Learning | Node, link, graph-level, molecular, knowledge, heterogeneous, and temporal graph datasets. | [Open](Graph-Learning/README.md) | [中文](Graph-Learning/README_ZH.md) | 18 |
-| Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 12 |
+| Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 17 |
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 18 |
 | LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 23 |
 | Agent | Tool use, browser and web agents, computer use, software engineering agents, and environment interaction datasets. | [Open](Agent/README.md) | [中文](Agent/README_ZH.md) | 21 |
