@@ -24,6 +24,11 @@
 | 16 | CATH | Protein structures | [Site](https://www.cathdb.info/) | CC BY 4.0 | 蛋白质折叠与结构分类 | [Docs](https://www.cathdb.info/) | 结构生物学和蛋白结构学习中最经典的分类数据库之一。 |
 | 17 | BindingDB | Protein-ligand interactions | [Site](https://www.bindingdb.org/rwd/bind/index.jsp) | Unknown | 药物靶点相互作用与亲和力建模 | [Docs](https://www.bindingdb.org/rwd/bind/aboutus.jsp) | 药物发现机器学习里最经典的公开实验结合亲和力来源之一。 |
 | 18 | MD17 | Molecules + forces | [Site](https://www.quantum-machine.org/datasets/) | Unknown | 分子动力学力场学习 | [Docs](https://www.quantum-machine.org/datasets/) | 原子级机器学习里默认会出现的一类能量与力预测 benchmark 家族。 |
+| 19 | Therapeutics Data Commons | Multimodal therapeutics data | [Site](https://tdcommons.ai/) | Platform / dataset-specific | 统一药物研发 ML 任务与 benchmark | [Paper](https://arxiv.org/abs/2206.08534) | 它是药物发现里信号很强的平台型资源，覆盖分子性质、DTI、ADME、毒性与生成任务。 |
+| 20 | Gene Expression Omnibus (GEO) | Omics / gene expression | [Site](https://www.ncbi.nlm.nih.gov/geo/) | Mixed / submitter-specific | 转录组与功能基因组建模 | [Docs](https://www.ncbi.nlm.nih.gov/geo/info/overview.html) | 这是基因表达和功能基因组数据最核心的公开档案库之一。 |
+| 21 | Human Cell Atlas | Single-cell omics | [Site](https://data.humancellatlas.org/) | Platform / source-specific | 单细胞表征学习与 atlas 级生物学建模 | [Docs](https://www.humancellatlas.org/) | 它是单细胞转录组和 atlas 级细胞生物学数据最旗舰的一类全球资源。 |
+| 22 | Open Targets Platform | Genetics + targets + diseases | [Site](https://platform.opentargets.org/) | Platform / source-specific | 靶点发现与药物研发机器学习 | [Docs](https://platform-docs.opentargets.org/) | 它把遗传学、疾病关联和多源证据整合起来，是 target discovery 研究里的高频平台。 |
+| 23 | STRING Database | Protein interaction networks | [Site](https://string-db.org/) | Unknown | 蛋白互作建模与网络生物学 | [Docs](https://string-db.org/cgi/about) | 这是系统生物学和生物图学习里使用最广泛的一类公开互作网络资源。 |
 
 ## 相关评测
 

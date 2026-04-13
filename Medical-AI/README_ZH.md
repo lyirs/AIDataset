@@ -27,6 +27,11 @@
 | 19 | UK Biobank | Biomedical multimodal data | [Site](https://www.ukbiobank.ac.uk/about-us/how-we-work/access-to-uk-biobank-data/) | Custom / application-based access | 人群级健康建模 | [Docs](https://www.ukbiobank.ac.uk/use-our-data/apply-for-access/) | 这是当今最重要的大规模生物医学资源之一，但访问需申请并受协议约束。 |
 | 20 | PadChest | Spanish radiology + images | [Site](https://bimcv.cipf.es/bimcv-projects/padchest/) | Custom / research use agreement | 胸部放射视觉语言学习 | [Docs](https://bimcv.cipf.es/bimcv-projects/padchest/padchest-dataset-research-use-agreement/) | 来自西班牙胸部放射实践的高信号胸片数据集，带报告和丰富标签。 |
 | 21 | VinDr-CXR | English | [Site](https://physionet.org/content/vindr-cxr/) | Credentialed Health Data License 1.5.0 | 胸部 X 光检测与放射科医生框标注定位 | [Paper](https://arxiv.org/abs/2012.15029) | 它是 CheXpert 之后非常重要的胸片 benchmark，但需要完成 PhysioNet 资质访问。 |
+| 22 | MedMNIST | Medical imaging | [Site](https://medmnist.com/) | CC BY 4.0 | 轻量标准化医学影像分类 benchmark | [Paper](https://www.nature.com/articles/s41597-022-01721-8) | 这是一个被大量快速实验和基础模型论文采用的小而全医学影像 benchmark 家族。 |
+| 23 | ADNI | Neuroimaging + clinical | [Site](https://adni.loni.usc.edu/) | Custom / application-based access | 阿尔茨海默病进展建模 | [Docs](https://adni.loni.usc.edu/data-samples/access-data/) | 它是痴呆、纵向健康建模和多模态脑影像研究里最重要的队列之一。 |
+| 24 | OASIS | Neuroimaging | [Site](https://sites.wustl.edu/oasisbrains/) | Custom / data use terms | 脑老化与痴呆神经影像建模 | [Docs](https://sites.wustl.edu/oasisbrains/#access) | 这是脑老化和阿尔茨海默病研究里沿用时间很长的开放神经影像资源。 |
+| 25 | HAM10000 | Dermoscopy images | [Site](https://complexity.cecs.ucf.edu/ham10000/) | Unknown | 皮肤病灶分类 | [Paper](https://www.nature.com/articles/sdata2018161) | 皮肤镜图像分类和皮肤病学视觉诊断里最经典的一批公开 benchmark 之一。 |
+| 26 | RSNA Pneumonia Detection Challenge 2018 | Chest X-ray | [Site](https://www.rsna.org/artificial-intelligence/ai-image-challenge/rsna-pneumonia-detection-challenge-2018) | Unknown | 肺炎检测与定位 | [Docs](https://www.rsna.org/artificial-intelligence/ai-image-challenge/rsna-pneumonia-detection-challenge-2018) | 这是胸片定位任务里信号很高的一类放射学挑战 benchmark。 |
 
 ## 相关评测
 

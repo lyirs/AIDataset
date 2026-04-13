@@ -7,8 +7,8 @@
 ## 项目概览
 
 - 25 个分类目录
-- 502 条主条目
-- 链接整理与核验日期：2026-04-11
+- 512 条主条目
+- 链接整理与核验日期：2026-04-13
 
 ## 收录规则
 
@@ -42,8 +42,8 @@
 | 智能体（Agent） | 工具调用、网页代理、computer use、软件工程代理与环境交互数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 21 |
 | 机器人与强化学习（Robotics-RL） | 离线强化学习、模仿学习、机器人操作、轨迹与仿真器主导的机器人学习数据。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 13 |
 | 具身智能（Embodied-AI） | 具身导航、指令执行、第一视角感知与语言条件行为数据。 | [英文](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 16 |
-| 科学 AI（Scientific-AI） | 分子、蛋白质、材料、反应与科学文献数据。 | [英文](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 18 |
-| 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 21 |
+| 科学 AI（Scientific-AI） | 分子、蛋白质、材料、反应与科学文献数据。 | [英文](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 23 |
+| 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |
 | 金融与法律（Finance-Legal） | 金融、监管、法律推理、抽取、文件分析、合同理解与合规数据。 | [英文](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 14 |
 | 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 20 |
 | 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 10 |
