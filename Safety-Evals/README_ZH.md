@@ -22,6 +22,10 @@
 | 14 | DecodingTrust | English | [Site](https://decodingtrust.github.io/) | CC BY-SA 4.0 | 广义可信与安全评测 | [Paper](https://arxiv.org/abs/2306.11698) | 它是最常被引用的一类大而全安全套件之一，覆盖毒性、鲁棒性、隐私、公平与伦理。 |
 | 15 | CyberSecEval | English | [Site](https://meta-llama.github.io/PurpleLlama/CyberSecEval/) | MIT / mixed components | 面向 LLM 与 Agent 的网络安全风险评测 | [Docs](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) | Meta 官方 benchmark 家族，覆盖不安全代码、提示注入、攻击能力与 agentic cyber 风险。 |
 | 16 | Agent Security Bench (ASB) | English | [Site](https://luckfort.github.io/ASBench/) | MIT | Agent 攻防评测 | [Paper](https://openreview.net/forum?id=V4y0CpX4hK) | 面向工具型 Agent 的安全风险与防御评测，信号很强。 |
+| 17 | SALAD-Bench | English | [GitHub](https://github.com/OpenSafetyLab/SALAD-BENCH) | Apache-2.0 | 分层式 LLM 安全与越狱评测 | [Paper](https://arxiv.org/abs/2402.05044) | 它是当前规模较大、结构最完整的一类安全 benchmark 之一，还配有 MD-Judge 自动评测器。 |
+| 18 | AgentHarm | English | [HF](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) | MIT + safety-use clause | 工具型 Agent 有害行为评测 | [Paper](https://arxiv.org/abs/2410.09024) | 它专门评估显式恶意、多步骤 agent 任务；当前公开版是 UK AISI 托管的部分发布。 |
+| 19 | Do-Not-Answer | English | [HF](https://huggingface.co/datasets/LibrAI/do-not-answer) | CC BY-NC-SA 4.0 | 安全拒答与 abstention 评测 | [Paper](https://arxiv.org/abs/2308.13387) | 这是安全对齐研究里最经典、也最常被引用的一类“该不该回答” benchmark。 |
+| 20 | ToxiGen | English | [HF](https://huggingface.co/datasets/toxigen/toxigen-data) | Research use / gated access | 隐式毒性与有害文本安全评测 | [Paper](https://arxiv.org/abs/2203.09509) | 它在 toxicity、moderation 与 harmful generation 评测中复用率很高。 |
 
 ## 说明
 

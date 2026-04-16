@@ -21,6 +21,11 @@
 | 13 | PhysioNet/CinC Challenge 2019 | Clinical multivariate time series | [Site](https://physionet.org/challenge/2019/) | Unknown | 早期脓毒症预测 | [Docs](https://physionet.org/static/published-projects/challenge-2019/1.0.0/physionet_challenge_2019_ccm_manuscript.pdf) | 临床时序预警里很高信号的 ICU benchmark，强调早期识别。 |
 | 14 | PTB-XL | Clinical multivariate time series | [Site](https://physionet.org/content/ptb-xl/1.0.3/) | CC BY 4.0 | ECG 分类与表征学习 | [Paper](https://www.nature.com/articles/s41597-020-0495-6) | 现代临床时间序列建模里最常出现的 ECG benchmark 之一。 |
 | 15 | HiRID | Clinical multivariate time series | [Site](https://physionet.org/content/hirid/1.1.1/) | PhysioNet Contributor Review Health Data License 1.5.0 | 高分辨率 ICU 预测与插补 | [Docs](https://hirid.intensivecare.ai/) | 需要凭证访问，但在早预警、预测与不规则 ICU 时序研究里非常高频。 |
+| 16 | WeatherBench | Spatiotemporal weather fields | [GitHub](https://github.com/pangeo-data/WeatherBench) | Copernicus / ERA5 terms | 数据驱动天气预测 | [Paper](https://arxiv.org/abs/2002.00469) | 它是全球中期天气预测里最常见的机器学习 benchmark 之一。 |
+| 17 | WeatherBench 2 | Spatiotemporal weather fields | [GitHub](https://github.com/google-research/weatherbench2) | Copernicus / ERA5 terms | 新一代全球天气模型评测 | [Paper](https://arxiv.org/abs/2308.15560) | 它已经成为现代天气大模型和数据驱动天气系统对比的默认 benchmark 之一。 |
+| 18 | SWaT | Multivariate industrial time series | [Site](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | Request-based / iTrust terms | 工业控制异常检测 | [Docs](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | 它是网络物理系统与工业异常检测里最常用的多变量时序数据集之一。 |
+| 19 | WADI | Multivariate industrial time series | [Site](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | Request-based / iTrust terms | 供水系统异常检测 | [Docs](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | 它常与 SWaT 配套使用，是工业控制安全论文里的经典异常检测 benchmark。 |
+| 20 | Building Data Genome Project 2 | Multivariate building-energy time series | [GitHub](https://github.com/buds-lab/building-data-genome-project-2) | Unknown | 建筑能耗预测与分析 | [Paper](https://arxiv.org/abs/2006.02273) | 它是建筑能耗预测、负荷建模与长期能耗分析里很高信号的 benchmark。 |
 
 ## 相关评测
 
@@ -28,6 +33,7 @@
 - [M Competitions](https://www.unic.ac.cy/iff/research/forecasting/m-competitions/)
 - [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
 - [PhysioNet Challenges](https://physionet.org/challenge/)
+- [WeatherBench](https://github.com/pangeo-data/WeatherBench)
 
 ## 收录说明
 

@@ -25,6 +25,12 @@
 | 17 | WenetSpeech | Chinese | [GitHub](https://github.com/wenet-e2e/WenetSpeech) | Unknown | 大规模普通话语音识别 | [Paper](https://arxiv.org/abs/2110.03370) | 中文 ASR 强基线里很高频的一个大规模普通话数据集。 |
 | 18 | ML-SUPERB 2.0 | Multilingual speech | [Site](https://multilingual.superbbenchmark.org/challenge-interspeech2025/challenge_overview) | Apache-2.0 | 多语言 ASR 与语言识别评测 | [Paper](https://arxiv.org/abs/2406.08641) | 现在最清晰、也最贴近现代多语言语音模型的 benchmark suite 之一。 |
 | 19 | MLS (Multilingual LibriSpeech) | Multilingual | [Site](https://openslr.org/94/) | CC BY 4.0 | 多语言 ASR 与语音研究 | [Paper](https://arxiv.org/abs/2012.03411) | 一个标准的大规模多语言语音语料，在 ASR 和语音基础模型论文里都很常见。 |
+| 20 | CoVoST 2 | Multilingual | [HF](https://huggingface.co/datasets/facebook/covost2) | CC BY-NC 4.0 | 多语言语音翻译 | [Paper](https://arxiv.org/abs/2007.10310) | 它是大规模多语言 speech translation 和低资源 ST 研究里最常见的标准资源之一。 |
+| 21 | AMI Meeting Corpus | English | [Site](https://groups.inf.ed.ac.uk/ami/) | CC BY 4.0 | 会议语音识别、说话人分离与摘要 | [Docs](https://groups.inf.ed.ac.uk/ami/download/) | 它是多方会议转写、diarization 和口语摘要研究里最经典的会议语料之一。 |
+| 22 | SLURP | English | [GitHub](https://github.com/pswietojanski/slurp) | Mixed / text CC BY 4.0 + audio CC BY-NC 4.0 | 口语语言理解 | [Paper](https://aclanthology.org/2020.emnlp-main.588/) | 它是端到端 SLU 里高频出现的 benchmark，包含 intent、slot 和配套语音。 |
+| 23 | Fisher English Training Speech | English | [Site](https://catalog.ldc.upenn.edu/LDC2004S13) | LDC User Agreement for Non-Members | 对话电话语音识别 | [Docs](https://catalog.ldc.upenn.edu/LDC2005S13) | 它的 Part 1 和 Part 2 长期一起被用作 conversational ASR 与 speech translation 流水线中的核心资源。 |
+| 24 | SPGISpeech | English | [HF](https://huggingface.co/datasets/kensho/spgispeech) | Custom / Kensho terms | 金融领域语音识别 | [Paper](https://arxiv.org/abs/2104.02014) | 它是高质量转写的电话会议语料，在鲁棒英语 ASR 和金融场景中复用率很高。 |
+| 25 | VCTK Corpus | English | [Site](https://datashare.ed.ac.uk/handle/10283/3443) | CC BY 4.0 | 多说话人 TTS 与声音转换 | [Paper](https://doi.org/10.1109/ICSDA.2013.6709856) | 它是英语多说话人语音合成、speaker adaptation 和 voice conversion 里最常见的公开语料之一。 |
 
 ## 相关评测
 

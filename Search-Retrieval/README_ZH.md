@@ -24,11 +24,17 @@
 | 16 | NFCorpus | English | [Site](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) | Unknown | 生物医学与消费者健康检索 | [Docs](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) | 经典 IR benchmark，在 BEIR 和 biomedical retrieval 对比里仍然高频出现。 |
 | 17 | BRIGHT | English | [Site](https://brightbenchmark.github.io/) | Unknown | 强推理型检索评测 | [Paper](https://arxiv.org/abs/2407.12883) | 专门针对标准 BEIR 式检索难以覆盖的多跳和推理型失败模式。 |
 | 18 | CRAG | English | [GitHub](https://github.com/facebookresearch/CRAG) | CC BY-NC 4.0 | 端到端 RAG 评测 | [Paper](https://arxiv.org/abs/2406.04744) | 加入更真实的检索、模拟网页访问和生成评估流程。 |
+| 19 | KILT | English | [GitHub](https://github.com/facebookresearch/KILT) | Mixed / underlying-task licenses | 知识密集型检索支撑评测 | [Paper](https://aclanthology.org/2021.naacl-main.200/) | 它把 QA、事实核验、slot filling 和实体链接统一到同一份 Wikipedia 快照上。 |
+| 20 | ORCAS | English | [Site](https://microsoft.github.io/msmarco/ORCAS.html) | Non-commercial research only / terms | 大规模点击式检索训练 | [Docs](https://microsoft.github.io/msmarco/Datasets.html) | 这是排序模型、蒸馏检索器和 click-based retrieval 工作里长期高频的数据集。 |
+| 21 | QReCC | English | [GitHub](https://github.com/apple/ml-qrecc) | CC BY-SA 3.0 (dataset) / Apache-2.0 (code) | 对话式搜索与检索问答 | [Paper](https://arxiv.org/abs/2010.04898) | 它是 conversational retrieval、query rewriting 和 passage grounding 方向的标准基准之一。 |
+| 22 | TopiOCQA | English | [Site](https://mcgill-nlp.github.io/topiocqa/) | CC BY-NC-SA 4.0 | 带话题切换的对话检索 | [Paper](https://arxiv.org/abs/2110.00768) | 常用于测试 topic switching 条件下的对话搜索和检索歧义处理能力。 |
+| 23 | MuSiQue | English | [GitHub](https://github.com/StonyBrookNLP/musique) | CC BY 4.0 | 多跳检索与问题分解 | [Docs](https://github.com/StonyBrookNLP/musique) | 在 retrieval-augmented QA 论文里，它经常被用作更难的多步证据查找基准。 |
 
 ## 相关评测
 
 - [Benchmarks 总览](../Benchmarks/README_ZH.md)
 - [MTEB](https://github.com/embeddings-benchmark/mteb)
 - [BEIR](https://github.com/beir-cellar/beir)
+- [KILT](https://github.com/facebookresearch/KILT)
 - [TREC Deep Learning Track](https://trec.nist.gov/data/deep.html)
 - [Audio-Understanding 总览](../Audio-Understanding/README_ZH.md)

@@ -19,6 +19,11 @@ Offline RL, robot manipulation, trajectory data, and simulation environments for
 | 11 | DROID | Robot trajectories | [Site](https://droid-dataset.github.io/) | Unknown | Large-scale real-world robot manipulation and visuomotor pretraining | [Docs](https://droid-dataset.github.io/droid/the-droid-dataset) | A high-signal real-world manipulation dataset that complements BridgeData V2 and Open X-Embodiment. |
 | 12 | robomimic v0.1 | Robot demos | [Site](https://robomimic.github.io/) | Unknown | Offline imitation learning for robot manipulation | [Docs](https://robomimic.github.io/docs/v0.4/datasets/robomimic_v0.1.html) | One of the most common open demonstration datasets in robot imitation-learning papers. |
 | 13 | RoboSet | Robot demos | [Site](https://robopen.github.io/roboset/) | Unknown | Real-world robot manipulation demonstrations | [Docs](https://robopen.github.io/roboset/teleoperation.html) | Compact but high-signal teleoperation data used in modern manipulation-policy papers. |
+| 14 | FurnitureBench | Real-world robot demos | [GitHub](https://github.com/clvrai/furniture-bench) | MIT (repo) / dataset terms unclear | Long-horizon real-world manipulation benchmarking | [Paper](https://arxiv.org/abs/2305.12821) | A widely cited real-world benchmark for complex furniture-assembly manipulation. |
+| 15 | MimicGen | Simulated robot demos | [Site](https://mimicgen.github.io/) | Unknown | Scalable robot demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) | Generates large demonstration corpora from a small set of human source trajectories. |
+| 16 | RoboCasa | Simulation tasks | [GitHub](https://github.com/robocasa/robocasa) | CC BY 4.0 (assets and datasets) / MIT (code) | Everyday-task generalist robot simulation | [Paper](https://arxiv.org/abs/2406.02523) | A high-signal modern benchmark for large-scale household manipulation. |
+| 17 | RoboTurk | Robot demos | [Site](https://roboturk.stanford.edu/realrobotdataset.html) | Unknown | Crowdsourced robot teleoperation demonstrations | [Paper](https://arxiv.org/abs/1811.02790) | An early but still influential large-scale human-teleoperated manipulation dataset. |
+| 18 | VIMA-Bench | Multimodal robot tasks | [GitHub](https://github.com/vimalabs/VIMABench) | MIT (benchmark repo) | Multimodal prompt-conditioned robot manipulation | [Paper](https://arxiv.org/abs/2210.03094) | A standard benchmark for generalization in prompt-based robot manipulation. |
 
 ## Related Benchmarks
 
@@ -26,6 +31,7 @@ Offline RL, robot manipulation, trajectory data, and simulation environments for
 - [D4RL](https://github.com/Farama-Foundation/D4RL)
 - [Open X-Embodiment](https://robotics-transformer-x.github.io/)
 - [Meta-World](https://metaworld.farama.org/)
+- [FurnitureBench](https://github.com/clvrai/furniture-bench)
 
 ## Selection Note
 

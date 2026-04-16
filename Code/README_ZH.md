@@ -22,6 +22,11 @@
 | 14 | EvalPlus | Python | [GitHub](https://github.com/evalplus/evalplus) | Apache-2.0 | 更严格的 HumanEval 与 MBPP 评测 | [Paper](https://arxiv.org/abs/2305.01210) | 为经典代码基准补充更难测试用例和更严格清洗。 |
 | 15 | RepoBench | Multilingual code | [GitHub](https://github.com/Leolty/repobench) | CC BY 4.0 | 仓库级代码补全与理解 | [Paper](https://arxiv.org/abs/2306.03091) | 适合评估需要更大代码库上下文的模型，而不只是单函数生成。 |
 | 16 | CRUXEval | Python | [GitHub](https://github.com/facebookresearch/cruxeval) | MIT | 代码推理与执行理解 | [Paper](https://arxiv.org/abs/2401.03065) | 一个紧凑但信号很强的程序推理 benchmark，不只看生成结果。 |
+| 17 | Project CodeNet | Multilingual code | [GitHub](https://github.com/IBM/Project_CodeNet) | Mixed / source-platform terms | 大规模 AI for Code 预训练与基准研究 | [Paper](https://arxiv.org/abs/2105.12655) | 它是目前最常被引用的大型公开代码语料之一，覆盖 55 种语言、约 1400 万提交。 |
+| 18 | Defects4J | Java | [Site](https://defects4j.org/) | Mixed / source-project licenses | 真实 bug 修复与软件测试研究 | [Paper](https://homes.cs.washington.edu/~rjust/publ/JustJE2014-abstract.html) | 它几乎是 Java 程序修复、fault localization 与测试生成的标准真实缺陷基准。 |
+| 19 | ClassEval | Python | [GitHub](https://github.com/FudanSELab/ClassEval) | CC BY-NC 4.0 | 类级代码生成 | [Paper](https://arxiv.org/abs/2308.01861) | 这是从单函数走向类级代码生成时最常见、最有代表性的基准之一。 |
+| 20 | xCodeEval | Multilingual code | [GitHub](https://github.com/ntunlp/xCodeEval) | CC BY-NC 4.0 | 多语言代码理解、生成与翻译 | [Paper](https://arxiv.org/abs/2303.03004) | 它覆盖 11 种语言上的 7 类执行式任务，是很常见的多语言代码 benchmark。 |
+| 21 | RepoQA | Multilingual code | [Site](https://evalplus.github.io/repoqa.html) | Mixed / source-repo licenses | 长上下文仓库级代码理解 | [Paper](https://arxiv.org/abs/2406.06025) | 这是近两年非常有代表性的真实仓库上下文函数检索评测。 |
 
 ## 相关评测
 

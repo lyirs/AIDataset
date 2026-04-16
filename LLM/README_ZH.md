@@ -6,11 +6,11 @@
 
 ## 覆盖范围
 
-- 预训练：`C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`
-- 指令数据：`FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`
-- 偏好数据：`UltraFeedback`, `HH-RLHF`
+- 预训练：`C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`, `SlimPajama-627B`, `OpenWebMath`
+- 指令数据：`FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`, `UltraChat 200k`, `No Robots`, `Tulu V2 SFT Mixture`, `LIMA`
+- 偏好数据：`UltraFeedback`, `HH-RLHF`, `Nectar`
 - 安全对齐：`PKU-SafeRLHF`, `BeaverTails`
-- 真实对话：`WildChat`
+- 真实对话：`WildChat`, `LMSYS-Chat-1M`
 
 | 序号 | 数据集 | 语言 | 链接 | 许可 | 适用方向 | 论文/文档 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,6 +32,14 @@
 | 16 | RefinedWeb | English | [HF](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | ODC-By 1.0 | 纯网页 LLM 预训练 | [Paper](https://arxiv.org/abs/2306.01116) | Falcon 及后续开放基座模型预训练对比中经常出现的网页语料。 |
 | 17 | RedPajama-Data-1T | English | [HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T) | Mixed / subset-specific | 开放 LLaMA 风格预训练混合语料 | [Docs](https://github.com/togethercomputer/RedPajama-Data) | 面向复现 LLaMA 数据配方的重要开放语料，但许可需按子集分别理解。 |
 | 18 | Aya Dataset | Multilingual | [HF](https://huggingface.co/datasets/CohereLabs/aya_dataset) | Apache-2.0 | 多语言指令微调 | [Paper](https://arxiv.org/abs/2402.06619) | 覆盖数十种语言，是开放多语言 LLM 里很高频的 instruction 数据。 |
+| 19 | SlimPajama-627B | English | [HF](https://huggingface.co/datasets/cerebras/SlimPajama-627B) | Mixed / subset-specific | 去重后的开放大规模预训练 | [Docs](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama) | 它是 RedPajama 清洗和去重后的高频替代版本，在开放预训练里复用率很高。 |
+| 20 | OpenWebMath | English | [HF](https://huggingface.co/datasets/open-web-math/open-web-math) | ODC-By 1.0 | 数学导向预训练 | [Paper](https://arxiv.org/abs/2310.06786) | 它是近两年开放数学与推理模型最常引用的数学网页语料之一。 |
+| 21 | UltraChat 200k | English | [HF](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k) | MIT | 多轮指令微调 | [Paper](https://arxiv.org/abs/2305.14233) | 它是 Zephyr 一类开放聊天模型后训练里非常常见的多轮 SFT 数据。 |
+| 22 | No Robots | English | [HF](https://huggingface.co/datasets/HuggingFaceH4/no_robots) | CC BY-NC 4.0 | 人工编写指令微调 | [Docs](https://huggingface.co/datasets/HuggingFaceH4/no_robots) | 它是开放对齐研究里很重要的人写指令数据，可作为合成数据的对照。 |
+| 23 | Tulu V2 SFT Mixture | English | [HF](https://huggingface.co/datasets/allenai/tulu-v2-sft-mixture) | ODC-BY / subset-specific | 开放指令混合后训练 | [Paper](https://arxiv.org/abs/2311.10702) | 它是 Tulu 与后续 open-instruct 系列中很核心的一套后训练混合数据。 |
+| 24 | LMSYS-Chat-1M | Multilingual | [HF](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) | Custom / LMSYS dataset agreement | 真实世界聊天建模与分析 | [Paper](https://arxiv.org/abs/2309.11998) | 它来自 Chatbot Arena 与 Vicuna demo 的真实用户对话，是研究真实 prompt 分布的重要资源。 |
+| 25 | LIMA | English | [HF](https://huggingface.co/datasets/GAIR/lima) | CC BY-NC-SA / source-specific | 小样本高质量指令微调 | [Paper](https://arxiv.org/abs/2305.11206) | 它以“小而精”的 SFT 设计著名，是开放对齐论文里被反复引用的代表性数据。 |
+| 26 | Nectar | English | [HF](https://huggingface.co/datasets/berkeley-nest/Nectar) | Custom / non-commercial restrictions | 偏好建模与奖励训练 | [Docs](https://huggingface.co/datasets/berkeley-nest/Nectar) | 它是高质量排序响应数据，在奖励模型和 DPO 一类实验里出现频率很高。 |
 
 ## 相关评测
 

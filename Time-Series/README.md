@@ -21,6 +21,11 @@ Datasets and benchmark archives for forecasting, classification, anomaly detecti
 | 13 | PhysioNet/CinC Challenge 2019 | Clinical multivariate time series | [Site](https://physionet.org/challenge/2019/) | Unknown | Early sepsis prediction from clinical streams | [Docs](https://physionet.org/static/published-projects/challenge-2019/1.0.0/physionet_challenge_2019_ccm_manuscript.pdf) | A high-signal clinical time-series benchmark for early warning on irregular ICU data. |
 | 14 | PTB-XL | Clinical multivariate time series | [Site](https://physionet.org/content/ptb-xl/1.0.3/) | CC BY 4.0 | ECG classification and representation learning | [Paper](https://www.nature.com/articles/s41597-020-0495-6) | One of the most common ECG benchmarks for modern clinical time-series modeling. |
 | 15 | HiRID | Clinical multivariate time series | [Site](https://physionet.org/content/hirid/1.1.1/) | PhysioNet Contributor Review Health Data License 1.5.0 | High-resolution ICU forecasting and imputation | [Docs](https://hirid.intensivecare.ai/) | Credentialed access, but highly reused for early warning, forecasting, and irregular ICU time-series research. |
+| 16 | WeatherBench | Spatiotemporal weather fields | [GitHub](https://github.com/pangeo-data/WeatherBench) | Copernicus / ERA5 terms | Data-driven weather forecasting | [Paper](https://arxiv.org/abs/2002.00469) | A standard benchmark for global medium-range weather forecasting with ML models. |
+| 17 | WeatherBench 2 | Spatiotemporal weather fields | [GitHub](https://github.com/google-research/weatherbench2) | Copernicus / ERA5 terms | Next-generation global weather-model evaluation | [Paper](https://arxiv.org/abs/2308.15560) | Now a default benchmark in modern ML weather-model comparisons. |
+| 18 | SWaT | Multivariate industrial time series | [Site](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | Request-based / iTrust terms | Industrial control anomaly detection | [Docs](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | One of the most widely used multivariate anomaly-detection datasets for cyber-physical systems. |
+| 19 | WADI | Multivariate industrial time series | [Site](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | Request-based / iTrust terms | Water-distribution anomaly detection | [Docs](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) | A canonical industrial anomaly benchmark often paired with SWaT in ICS security papers. |
+| 20 | Building Data Genome Project 2 | Multivariate building-energy time series | [GitHub](https://github.com/buds-lab/building-data-genome-project-2) | Unknown | Building energy forecasting and analytics | [Paper](https://arxiv.org/abs/2006.02273) | A high-signal benchmark for long-horizon building energy and load prediction. |
 
 ## Related Benchmarks
 
@@ -28,6 +33,7 @@ Datasets and benchmark archives for forecasting, classification, anomaly detecti
 - [M Competitions](https://www.unic.ac.cy/iff/research/forecasting/m-competitions/)
 - [Monash Forecasting Repository](https://forecastingdata.org/)
 - [PhysioNet Challenges](https://physionet.org/challenge/)
+- [WeatherBench](https://github.com/pangeo-data/WeatherBench)
 
 ## Selection Note
 

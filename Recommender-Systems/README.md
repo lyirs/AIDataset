@@ -23,6 +23,11 @@ Datasets for collaborative filtering, ranking, click-through prediction, news re
 | 15 | Taobao User Behavior Dataset | E-commerce behavior logs | [Site](https://tianchi.aliyun.com/dataset/649) | Custom / Tianchi terms | Sequential recommendation and CTR-style behavior modeling | [Docs](https://tianchi.aliyun.com/dataset/649) | A widely used Alibaba e-commerce behavior dataset for sequential recommendation and user modeling. |
 | 16 | XING / RecSys Challenge 2016 | Job recommendation logs | [Site](https://2016.recsyschallenge.com/) | Custom / challenge terms | Job recommendation and implicit feedback ranking | [Docs](https://2016.recsyschallenge.com/challenge.html) | A strong large-scale industrial benchmark for recommendation over implicit feedback and item metadata. |
 | 17 | Trivago / RecSys Challenge 2019 | Session interactions | [Site](https://www.recsyschallenge.com/2019/) | Custom / challenge terms | Session recommendation and context-aware ranking | [Docs](https://www.recsyschallenge.com/2019/challenge.html) | A high-signal benchmark for session-based recommendation and counterfactual ranking research. |
+| 18 | Ali-CCP | CTR + conversion logs | [Site](https://tianchi.aliyun.com/dataset/408) | Custom / Tianchi terms | Multi-task CTR and conversion prediction | [Docs](https://tianchi.aliyun.com/dataset/408) | A standard industrial-scale benchmark for joint click-through and conversion-rate prediction. |
+| 19 | Gowalla | Location check-ins + social graph | [Site](https://snap.stanford.edu/data/loc-gowalla.html) | Unknown | POI recommendation and sequential mobility modeling | [Paper](https://cs.stanford.edu/people/jure/pubs/mobile-kdd11.pdf) | Long-running benchmark for next-location, mobility, and graph-based recommendation research. |
+| 20 | Million Song Dataset / Taste Profile Subset | Music listening logs | [Site](https://millionsongdataset.com/tasteprofile/) | Custom / Echo Nest API license | Music recommendation and implicit-feedback ranking | [Docs](https://millionsongdataset.com/tasteprofile/) | A canonical music recommendation resource linking listening events to the Million Song Dataset. |
+| 21 | Criteo Terabyte Click Logs | CTR logs | [Site](https://ailab.criteo.com/criteo-1tb-click-logs-dataset/) | CC BY-NC-SA 4.0 | Web-scale CTR prediction | [Docs](https://ailab.criteo.com/ctr-at-scale-using-open-technologies/) | The industry-scale follow-up to the original Criteo challenge, widely used for large recommender and ranking systems. |
+| 22 | Outbrain Click Prediction | Content recommendation logs | [Site](https://www.outbrain.com/blog/outbrain-challenge/) | Custom / competition terms | Large-scale content recommendation and CTR ranking | [Docs](https://www.outbrain.com/blog/outbrain-challenge/) | A high-signal recommendation benchmark built from real content-discovery interactions. |
 
 ## Related Benchmarks
 
@@ -30,6 +35,7 @@ Datasets for collaborative filtering, ranking, click-through prediction, news re
 - [RecSys Challenges](https://recsys.acm.org/challenges/)
 - [MIND](https://msnews.github.io/)
 - [Open Bandit Dataset](https://research.zozo.com/data.html)
+- [Ali-CCP](https://tianchi.aliyun.com/dataset/408)
 
 ## Selection Note
 

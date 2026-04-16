@@ -27,6 +27,10 @@ Tool use, browser agents, environment interaction, and software engineering agen
 | 19 | BrowseComp | English | [Site](https://openai.com/index/browsecomp/) | Unknown | Hard web browsing and multi-hop fact finding | [Paper](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) | Official OpenAI benchmark for persistent browsing agents on hard-to-find web facts. |
 | 20 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | Machine learning engineering agents | [Paper](https://arxiv.org/abs/2410.07095) | High-signal benchmark for agents that run end-to-end ML engineering workflows. |
 | 21 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | Function calling and interactive coding agents | [Paper](https://arxiv.org/abs/2407.18901) | A strong ACL-era benchmark for multi-app execution, stateful tool use, and interactive code generation. |
+| 22 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | General AI assistants with tool use and file handling | [Paper](https://arxiv.org/abs/2311.12983) | One of the most frequently cited general-assistant benchmarks beyond static QA. |
+| 23 | WebVoyager | English | [GitHub](https://github.com/MinorJerry/WebVoyager) | Apache-2.0 | End-to-end real-world web navigation | [Paper](https://arxiv.org/abs/2401.13919) | A highly visible benchmark for multimodal agents interacting with live websites. |
+| 24 | AssistantBench | English | [Site](https://assistantbench.github.io/) | Unknown | Realistic long-horizon web tasks | [Paper](https://arxiv.org/abs/2407.15711) | Focuses on time-consuming multi-step tasks that require planning and memory across websites. |
+| 25 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | High-resolution GUI grounding for computer-use agents | [Paper](https://arxiv.org/abs/2504.07981) | Now a standard reference for measuring GUI grounding quality in desktop and professional software settings. |
 
 ## Related Benchmarks
 
@@ -34,7 +38,7 @@ Tool use, browser agents, environment interaction, and software engineering agen
 - [Safety-Evals](../Safety-Evals/README.md)
 - [GAIA](https://huggingface.co/gaia-benchmark)
 - [BrowseComp](https://openai.com/index/browsecomp/)
-- [tau2-bench](https://github.com/sierra-research/tau2-bench)
+- [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
 
 ## Selection Note
 

@@ -26,6 +26,11 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 | 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | Standardized adversarial robustness benchmarking | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | The de facto open benchmark and leaderboard for adversarial robustness in modern vision papers. |
 | 19 | SEED-Bench | Multimodal | [GitHub](https://github.com/AILab-CVC/SEED-Bench) | Apache-2.0 | Generative multimodal benchmark evaluation | [Paper](https://arxiv.org/abs/2307.16125) | A widely adopted benchmark family for evaluating generative comprehension in multimodal LLMs. |
 | 20 | POPE | Multimodal | [GitHub](https://github.com/RUCAIBox/POPE) | MIT (benchmark repo) | Object hallucination evaluation for LVLMs | [Paper](https://aclanthology.org/2023.emnlp-main.20/) | A standard benchmark for measuring object hallucination in large vision-language models. |
+| 21 | WebArena | Interactive web | [Site](https://webarena.dev/) | Unknown | Realistic browser-agent benchmarking | [Paper](https://arxiv.org/abs/2307.13854) | One of the most commonly reported benchmarks for web agents operating on realistic websites. |
+| 22 | OSWorld | Computer use | [Site](https://os-world.github.io/) | Unknown | Desktop and operating-system agent benchmarking | [Docs](https://os-world.github.io/) | A central benchmark for GUI-capable agents interacting with desktop environments. |
+| 23 | WebVoyager | Interactive web | [GitHub](https://github.com/MinorJerry/WebVoyager) | Apache-2.0 | End-to-end multimodal web-agent evaluation | [Paper](https://arxiv.org/abs/2401.13919) | Frequently cited for live-website browser agents that must act rather than only answer. |
+| 24 | AssistantBench | Interactive web | [Site](https://assistantbench.github.io/) | Unknown | Realistic long-horizon assistant tasks | [Paper](https://arxiv.org/abs/2407.15711) | Adds long, time-consuming multi-website tasks that expose planning and memory failures. |
+| 25 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | GUI grounding evaluation for computer-use models | [Paper](https://arxiv.org/abs/2504.07981) | A representative benchmark for the perception layer behind desktop and GUI agents. |
 
 ## Additional Cross-References
 
@@ -37,6 +42,8 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
 - [WILDS](https://wilds.stanford.edu/datasets/)
 - [RobustBench](https://robustbench.github.io/)
+- [OSWorld](https://os-world.github.io/)
+- [AssistantBench](https://assistantbench.github.io/)
 - [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [POPE](https://github.com/RUCAIBox/POPE)
 - [CRAG](../Search-Retrieval/README.md)

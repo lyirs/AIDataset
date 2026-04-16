@@ -27,6 +27,10 @@
 | 19 | BrowseComp | English | [Site](https://openai.com/index/browsecomp/) | Unknown | 高难网页浏览与多跳事实定位 | [Paper](https://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf) | OpenAI 官方浏览代理 benchmark，强调持续搜索和难定位事实。 |
 | 20 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | 机器学习工程 agent 评测 | [Paper](https://arxiv.org/abs/2410.07095) | 面向端到端 ML engineering workflow 的高信号 agent benchmark。 |
 | 21 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | 函数调用与交互式编码 Agent | [Paper](https://arxiv.org/abs/2407.18901) | 它是 ACL 方向里很强的一类 benchmark，强调多应用执行、有状态工具使用和交互式代码生成。 |
+| 22 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | 带工具调用与文件处理的通用助手评测 | [Paper](https://arxiv.org/abs/2311.12983) | 它是超越静态问答、衡量通用助手真实能力时最常被引用的 benchmark 之一。 |
+| 23 | WebVoyager | English | [GitHub](https://github.com/MinorJerry/WebVoyager) | Apache-2.0 | 真实网站上的端到端网页导航 | [Paper](https://arxiv.org/abs/2401.13919) | 这是评测多模态网页代理与实时网站交互能力时最常见的 benchmark 之一。 |
+| 24 | AssistantBench | English | [Site](https://assistantbench.github.io/) | Unknown | 真实长链路网页任务 | [Paper](https://arxiv.org/abs/2407.15711) | 它强调跨网站、多步骤、耗时任务，对规划和记忆能力要求很高。 |
+| 25 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | 面向 computer-use agent 的高分辨率 GUI grounding | [Paper](https://arxiv.org/abs/2504.07981) | 它已经成为桌面代理和专业软件 GUI grounding 能力评测里的标准参考之一。 |
 
 ## 相关评测
 
@@ -34,7 +38,7 @@
 - [Safety-Evals](../Safety-Evals/README_ZH.md)
 - [GAIA](https://huggingface.co/gaia-benchmark)
 - [BrowseComp](https://openai.com/index/browsecomp/)
-- [tau2-bench](https://github.com/sierra-research/tau2-bench)
+- [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
 
 ## 收录说明
 

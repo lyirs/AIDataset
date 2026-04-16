@@ -24,11 +24,17 @@ Dense retrieval, multilingual IR, RAG grounding, and audio-text retrieval datase
 | 16 | NFCorpus | English | [Site](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) | Unknown | Biomedical and consumer-health retrieval | [Docs](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) | A classic IR benchmark that still appears in BEIR and biomedical retrieval comparisons. |
 | 17 | BRIGHT | English | [Site](https://brightbenchmark.github.io/) | Unknown | Reasoning-intensive retrieval evaluation | [Paper](https://arxiv.org/abs/2407.12883) | Targets harder multi-hop and reasoning-heavy retrieval failures than standard BEIR-style suites. |
 | 18 | CRAG | English | [GitHub](https://github.com/facebookresearch/CRAG) | CC BY-NC 4.0 | End-to-end RAG benchmarking | [Paper](https://arxiv.org/abs/2406.04744) | Adds realistic retrieval, mock web access, and generation evaluation for RAG systems. |
+| 19 | KILT | English | [GitHub](https://github.com/facebookresearch/KILT) | Mixed / underlying-task licenses | Knowledge-intensive retrieval-grounded evaluation | [Paper](https://aclanthology.org/2021.naacl-main.200/) | Unifies QA, fact checking, slot filling, and entity linking on one Wikipedia snapshot. |
+| 20 | ORCAS | English | [Site](https://microsoft.github.io/msmarco/ORCAS.html) | Non-commercial research only / terms | Large click-based retrieval training | [Docs](https://microsoft.github.io/msmarco/Datasets.html) | A large clicked query-document dataset that remains common in ranking and distillation work. |
+| 21 | QReCC | English | [GitHub](https://github.com/apple/ml-qrecc) | CC BY-SA 3.0 (dataset) / Apache-2.0 (code) | Conversational search and retrieval QA | [Paper](https://arxiv.org/abs/2010.04898) | A standard benchmark for conversational retrieval, question rewriting, and passage grounding. |
+| 22 | TopiOCQA | English | [Site](https://mcgill-nlp.github.io/topiocqa/) | CC BY-NC-SA 4.0 | Topic-switching conversational retrieval | [Paper](https://arxiv.org/abs/2110.00768) | Widely used to stress conversational search systems under topic shifts and retrieval ambiguity. |
+| 23 | MuSiQue | English | [GitHub](https://github.com/StonyBrookNLP/musique) | CC BY 4.0 | Multi-hop retrieval and question decomposition | [Docs](https://github.com/StonyBrookNLP/musique) | Commonly used in retrieval-augmented QA papers as a harder benchmark for multi-step evidence finding. |
 
 ## Related Benchmarks
 
 - [Benchmarks overview](../Benchmarks/README.md)
 - [MTEB](https://github.com/embeddings-benchmark/mteb)
 - [BEIR](https://github.com/beir-cellar/beir)
+- [KILT](https://github.com/facebookresearch/KILT)
 - [TREC Deep Learning Track](https://trec.nist.gov/data/deep.html)
 - [Audio-Understanding overview](../Audio-Understanding/README.md)

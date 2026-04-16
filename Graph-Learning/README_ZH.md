@@ -24,6 +24,10 @@
 | 16 | WN18RR | Knowledge graph | [GitHub](https://github.com/TimDettmers/ConvE) | Unknown | WordNet 知识图谱补全 | [Paper](https://arxiv.org/abs/1707.01476) | 作为 FB15k-237 的 WordNet 对照，它依然是经典的 leakage-reduced KG benchmark。 |
 | 17 | Geom-GCN Heterophily Suite | Heterophilous graphs | [GitHub](https://github.com/bingzhewei/geom-gcn) | Unknown | 异配图节点分类 | [Paper](https://arxiv.org/abs/2002.05287) | 经典异配图套件，覆盖 Actor、Chameleon、Squirrel、Texas、Wisconsin 和 Cornell。 |
 | 18 | Yandex Heterophilous Graph Datasets | Heterophilous graphs | [Site](https://research.yandex.com/datasets/heterophilous-graph-datasets) | Unknown | 现代异配图评测 | [Docs](https://research.yandex.com/publications/a-critical-look-at-the-evaluation-of-gnns-under-heterophily-are-we-really-making-progress) | 包含 Roman-empire、Amazon-ratings、Minesweeper、Tolokers 与 Questions。 |
+| 19 | RelBench | Relational graphs / databases | [Site](https://relbench.stanford.edu/) | Mixed / dataset-specific | 面向关系数据库与派生图的深度学习 | [Paper](https://arxiv.org/abs/2407.20060) | 它是近两年很强的一类 benchmark，专门面向真实关系数据库上的图式学习。 |
+| 20 | Open Academic Graph (OAG) | Academic knowledge graph | [Site](https://www.microsoft.com/en-us/research/project/open-academic-graph/) | Research use only | 引文网络与学术图谱挖掘 | [Paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf) | 它把 MAG 和 AMiner 连接成大规模异构学术图，是学术图谱挖掘里长期高频的资源。 |
+| 21 | QM9 | Molecular graphs | [Site](https://doi.org/10.6084/m9.figshare.c.978904.v5) | CC0 | 分子图上的量子化学性质预测 | [Paper](https://www.nature.com/articles/sdata201422) | 它是分子 GNN 论文里最常报告的小分子图 benchmark 之一。 |
+| 22 | Elliptic Bitcoin Dataset | Transaction graph | [Site](https://www.elliptic.co/blog/elliptic-dataset-cryptocurrency-financial-crime/) | Unknown | 基于图的欺诈与非法交易检测 | [Paper](https://arxiv.org/abs/1908.02591) | 它是反洗钱与区块链交易图学习里最经典、也最常见的 benchmark 之一。 |
 
 ## 相关评测
 
@@ -34,6 +38,7 @@
 - [Temporal Graph Benchmark](https://tgb.complexdatalab.com/)
 - [GraphSAGE benchmarks](https://snap.stanford.edu/graphsage/)
 - [Yandex heterophilous graph datasets](https://research.yandex.com/datasets/heterophilous-graph-datasets)
+- [RelBench](https://relbench.stanford.edu/)
 
 ## 收录说明
 

@@ -22,6 +22,11 @@ Datasets for code generation, code repair, execution-based evaluation, and repos
 | 14 | EvalPlus | Python | [GitHub](https://github.com/evalplus/evalplus) | Apache-2.0 | Stronger HumanEval and MBPP evaluation | [Paper](https://arxiv.org/abs/2305.01210) | Extends canonical code benchmarks with harder tests and sanitization. |
 | 15 | RepoBench | Multilingual code | [GitHub](https://github.com/Leolty/repobench) | CC BY 4.0 | Repository-level code completion and understanding | [Paper](https://arxiv.org/abs/2306.03091) | Useful when models need larger codebase context instead of single functions. |
 | 16 | CRUXEval | Python | [GitHub](https://github.com/facebookresearch/cruxeval) | MIT | Code reasoning and execution understanding | [Paper](https://arxiv.org/abs/2401.03065) | A compact high-signal benchmark for program reasoning beyond generation only. |
+| 17 | Project CodeNet | Multilingual code | [GitHub](https://github.com/IBM/Project_CodeNet) | Mixed / source-platform terms | Large-scale AI-for-code pretraining and benchmarking | [Paper](https://arxiv.org/abs/2105.12655) | One of the largest public code corpora, with 14M submissions across 55 languages. |
+| 18 | Defects4J | Java | [Site](https://defects4j.org/) | Mixed / source-project licenses | Real-world bug fixing and software testing research | [Paper](https://homes.cs.washington.edu/~rjust/publ/JustJE2014-abstract.html) | The standard real-bug benchmark for Java repair, fault localization, and test generation. |
+| 19 | ClassEval | Python | [GitHub](https://github.com/FudanSELab/ClassEval) | CC BY-NC 4.0 | Class-level code generation | [Paper](https://arxiv.org/abs/2308.01861) | A widely cited benchmark for moving code generation beyond single functions. |
+| 20 | xCodeEval | Multilingual code | [GitHub](https://github.com/ntunlp/xCodeEval) | CC BY-NC 4.0 | Multilingual code understanding, generation, and translation | [Paper](https://arxiv.org/abs/2303.03004) | Covers seven execution-backed tasks across 11 programming languages. |
+| 21 | RepoQA | Multilingual code | [Site](https://evalplus.github.io/repoqa.html) | Mixed / source-repo licenses | Long-context repository code understanding | [Paper](https://arxiv.org/abs/2406.06025) | A strong recent benchmark for function retrieval from real repository context. |
 
 ## Related Benchmarks
 

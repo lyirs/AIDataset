@@ -22,6 +22,11 @@ Datasets for embodied navigation, language-conditioned task completion, egocentr
 | 14 | CVDN | Vision + dialogue | [GitHub](https://github.com/mmurray/cvdn) | Mixed / dialog data + Matterport terms | Cooperative embodied dialogue navigation | [Paper](https://arxiv.org/abs/1907.04957) | A canonical benchmark for multi-turn embodied dialogue grounded in navigation. |
 | 15 | Touchdown | Vision + language | [GitHub](https://github.com/lil-lab/touchdown) | CC BY 4.0 | Street-view navigation and spatial reasoning | [Paper](https://arxiv.org/abs/1811.12354) | A standard outdoor language-navigation benchmark beyond indoor Matterport-style settings. |
 | 16 | ProcTHOR | 3D scenes + simulation | [Site](https://procthor.allenai.org/) | Apache-2.0 (repo) | Large-scale procedurally generated embodied environments | [Paper](https://arxiv.org/abs/2206.06994) | Commonly cited as the scalable data engine behind newer embodied training and evaluation pipelines. |
+| 17 | REVERIE | Vision + language | [GitHub](https://github.com/YuankaiQi/REVERIE) | Unknown | Embodied object grounding plus navigation | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf) | A canonical benchmark where an agent must navigate and identify a referred object in Matterport scenes. |
+| 18 | ScanRefer | Vision + language + 3D | [GitHub](https://github.com/daveredrum/ScanRefer) | CC BY-NC-SA 3.0 | 3D visual grounding from natural language | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3408_ECCV_2020_paper.php) | A foundational language-grounded 3D localization benchmark built on ScanNet. |
+| 19 | ScanQA | Vision + language + 3D | [GitHub](https://github.com/ATR-DBI/ScanQA) | CC BY-NC-SA 3.0 | Embodied and 3D scene question answering | [Paper](https://arxiv.org/abs/2112.10482) | A standard 3D QA benchmark for spatial reasoning over indoor RGB-D scenes. |
+| 20 | OpenEQA | Vision + language | [GitHub](https://github.com/facebookresearch/open-eqa) | MIT | Embodied question answering with exploration or episodic memory | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) | A strong modern benchmark for foundation models answering questions about environments they explore or observe. |
+| 21 | EmbodiedScan | Ego-centric RGB-D + language | [GitHub](https://github.com/InternRobotics/EmbodiedScan) | CC BY-NC-SA 4.0 | Holistic 3D embodied perception and language grounding | [Paper](https://arxiv.org/abs/2312.16170) | One of the most complete recent ego-centric 3D perception suites for embodied AI. |
 
 ## Related Benchmarks
 
@@ -29,6 +34,7 @@ Datasets for embodied navigation, language-conditioned task completion, egocentr
 - [Habitat Challenge](https://aihabitat.org/challenge/)
 - [ALFRED](https://askforalfred.com/)
 - [TEACh](https://github.com/alexa/teach)
+- [OpenEQA](https://github.com/facebookresearch/open-eqa)
 
 ## Selection Note
 

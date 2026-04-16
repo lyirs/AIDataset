@@ -20,6 +20,12 @@ Financial, regulatory, and legal-domain datasets for reasoning, extraction, clas
 | 12 | MultiEURLEX | 23 EU languages | [GitHub](https://github.com/nlpaueb/multi-eurlex) | Unknown | Multilingual legal document classification | [Paper](https://aclanthology.org/2021.emnlp-main.559/) | Provides reusable multilingual legal classification splits beyond the raw EUR-Lex portal. |
 | 13 | MAUD | English | [Site](https://www.atticusprojectai.org/maud) | CC BY 4.0 | Merger agreement understanding and legal QA | [Paper](https://arxiv.org/abs/2301.00876) | A high-signal expert-annotated dataset for M&A contract reading and due-diligence style reasoning. |
 | 14 | LegalBench | English | [GitHub](https://github.com/HazyResearch/legalbench) | Mixed / task-specific | Broad legal reasoning benchmarking | [Paper](https://arxiv.org/abs/2209.06120) | The most visible open benchmark suite for diverse legal reasoning tasks with LLMs. |
+| 15 | ConvFinQA | English | [GitHub](https://github.com/czyssrs/ConvFinQA) | MIT | Conversational financial QA with numerical reasoning | [Paper](https://arxiv.org/abs/2210.03849) | Extends FinQA into multi-turn settings and is now common in finance LLM evaluation tables. |
+| 16 | FinanceBench | English | [GitHub](https://github.com/patronus-ai/financebench) | Unknown | Financial QA over real SEC filings | [Paper](https://arxiv.org/abs/2311.11944) | A high-signal benchmark for enterprise-style financial question answering over filings. |
+| 17 | FiQA | English | [Site](https://sites.google.com/view/fiqa/home) | Non-commercial use only | Financial sentiment and opinion QA | [Docs](https://sites.google.com/view/fiqa/home) | Covers both aspect-level sentiment analysis and opinion-oriented question answering in finance. |
+| 18 | LEDGAR | English | [GitHub](https://github.com/dtuggener/LEDGAR_provision_classification) | Unknown | Legal provision classification in contracts | [Paper](https://aclanthology.org/2020.lrec-1.155/) | One of the largest open contract-clause classification datasets in legal NLP. |
+| 19 | Pile of Law | English legal text | [GitHub](https://github.com/Breakend/PileOfLaw) | Mixed / source-specific | Legal-domain pretraining and corpus mining | [Paper](https://arxiv.org/abs/2207.00220) | A widely used large-scale legal corpus for legal LMs and legal retrieval pipelines. |
+| 20 | ECtHR Cases | English | [HF](https://huggingface.co/datasets/AUEB-NLP/ecthr_cases) | CC BY-NC-SA 4.0 | Legal judgment prediction and rationale extraction | [Paper](https://arxiv.org/abs/2103.13084) | A standard benchmark family for European human-rights case outcome prediction. |
 
 ## Related Benchmarks
 
@@ -28,6 +34,7 @@ Financial, regulatory, and legal-domain datasets for reasoning, extraction, clas
 - [LexGLUE](https://github.com/coastalcph/lex-glue)
 - [LegalBench](https://github.com/HazyResearch/legalbench)
 - [MAUD](https://www.atticusprojectai.org/maud)
+- [FinanceBench](https://github.com/patronus-ai/financebench)
 
 ## Selection Note
 

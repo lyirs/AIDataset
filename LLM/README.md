@@ -6,11 +6,11 @@ Pretraining corpora, instruction data, preference data, and alignment resources 
 
 ## Coverage Map
 
-- Pretraining: `C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`
-- Instruction: `FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`
-- Preference: `UltraFeedback`, `HH-RLHF`
+- Pretraining: `C4`, `The Pile`, `Dolma`, `FineWeb`, `RefinedWeb`, `RedPajama-Data-1T`, `SlimPajama-627B`, `OpenWebMath`
+- Instruction: `FLAN Collection`, `Super-NaturalInstructions`, `Aya Dataset`, `Self-Instruct`, `OpenAssistant Conversations`, `Dolly 15k`, `P3`, `UltraChat 200k`, `No Robots`, `Tulu V2 SFT Mixture`, `LIMA`
+- Preference: `UltraFeedback`, `HH-RLHF`, `Nectar`
 - Safety: `PKU-SafeRLHF`, `BeaverTails`
-- Real conversations: `WildChat`
+- Real conversations: `WildChat`, `LMSYS-Chat-1M`
 
 | # | Dataset | Language | Link | License | Best For | Paper/Docs | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,6 +32,14 @@ Pretraining corpora, instruction data, preference data, and alignment resources 
 | 16 | RefinedWeb | English | [HF](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | ODC-By 1.0 | Web-only LLM pretraining | [Paper](https://arxiv.org/abs/2306.01116) | Important open web corpus behind Falcon and later pretraining comparisons. |
 | 17 | RedPajama-Data-1T | English | [HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T) | Mixed / subset-specific | Open LLaMA-style pretraining mixtures | [Docs](https://github.com/togethercomputer/RedPajama-Data) | Major open reproduction of the LLaMA data recipe with subset-level license constraints. |
 | 18 | Aya Dataset | Multilingual | [HF](https://huggingface.co/datasets/CohereLabs/aya_dataset) | Apache-2.0 | Multilingual instruction tuning | [Paper](https://arxiv.org/abs/2402.06619) | High-signal multilingual instruction dataset spanning dozens of languages for open multilingual LLMs. |
+| 19 | SlimPajama-627B | English | [HF](https://huggingface.co/datasets/cerebras/SlimPajama-627B) | Mixed / subset-specific | Deduplicated open pretraining at scale | [Docs](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama) | A heavily reused cleaned RedPajama derivative for efficient open pretraining. |
+| 20 | OpenWebMath | English | [HF](https://huggingface.co/datasets/open-web-math/open-web-math) | ODC-By 1.0 | Math-focused pretraining | [Paper](https://arxiv.org/abs/2310.06786) | One of the clearest open math corpora behind recent reasoning-focused open models. |
+| 21 | UltraChat 200k | English | [HF](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k) | MIT | Multi-turn instruction tuning | [Paper](https://arxiv.org/abs/2305.14233) | A standard open conversational SFT set reused across Zephyr-style and later chat models. |
+| 22 | No Robots | English | [HF](https://huggingface.co/datasets/HuggingFaceH4/no_robots) | CC BY-NC 4.0 | Human-written instruction tuning | [Docs](https://huggingface.co/datasets/HuggingFaceH4/no_robots) | Important human-authored alternative to synthetic instruction datasets in open alignment work. |
+| 23 | Tulu V2 SFT Mixture | English | [HF](https://huggingface.co/datasets/allenai/tulu-v2-sft-mixture) | ODC-BY / subset-specific | Open instruction-mixture post-training | [Paper](https://arxiv.org/abs/2311.10702) | A strong curated open post-training mixture reused in Tulu and later open-instruct pipelines. |
+| 24 | LMSYS-Chat-1M | Multilingual | [HF](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) | Custom / LMSYS dataset agreement | Real-world chat modeling and analysis | [Paper](https://arxiv.org/abs/2309.11998) | Large real-user conversation corpus from Chatbot Arena and Vicuna demo traffic. |
+| 25 | LIMA | English | [HF](https://huggingface.co/datasets/GAIR/lima) | CC BY-NC-SA / source-specific | High-quality small-sample instruction tuning | [Paper](https://arxiv.org/abs/2305.11206) | Highly cited for showing strong chat alignment with a small but carefully curated SFT set. |
+| 26 | Nectar | English | [HF](https://huggingface.co/datasets/berkeley-nest/Nectar) | Custom / non-commercial restrictions | Preference modeling and reward training | [Docs](https://huggingface.co/datasets/berkeley-nest/Nectar) | High-quality ranked-response dataset widely used in reward-model and DPO-style experiments. |
 
 ## Related Benchmarks
 

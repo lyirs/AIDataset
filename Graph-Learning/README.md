@@ -24,6 +24,10 @@ Datasets, archives, and benchmark suites for node classification, link predictio
 | 16 | WN18RR | Knowledge graph | [GitHub](https://github.com/TimDettmers/ConvE) | Unknown | WordNet KG completion | [Paper](https://arxiv.org/abs/1707.01476) | The standard WordNet counterpart to FB15k-237 for leakage-reduced link prediction. |
 | 17 | Geom-GCN Heterophily Suite | Heterophilous graphs | [GitHub](https://github.com/bingzhewei/geom-gcn) | Unknown | Disassortative node classification | [Paper](https://arxiv.org/abs/2002.05287) | Classic heterophily suite covering Actor, Chameleon, Squirrel, Texas, Wisconsin, and Cornell. |
 | 18 | Yandex Heterophilous Graph Datasets | Heterophilous graphs | [Site](https://research.yandex.com/datasets/heterophilous-graph-datasets) | Unknown | Modern heterophily benchmarking | [Docs](https://research.yandex.com/publications/a-critical-look-at-the-evaluation-of-gnns-under-heterophily-are-we-really-making-progress) | Includes Roman-empire, Amazon-ratings, Minesweeper, Tolokers, and Questions. |
+| 19 | RelBench | Relational graphs / databases | [Site](https://relbench.stanford.edu/) | Mixed / dataset-specific | Deep learning on relational databases and derived graphs | [Paper](https://arxiv.org/abs/2407.20060) | A strong new benchmark family for graph-style learning over realistic relational databases. |
+| 20 | Open Academic Graph (OAG) | Academic knowledge graph | [Site](https://www.microsoft.com/en-us/research/project/open-academic-graph/) | Research use only | Citation-network and academic graph mining | [Paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf) | A large heterogeneous academic graph linking MAG and AMiner, widely used in scholarly graph mining. |
+| 21 | QM9 | Molecular graphs | [Site](https://doi.org/10.6084/m9.figshare.c.978904.v5) | CC0 | Quantum-chemical property prediction on molecular graphs | [Paper](https://www.nature.com/articles/sdata201422) | One of the most reported small-molecule graph benchmarks in molecular GNN papers. |
+| 22 | Elliptic Bitcoin Dataset | Transaction graph | [Site](https://www.elliptic.co/blog/elliptic-dataset-cryptocurrency-financial-crime/) | Unknown | Graph-based fraud and illicit-transaction detection | [Paper](https://arxiv.org/abs/1908.02591) | A canonical benchmark for graph learning on anti-money-laundering and blockchain transaction analysis. |
 
 ## Related Benchmarks
 
@@ -34,6 +38,7 @@ Datasets, archives, and benchmark suites for node classification, link predictio
 - [Temporal Graph Benchmark](https://tgb.complexdatalab.com/)
 - [GraphSAGE benchmarks](https://snap.stanford.edu/graphsage/)
 - [Yandex heterophilous graph datasets](https://research.yandex.com/datasets/heterophilous-graph-datasets)
+- [RelBench](https://relbench.stanford.edu/)
 
 ## Selection Note
 

@@ -22,6 +22,11 @@
 | 14 | CVDN | Vision + dialogue | [GitHub](https://github.com/mmurray/cvdn) | Mixed / dialog data + Matterport terms | 协作式具身对话导航 | [Paper](https://arxiv.org/abs/1907.04957) | 它是多轮 embodied dialogue grounded navigation 里最经典的 benchmark 之一。 |
 | 15 | Touchdown | Vision + language | [GitHub](https://github.com/lil-lab/touchdown) | CC BY 4.0 | 街景导航与空间推理 | [Paper](https://arxiv.org/abs/1811.12354) | 它把语言导航从室内 Matterport 风格环境扩展到了真实街景。 |
 | 16 | ProcTHOR | 3D scenes + simulation | [Site](https://procthor.allenai.org/) | Apache-2.0 (repo) | 大规模程序化具身环境生成 | [Paper](https://arxiv.org/abs/2206.06994) | 很多新一代具身训练与评测工作都会把它当作可扩展数据引擎来引用。 |
+| 17 | REVERIE | Vision + language | [GitHub](https://github.com/YuankaiQi/REVERIE) | Unknown | 具身目标指代定位与导航 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf) | 它是让智能体在 Matterport 场景中“边导航边找到被语言指代目标”的经典 benchmark。 |
+| 18 | ScanRefer | Vision + language + 3D | [GitHub](https://github.com/daveredrum/ScanRefer) | CC BY-NC-SA 3.0 | 基于自然语言的三维视觉 grounding | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3408_ECCV_2020_paper.php) | 它是建立在 ScanNet 上的奠基性 3D 语言定位数据集。 |
+| 19 | ScanQA | Vision + language + 3D | [GitHub](https://github.com/ATR-DBI/ScanQA) | CC BY-NC-SA 3.0 | 具身与三维场景问答 | [Paper](https://arxiv.org/abs/2112.10482) | 它是室内 RGB-D 三维空间推理问答里最常见的 benchmark 之一。 |
+| 20 | OpenEQA | Vision + language | [GitHub](https://github.com/facebookresearch/open-eqa) | MIT | 基于探索或记忆的具身问答 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) | 它是 foundation model 时代最有代表性的 embodied question answering benchmark 之一。 |
+| 21 | EmbodiedScan | Ego-centric RGB-D + language | [GitHub](https://github.com/InternRobotics/EmbodiedScan) | CC BY-NC-SA 4.0 | 全面的三维具身感知与语言 grounding | [Paper](https://arxiv.org/abs/2312.16170) | 它是近年最完整的一类第一视角三维具身感知数据与 benchmark 套件。 |
 
 ## 相关评测
 
@@ -29,6 +34,7 @@
 - [Habitat Challenge](https://aihabitat.org/challenge/)
 - [ALFRED](https://askforalfred.com/)
 - [TEACh](https://github.com/alexa/teach)
+- [OpenEQA](https://github.com/facebookresearch/open-eqa)
 
 ## 收录说明
 

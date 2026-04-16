@@ -29,6 +29,11 @@
 | 21 | RewardBench / RewardBench 2 | English | [GitHub](https://github.com/allenai/reward-bench) | Apache-2.0 | Reward model 与 judge model 评测 | [Paper](https://arxiv.org/abs/2506.01937) | 当前最清晰的一类开放 reward-model benchmark 家族，也常用于后训练 judge 分析。 |
 | 22 | Humanity's Last Exam (HLE) | Multimodal expert QA | [Site](https://lastexam.ai/) | MIT | 前沿级知识与推理评测 | [Paper](https://arxiv.org/abs/2501.14249) | 它很快就成了测试专家级广度推理能力的默认前沿 benchmark 之一。 |
 | 23 | BrowseComp | Web browsing | [Site](https://openai.com/index/browsecomp/) | MIT (benchmark repo) | 网页浏览 Agent 评测 | [Paper](https://arxiv.org/abs/2504.12516) | 它专门评测那类需要持续搜索、反复改写查询、难以直接 Google 到答案的浏览任务；官方实现放在 `simple-evals`。 |
+| 24 | AGIEval | English + Chinese exams | [GitHub](https://github.com/ruixiangcui/AGIEval) | Mixed / source-dataset licenses | 通用推理与标准化考试评测 | [Paper](https://arxiv.org/abs/2304.06364) | 它把高考、SAT、LSAT、数学等人类考试整合进同一个高信号 benchmark 套件。 |
+| 25 | MT-Bench | English | [Site](https://lmsys.org/blog/2023-06-22-leaderboard/) | Unknown | 基于 LLM judge 的多轮聊天评测 | [Paper](https://papers.nips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) | 它是 2023 年后模型发布表里被引用频率最高的一类聊天基准之一。 |
+| 26 | AlpacaEval | English | [Site](https://tatsu-lab.github.io/alpaca_eval/) | CC BY-NC 4.0 (data) / Apache-2.0 (code) | 快速自动化指令遵循评测 | [Paper](https://arxiv.org/abs/2404.04475) | 它是 post-training 和聊天模型比较里最常见的低成本自动评测之一，尤其是 AlpacaEval 2.0。 |
+| 27 | LongBench | English + Chinese | [GitHub](https://github.com/THUDM/LongBench) | Unknown | 双语长上下文理解 | [Paper](https://aclanthology.org/2024.acl-long.172/) | 原始 LongBench 仍然是长上下文模型报告里最经典的 v1 基准之一。 |
+| 28 | MATH | English | [GitHub](https://github.com/hendrycks/math) | Unknown | 竞赛级数学推理 | [Paper](https://arxiv.org/abs/2103.03874) | 它是长期存在且仍然高频出现在通用 LLM 与 reasoning 模型对比表里的数学 benchmark。 |
 
 ## 相关评测
 

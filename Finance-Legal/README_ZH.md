@@ -20,6 +20,12 @@
 | 12 | MultiEURLEX | 23 EU languages | [GitHub](https://github.com/nlpaueb/multi-eurlex) | Unknown | 多语言法律文档分类 | [Paper](https://aclanthology.org/2021.emnlp-main.559/) | 相比原始 EUR-Lex 门户，它提供了可直接复用的多语多标签法律分类划分。 |
 | 13 | MAUD | English | [Site](https://www.atticusprojectai.org/maud) | CC BY 4.0 | 并购协议理解与法律问答 | [Paper](https://arxiv.org/abs/2301.00876) | 这是并购合同阅读、尽调和条款理解里很高信号的专家标注数据集。 |
 | 14 | LegalBench | English | [GitHub](https://github.com/HazyResearch/legalbench) | Mixed / task-specific | 广谱法律推理评测 | [Paper](https://arxiv.org/abs/2209.06120) | 当前最有代表性的开放法律推理 benchmark suite 之一，覆盖多种法律任务。 |
+| 15 | ConvFinQA | English | [GitHub](https://github.com/czyssrs/ConvFinQA) | MIT | 对话式金融问答与数值推理 | [Paper](https://arxiv.org/abs/2210.03849) | 它把 FinQA 扩展到了多轮问答场景，已经是金融 LLM 评测里很常见的基准。 |
+| 16 | FinanceBench | English | [GitHub](https://github.com/patronus-ai/financebench) | Unknown | 基于真实 SEC 文件的金融问答 | [Paper](https://arxiv.org/abs/2311.11944) | 这是当前最有代表性的企业级金融问答 benchmark 之一，直接基于真实披露文件构建。 |
+| 17 | FiQA | English | [Site](https://sites.google.com/view/fiqa/home) | Non-commercial use only | 金融情感分析与观点问答 | [Docs](https://sites.google.com/view/fiqa/home) | 它同时覆盖金融细粒度情感分析和 opinion-based QA，是早期但仍常被引用的金融任务资源。 |
+| 18 | LEDGAR | English | [GitHub](https://github.com/dtuggener/LEDGAR_provision_classification) | Unknown | 合同条款分类 | [Paper](https://aclanthology.org/2020.lrec-1.155/) | 它是法律 NLP 中最常见的大规模合同条款分类数据集之一。 |
+| 19 | Pile of Law | English legal text | [GitHub](https://github.com/Breakend/PileOfLaw) | Mixed / source-specific | 法律语料预训练与语料挖掘 | [Paper](https://arxiv.org/abs/2207.00220) | 这是法律语言模型和法律检索工作里非常高频的大规模法律语料。 |
+| 20 | ECtHR Cases | English | [HF](https://huggingface.co/datasets/AUEB-NLP/ecthr_cases) | CC BY-NC-SA 4.0 | 法律裁判预测与依据抽取 | [Paper](https://arxiv.org/abs/2103.13084) | 它是欧洲人权法院案件预测与 rationale extraction 方向最经典的数据集之一。 |
 
 ## 相关评测
 
@@ -28,6 +34,7 @@
 - [LexGLUE](https://github.com/coastalcph/lex-glue)
 - [LegalBench](https://github.com/HazyResearch/legalbench)
 - [MAUD](https://www.atticusprojectai.org/maud)
+- [FinanceBench](https://github.com/patronus-ai/financebench)
 
 ## 收录说明
 

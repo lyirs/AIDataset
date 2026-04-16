@@ -23,6 +23,11 @@
 | 15 | Taobao User Behavior Dataset | E-commerce behavior logs | [Site](https://tianchi.aliyun.com/dataset/649) | Custom / Tianchi terms | 序列推荐与 CTR 式行为建模 | [Docs](https://tianchi.aliyun.com/dataset/649) | 阿里电商行为数据里最常被推荐论文复用的一批公开数据之一。 |
 | 16 | XING / RecSys Challenge 2016 | Job recommendation logs | [Site](https://2016.recsyschallenge.com/) | Custom / challenge terms | 职位推荐与隐式反馈排序 | [Docs](https://2016.recsyschallenge.com/challenge.html) | 一个很强的大规模工业级 benchmark，适合隐式反馈和丰富元数据推荐研究。 |
 | 17 | Trivago / RecSys Challenge 2019 | Session interactions | [Site](https://www.recsyschallenge.com/2019/) | Custom / challenge terms | 会话推荐与上下文排序 | [Docs](https://www.recsyschallenge.com/2019/challenge.html) | 会话推荐和反事实排序研究里信号很高的一类公开 challenge 数据。 |
+| 18 | Ali-CCP | CTR + conversion logs | [Site](https://tianchi.aliyun.com/dataset/408) | Custom / Tianchi terms | CTR 与转化率联合预测 | [Docs](https://tianchi.aliyun.com/dataset/408) | 它是工业界点击率与转化率多任务建模里最常见的大规模公开 benchmark 之一。 |
+| 19 | Gowalla | Location check-ins + social graph | [Site](https://snap.stanford.edu/data/loc-gowalla.html) | Unknown | POI 推荐与序列化出行建模 | [Paper](https://cs.stanford.edu/people/jure/pubs/mobile-kdd11.pdf) | 它是 next-location recommendation、移动轨迹建模和图推荐中的长期经典数据集。 |
+| 20 | Million Song Dataset / Taste Profile Subset | Music listening logs | [Site](https://millionsongdataset.com/tasteprofile/) | Custom / Echo Nest API license | 音乐推荐与隐式反馈排序 | [Docs](https://millionsongdataset.com/tasteprofile/) | 它把真实听歌行为与 Million Song Dataset 连接起来，是音乐推荐里最经典的资源之一。 |
+| 21 | Criteo Terabyte Click Logs | CTR logs | [Site](https://ailab.criteo.com/criteo-1tb-click-logs-dataset/) | CC BY-NC-SA 4.0 | Web 级 CTR 预测 | [Docs](https://ailab.criteo.com/ctr-at-scale-using-open-technologies/) | 它是原始 Criteo challenge 之后更偏工业规模的一类标准 CTR benchmark。 |
+| 22 | Outbrain Click Prediction | Content recommendation logs | [Site](https://www.outbrain.com/blog/outbrain-challenge/) | Custom / competition terms | 大规模内容推荐与 CTR 排序 | [Docs](https://www.outbrain.com/blog/outbrain-challenge/) | 它基于真实内容分发交互构建，是内容推荐和点击排序研究里高信号的数据集。 |
 
 ## 相关评测
 
@@ -30,6 +35,7 @@
 - [RecSys Challenges](https://recsys.acm.org/challenges/)
 - [MIND](https://msnews.github.io/)
 - [Open Bandit Dataset](https://research.zozo.com/data.html)
+- [Ali-CCP](https://tianchi.aliyun.com/dataset/408)
 
 ## 收录说明
 

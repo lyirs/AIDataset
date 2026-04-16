@@ -26,6 +26,11 @@
 | 18 | RobustBench | Visual | [Site](https://robustbench.github.io/) | Apache-2.0 (benchmark code) | 标准化对抗鲁棒性评测 | [Paper](https://openreview.net/forum?id=SSKZPJCt7B) | 它是现代视觉鲁棒性论文里最常用的开放 benchmark 和 leaderboard 之一。 |
 | 19 | SEED-Bench | Multimodal | [GitHub](https://github.com/AILab-CVC/SEED-Bench) | Apache-2.0 | 生成式多模态评测 | [Paper](https://arxiv.org/abs/2307.16125) | 它是评估多模态大模型 generative comprehension 能力时最常见的一组 benchmark 家族之一。 |
 | 20 | POPE | Multimodal | [GitHub](https://github.com/RUCAIBox/POPE) | MIT (benchmark repo) | 大视觉语言模型目标幻觉评测 | [Paper](https://aclanthology.org/2023.emnlp-main.20/) | 它是衡量 LVLM object hallucination 问题最常见的 benchmark 之一。 |
+| 21 | WebArena | Interactive web | [Site](https://webarena.dev/) | Unknown | 真实网页环境下的浏览器 Agent 评测 | [Paper](https://arxiv.org/abs/2307.13854) | 它是当前网页代理在真实网站环境中最常被报告的 benchmark 之一。 |
+| 22 | OSWorld | Computer use | [Site](https://os-world.github.io/) | Unknown | 桌面与操作系统 Agent 评测 | [Docs](https://os-world.github.io/) | 它是 GUI-capable agent 与桌面环境交互评测中的核心 benchmark。 |
+| 23 | WebVoyager | Interactive web | [GitHub](https://github.com/MinorJerry/WebVoyager) | Apache-2.0 | 端到端多模态网页代理评测 | [Paper](https://arxiv.org/abs/2401.13919) | 它经常被用来评估需要真实点击、导航和页面观察的 live website agent。 |
+| 24 | AssistantBench | Interactive web | [Site](https://assistantbench.github.io/) | Unknown | 真实长链路助手任务评测 | [Paper](https://arxiv.org/abs/2407.15711) | 它加入了更长、更耗时、跨多个网站的任务，能更明显暴露规划和记忆失误。 |
+| 25 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | 面向 computer-use 模型的 GUI grounding 评测 | [Paper](https://arxiv.org/abs/2504.07981) | 它代表了桌面代理和 GUI agent 感知层最重要的一类 benchmark。 |
 
 ## 额外交叉索引
 
@@ -37,6 +42,8 @@
 - [OpenOOD](https://github.com/Jingkang50/OpenOOD)
 - [WILDS](https://wilds.stanford.edu/datasets/)
 - [RobustBench](https://robustbench.github.io/)
+- [OSWorld](https://os-world.github.io/)
+- [AssistantBench](https://assistantbench.github.io/)
 - [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)
 - [POPE](https://github.com/RUCAIBox/POPE)
 - [CRAG](../Search-Retrieval/README_ZH.md)
