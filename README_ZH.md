@@ -6,9 +6,9 @@
 
 ## 项目概览
 
-- 26 个分类目录
-- 588 条主条目
-- 链接整理与核验日期：2026-04-17
+- 27 个分类目录
+- 590 条主条目
+- 链接整理与核验日期：2026-04-19
 
 ## 收录规则
 
@@ -41,7 +41,8 @@
 | 大语言模型（LLM） | 预训练语料、指令微调、合成监督、偏好数据与对齐数据。 | [英文](LLM/README.md) | [中文](LLM/README_ZH.md) | 26 |
 | 大语言模型评测（LLM-Evals） | 覆盖指令遵循、推理、真实性、聊天与长上下文能力的大语言模型评测数据。 | [英文](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 28 |
 | 智能体（Agent） | 工具调用、网页代理、computer use、软件工程代理与环境交互数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 25 |
-| 机器人与强化学习（Robotics-RL） | 离线强化学习、模仿学习、机器人操作、轨迹与仿真器主导的机器人学习数据。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 18 |
+| 机器人与强化学习（Robotics-RL） | 离线强化学习、机器人学习 benchmark、仿真环境与控制导向策略套件。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
+| 机器人操作（Robot-Manipulation） | 真实机器人操作数据、遥操作语料与视觉运动轨迹集合。 | [英文](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
 | 具身智能（Embodied-AI） | 具身导航、指令执行、第一视角感知与语言条件行为数据。 | [英文](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |
 | 科学 AI（Scientific-AI） | 分子、蛋白质、材料、反应与科学文献数据。 | [英文](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 23 |
 | 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |

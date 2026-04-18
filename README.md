@@ -6,9 +6,9 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 
 ## Snapshot
 
-- 26 topical directories
-- 588 primary entries
-- Links checked on 2026-04-17
+- 27 topical directories
+- 590 primary entries
+- Links checked on 2026-04-19
 
 ## Inclusion Rules
 
@@ -41,7 +41,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 26 |
 | LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 28 |
 | Agent | Tool use, browser and web agents, computer use, software engineering agents, and environment interaction datasets. | [Open](Agent/README.md) | [中文](Agent/README_ZH.md) | 25 |
-| Robotics-RL | Offline RL, imitation learning, manipulation, robot trajectories, and simulator-centered robot learning datasets. | [Open](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 18 |
+| Robotics-RL | Offline RL, robot-learning benchmarks, simulation environments, and control-oriented policy suites. | [Open](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
+| Robot-Manipulation | Real-world robot manipulation datasets, teleoperation corpora, and visuomotor trajectory collections. | [Open](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
 | Embodied-AI | Embodied navigation, instruction following, egocentric perception, and language-conditioned behavior datasets. | [Open](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |
 | Scientific-AI | Molecule, protein, material, reaction, and scientific literature datasets. | [Open](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 23 |
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |
