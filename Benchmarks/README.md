@@ -34,6 +34,7 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 
 ## Additional Cross-References
 
+- [Computer-Use overview](../Computer-Use/README.md)
 - [LLM-Evals overview](../LLM-Evals/README.md)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
 - [MathVista](https://mathvista.github.io/)
@@ -54,4 +55,5 @@ Cross-domain benchmark suites for NLP, retrieval, multimodal systems, coding, ag
 ## Selection Note
 
 - This page keeps cross-domain, task-family, and platform-style benchmark resources in one place.
+- A denser browser, desktop, mobile, and GUI cluster is maintained separately in [Computer-Use](../Computer-Use/README.md).
 - LLM-specific evaluation sets that now form a large standalone cluster are maintained separately in [LLM-Evals](../LLM-Evals/README.md).

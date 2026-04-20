@@ -34,6 +34,7 @@
 
 ## 额外交叉索引
 
+- [Computer-Use 总览](../Computer-Use/README_ZH.md)
 - [LLM-Evals 总览](../LLM-Evals/README_ZH.md)
 - [MMBench](https://mmbench.opencompass.org.cn/home)
 - [MathVista](https://mathvista.github.io/)
@@ -54,4 +55,5 @@
 ## 收录说明
 
 - 本页保留跨领域、任务族和平台型 benchmark 资源。
+- 浏览器、桌面、移动端与 GUI 这类更高密度的 computer-use 资源，现已单独维护在 [Computer-Use](../Computer-Use/README_ZH.md)。
 - 已经形成独立簇的大语言模型评测，现单独维护在 [LLM-Evals](../LLM-Evals/README_ZH.md)。

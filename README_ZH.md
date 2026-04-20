@@ -1,14 +1,14 @@
 # AIDataset
 
-一个覆盖主要 AI 研究方向的数据集、评测与数据门户目录，包括 NLP、计算机视觉、多模态、语音、音频与音乐理解、时间序列、图学习、推荐系统、检索、LLM、Agent、机器人、具身智能、自动驾驶、遥感、科学 AI、医疗 AI 等方向。
+一个覆盖主要 AI 研究方向的数据集、评测与数据门户目录，包括 NLP、计算机视觉、多模态、语音、音频与音乐理解、时间序列、图学习、推荐系统、检索、LLM、Agent、计算机使用、机器人、具身智能、自动驾驶、遥感、科学 AI、医疗 AI 等方向。
 
 [英文版](README.md)
 
 ## 项目概览
 
-- 27 个分类目录
-- 590 条主条目
-- 链接整理与核验日期：2026-04-19
+- 28 个分类目录
+- 597 条主条目
+- 链接整理与核验日期：2026-04-20
 
 ## 收录规则
 
@@ -40,7 +40,8 @@
 | 推荐系统（Recommender-Systems） | 协同过滤、排序、CTR、新闻推荐、bandit 与工业推荐数据。 | [英文](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 22 |
 | 大语言模型（LLM） | 预训练语料、指令微调、合成监督、偏好数据与对齐数据。 | [英文](LLM/README.md) | [中文](LLM/README_ZH.md) | 26 |
 | 大语言模型评测（LLM-Evals） | 覆盖指令遵循、推理、真实性、聊天与长上下文能力的大语言模型评测数据。 | [英文](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 28 |
-| 智能体（Agent） | 工具调用、网页代理、computer use、软件工程代理与环境交互数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 25 |
+| 智能体（Agent） | 工具调用、软件工程、长上下文记忆与通用交互 agent 数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 12 |
+| 计算机使用（Computer-Use） | 浏览器、桌面、移动端与 GUI grounding 的 computer-use agent 数据与评测。 | [英文](Computer-Use/README.md) | [中文](Computer-Use/README_ZH.md) | 20 |
 | 机器人与强化学习（Robotics-RL） | 离线强化学习、机器人学习 benchmark、仿真环境与控制导向策略套件。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
 | 机器人操作（Robot-Manipulation） | 真实机器人操作数据、遥操作语料与视觉运动轨迹集合。 | [英文](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
 | 具身智能（Embodied-AI） | 具身导航、指令执行、第一视角感知与语言条件行为数据。 | [英文](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |

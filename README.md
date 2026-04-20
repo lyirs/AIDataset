@@ -1,14 +1,14 @@
 # AIDataset
 
-An AI dataset index covering major research areas such as NLP, computer vision, multimodal learning, speech, audio, and music understanding, time series, graph learning, recommender systems, retrieval, LLMs, agents, robotics, embodied AI, autonomous driving, remote sensing, scientific AI, medical AI, and related domains.
+An AI dataset index covering major research areas such as NLP, computer vision, multimodal learning, speech, audio, music understanding, time series, graph learning, recommender systems, retrieval, LLMs, agents, computer use, robotics, embodied AI, autonomous driving, remote sensing, scientific AI, medical AI, and related domains.
 
 [中文说明](README_ZH.md)
 
 ## Snapshot
 
-- 27 topical directories
-- 590 primary entries
-- Links checked on 2026-04-19
+- 28 topical directories
+- 597 primary entries
+- Links checked on 2026-04-20
 
 ## Inclusion Rules
 
@@ -40,7 +40,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Recommender-Systems | Collaborative filtering, ranking, CTR, news, bandit, and industrial recommendation datasets. | [Open](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 22 |
 | LLM | Pretraining corpora, instruction tuning, synthetic supervision, preference data, and alignment datasets. | [Open](LLM/README.md) | [中文](LLM/README_ZH.md) | 26 |
 | LLM-Evals | Instruction following, reasoning, truthfulness, chat, and long-context benchmark datasets for large language models. | [Open](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 28 |
-| Agent | Tool use, browser and web agents, computer use, software engineering agents, and environment interaction datasets. | [Open](Agent/README.md) | [中文](Agent/README_ZH.md) | 25 |
+| Agent | Tool use, software engineering, long-context memory, and general interactive agent datasets. | [Open](Agent/README.md) | [中文](Agent/README_ZH.md) | 12 |
+| Computer-Use | Browser, desktop, mobile, and GUI-grounded datasets and benchmarks for computer-use agents. | [Open](Computer-Use/README.md) | [中文](Computer-Use/README_ZH.md) | 20 |
 | Robotics-RL | Offline RL, robot-learning benchmarks, simulation environments, and control-oriented policy suites. | [Open](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
 | Robot-Manipulation | Real-world robot manipulation datasets, teleoperation corpora, and visuomotor trajectory collections. | [Open](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
 | Embodied-AI | Embodied navigation, instruction following, egocentric perception, and language-conditioned behavior datasets. | [Open](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |
