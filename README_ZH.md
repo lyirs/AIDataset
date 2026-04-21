@@ -7,8 +7,8 @@
 ## 项目概览
 
 - 29 个分类目录
-- 603 条主条目
-- 链接整理与核验日期：2026-04-20
+- 607 条主条目
+- 链接整理与核验日期：2026-04-21
 
 ## 收录规则
 
@@ -44,7 +44,7 @@
 | 计算机使用（Computer-Use） | 浏览器、桌面与跨平台 GUI grounding 的 computer-use agent 数据与评测。 | [英文](Computer-Use/README.md) | [中文](Computer-Use/README_ZH.md) | 13 |
 | 移动界面（Mobile-UI） | 移动端界面理解、屏幕 grounding 与 Android agent 数据和评测。 | [英文](Mobile-UI/README.md) | [中文](Mobile-UI/README_ZH.md) | 13 |
 | 机器人与强化学习（Robotics-RL） | 离线强化学习、机器人学习 benchmark、仿真环境与控制导向策略套件。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
-| 机器人操作（Robot-Manipulation） | 真实机器人操作数据、遥操作语料与视觉运动轨迹集合。 | [英文](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
+| 机器人操作（Robot-Manipulation） | 真实机器人操作数据、遥操作语料与视觉运动轨迹集合。 | [英文](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 14 |
 | 具身智能（Embodied-AI） | 具身导航、指令执行、第一视角感知与语言条件行为数据。 | [英文](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |
 | 科学 AI（Scientific-AI） | 分子、蛋白质、材料、反应与科学文献数据。 | [英文](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 23 |
 | 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |

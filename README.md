@@ -7,8 +7,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 29 topical directories
-- 603 primary entries
-- Links checked on 2026-04-20
+- 607 primary entries
+- Links checked on 2026-04-21
 
 ## Inclusion Rules
 
@@ -44,7 +44,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Computer-Use | Browser, desktop, and cross-platform GUI-grounded datasets and benchmarks for computer-use agents. | [Open](Computer-Use/README.md) | [中文](Computer-Use/README_ZH.md) | 13 |
 | Mobile-UI | Mobile UI understanding, screen grounding, and Android agent datasets and benchmarks. | [Open](Mobile-UI/README.md) | [中文](Mobile-UI/README_ZH.md) | 13 |
 | Robotics-RL | Offline RL, robot-learning benchmarks, simulation environments, and control-oriented policy suites. | [Open](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 10 |
-| Robot-Manipulation | Real-world robot manipulation datasets, teleoperation corpora, and visuomotor trajectory collections. | [Open](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 10 |
+| Robot-Manipulation | Real-world robot manipulation datasets, teleoperation corpora, and visuomotor trajectory collections. | [Open](Robot-Manipulation/README.md) | [中文](Robot-Manipulation/README_ZH.md) | 14 |
 | Embodied-AI | Embodied navigation, instruction following, egocentric perception, and language-conditioned behavior datasets. | [Open](Embodied-AI/README.md) | [中文](Embodied-AI/README_ZH.md) | 21 |
 | Scientific-AI | Molecule, protein, material, reaction, and scientific literature datasets. | [Open](Scientific-AI/README.md) | [中文](Scientific-AI/README_ZH.md) | 23 |
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |
