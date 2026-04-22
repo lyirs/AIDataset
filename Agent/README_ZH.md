@@ -8,16 +8,20 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | ToolBench | English | [Site](https://openbmb.github.io/ToolBench/) | Apache-2.0 | 工具调用规划与 API 使用 | [Paper](https://arxiv.org/abs/2307.16789) | 带 API 文档的高信号开源 tool-use 数据资源。 |
 | 2 | APIBank | English | [GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) | Unknown | API 编排与工具增强问答 | [Docs](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) | 早期但很实用的 agent API 使用基准。 |
-| 3 | ALFWorld | English | [Site](https://alfworld.github.io/) | Unknown | 具身家庭任务规划与指令执行 | [Paper](https://arxiv.org/abs/2010.03768) | 结合文本与具身规划的长期经典基准。 |
-| 4 | SWE-bench | Python / English | [Site](https://www.swebench.com/) | Unknown | 面向真实 issue 的软件工程代理 | [GitHub](https://github.com/SWE-bench/SWE-bench) | 仓库级 coding agent 的事实标准 benchmark。 |
-| 5 | AgentBench | English | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 | 多环境 Agent 评测 | [Paper](https://arxiv.org/abs/2308.03688) | 同时覆盖推理、工具使用与交互任务的广谱 benchmark。 |
-| 6 | LoCoMo | English | [GitHub](https://github.com/snap-research/locomo) | Unknown | 长期对话记忆评测 | [Paper](https://arxiv.org/abs/2402.17753) | 面向 memory-aware assistant 的高信号长对话 benchmark。 |
-| 7 | LongMemEval | English | [GitHub](https://github.com/xiaowu0162/LongMemEval) | MIT | 长上下文记忆检索与问答 | [Paper](https://arxiv.org/abs/2407.12580) | 评估模型能否保留并正确检索长跨度对话中的关键信息。 |
-| 8 | BFCL | English | [HF](https://huggingface.co/datasets/gorilla-llm/Berkeley-Function-Calling-Leaderboard) | Apache-2.0 | 函数调用与工具使用评测 | [Docs](https://gorilla.cs.berkeley.edu/leaderboard) | Berkeley Function Calling Leaderboard 已经成为 tool-using agent 的标准参考之一。 |
-| 9 | tau2-bench | English | [GitHub](https://github.com/sierra-research/tau2-bench) | MIT | 双控制环境下的工具代理交互 | [Paper](https://arxiv.org/abs/2506.07982) | 相比 tau-bench 更新，强调协同、约束和真实策略交互。 |
-| 10 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | 机器学习工程 agent 评测 | [Paper](https://arxiv.org/abs/2410.07095) | 面向端到端 ML engineering workflow 的高信号 agent benchmark。 |
-| 11 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | 函数调用与交互式编码 Agent | [Paper](https://arxiv.org/abs/2407.18901) | 它是 ACL 方向里很强的一类 benchmark，强调多应用执行、有状态工具使用和交互式代码生成。 |
-| 12 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | 带工具调用与文件处理的通用助手评测 | [Paper](https://arxiv.org/abs/2311.12983) | 它是超越静态问答、衡量通用助手真实能力时最常被引用的 benchmark 之一。 |
+| 3 | WebShop | English | [Site](https://webshop-pnlp.github.io/) | MIT | 网页购物智能体与 grounded 决策 | [Paper](https://arxiv.org/abs/2207.01206) | 它是交互式 agent benchmark 里的经典资源之一，包含 118 万真实商品和指令驱动网页动作。 |
+| 4 | ALFWorld | English | [Site](https://alfworld.github.io/) | Unknown | 具身家庭任务规划与指令执行 | [Paper](https://arxiv.org/abs/2010.03768) | 结合文本与具身规划的长期经典基准。 |
+| 5 | ScienceWorld | English | [Site](https://sciworld.apps.allenai.org/) | Apache-2.0 | 科学任务中的文本交互规划 | [Paper](https://arxiv.org/abs/2203.07540) | 它是科学推理 agent 里最标准的一类文本环境，明显强于早期玩具式任务。 |
+| 6 | DiscoveryWorld | English | [GitHub](https://github.com/allenai/discoveryworld) | Apache-2.0 | 自动化科学发现智能体 | [Paper](https://arxiv.org/abs/2406.06769) | 它把科学 agent 评测扩展到实验设计、假设检验和更长链路的 discovery loop。 |
+| 7 | SWE-bench | Python / English | [Site](https://www.swebench.com/) | Unknown | 面向真实 issue 的软件工程代理 | [GitHub](https://github.com/SWE-bench/SWE-bench) | 仓库级 coding agent 的事实标准 benchmark。 |
+| 8 | AgentBench | English | [GitHub](https://github.com/THUDM/AgentBench) | Apache-2.0 | 多环境 Agent 评测 | [Paper](https://arxiv.org/abs/2308.03688) | 同时覆盖推理、工具使用与交互任务的广谱 benchmark。 |
+| 9 | LoCoMo | English | [GitHub](https://github.com/snap-research/locomo) | Unknown | 长期对话记忆评测 | [Paper](https://arxiv.org/abs/2402.17753) | 面向 memory-aware assistant 的高信号长对话 benchmark。 |
+| 10 | LongMemEval | English | [GitHub](https://github.com/xiaowu0162/LongMemEval) | MIT | 长上下文记忆检索与问答 | [Paper](https://arxiv.org/abs/2407.12580) | 评估模型能否保留并正确检索长跨度对话中的关键信息。 |
+| 11 | BFCL | English | [HF](https://huggingface.co/datasets/gorilla-llm/Berkeley-Function-Calling-Leaderboard) | Apache-2.0 | 函数调用与工具使用评测 | [Docs](https://gorilla.cs.berkeley.edu/leaderboard) | Berkeley Function Calling Leaderboard 已经成为 tool-using agent 的标准参考之一。 |
+| 12 | tau2-bench | English | [GitHub](https://github.com/sierra-research/tau2-bench) | MIT | 双控制环境下的工具代理交互 | [Paper](https://arxiv.org/abs/2506.07982) | 相比 tau-bench 更新，强调协同、约束和真实策略交互。 |
+| 13 | MLE-bench | English / code | [GitHub](https://github.com/openai/mle-bench) | MIT | 机器学习工程 agent 评测 | [Paper](https://arxiv.org/abs/2410.07095) | 面向端到端 ML engineering workflow 的高信号 agent benchmark。 |
+| 14 | AppWorld | English | [Site](https://appworld.dev/) | Apache-2.0 | 函数调用与交互式编码 Agent | [Paper](https://arxiv.org/abs/2407.18901) | 它是 ACL 方向里很强的一类 benchmark，强调多应用执行、有状态工具使用和交互式代码生成。 |
+| 15 | TheAgentCompany | English | [Site](https://the-agent-company.com/) | MIT | 高后果真实工作流智能体 | [Paper](https://arxiv.org/abs/2412.14161) | 它面向办公室和企业场景下的长程任务，是近两年非常高信号的真实任务 agent benchmark。 |
+| 16 | GAIA | English / tools | [HF](https://huggingface.co/datasets/gaia-benchmark/GAIA) | Unknown | 带工具调用与文件处理的通用助手评测 | [Paper](https://arxiv.org/abs/2311.12983) | 它是超越静态问答、衡量通用助手真实能力时最常被引用的 benchmark 之一。 |
 
 ## 相关评测
 
@@ -30,4 +34,4 @@
 ## 收录说明
 
 - 浏览器、桌面与移动端的 computer-use 资源现已集中到 [Computer-Use](../Computer-Use/README_ZH.md)。
-- 本页主要保留工具调用、软件工程、通用 agent 执行与长程记忆相关资源。
+- 本页主要保留工具调用、软件工程、文本型交互环境、通用 agent 执行与长程记忆相关资源。

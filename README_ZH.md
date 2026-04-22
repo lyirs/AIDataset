@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 29 个分类目录
-- 618 条主条目
+- 622 条主条目
 - 链接整理与核验日期：2026-04-22
 
 ## 收录规则
@@ -40,7 +40,7 @@
 | 推荐系统（Recommender-Systems） | 协同过滤、排序、CTR、新闻推荐、bandit 与工业推荐数据。 | [英文](Recommender-Systems/README.md) | [中文](Recommender-Systems/README_ZH.md) | 22 |
 | 大语言模型（LLM） | 预训练语料、指令微调、合成监督、偏好数据与对齐数据。 | [英文](LLM/README.md) | [中文](LLM/README_ZH.md) | 26 |
 | 大语言模型评测（LLM-Evals） | 覆盖指令遵循、推理、真实性、聊天与长上下文能力的大语言模型评测数据。 | [英文](LLM-Evals/README.md) | [中文](LLM-Evals/README_ZH.md) | 28 |
-| 智能体（Agent） | 工具调用、软件工程、长上下文记忆与通用交互 agent 数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 12 |
+| 智能体（Agent） | 工具调用、软件工程、长上下文记忆与通用交互 agent 数据。 | [英文](Agent/README.md) | [中文](Agent/README_ZH.md) | 16 |
 | 计算机使用（Computer-Use） | 浏览器、桌面与跨平台 GUI grounding 的 computer-use agent 数据与评测。 | [英文](Computer-Use/README.md) | [中文](Computer-Use/README_ZH.md) | 13 |
 | 移动界面（Mobile-UI） | 移动端界面理解、屏幕 grounding 与 Android agent 数据和评测。 | [英文](Mobile-UI/README.md) | [中文](Mobile-UI/README_ZH.md) | 13 |
 | 机器人与强化学习（Robotics-RL） | 离线强化学习、机器人学习 benchmark、仿真环境与控制导向策略套件。 | [英文](Robotics-RL/README.md) | [中文](Robotics-RL/README_ZH.md) | 14 |
