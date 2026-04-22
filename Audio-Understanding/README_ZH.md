@@ -8,17 +8,21 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | AudioSet | Audio | [Site](https://research.google.com/audioset/) | Custom | 大规模音频事件识别 | [Paper](https://arxiv.org/abs/1709.04396) | 音频事件学习里最基础、最具代表性的大规模弱标注数据集。 |
 | 2 | FSD50K | Audio | [Site](https://zenodo.org/records/4060432) | Mixed / clip-specific CC + dataset CC BY | 声音事件分类 | [Paper](https://arxiv.org/abs/2010.00475) | 通用音频表征学习和 sound event tagging 里很高频的 benchmark。 |
-| 3 | ESC-50 | Audio | [GitHub](https://github.com/karolpiczak/ESC-50) | CC BY-NC | 环境声音分类 | [Paper](https://dl.acm.org/doi/10.1145/2733373.2806390) | 小规模音频分类里几乎人人都会拿来比较的经典基准。 |
-| 4 | UrbanSound8K | Audio | [Site](https://urbansounddataset.weebly.com/urbansound8k.html) | Unknown | 城市场景与环境声音分类 | [Docs](https://urbansounddataset.weebly.com/urbansound8k.html) | 环境音和城市声音识别里长期高频使用的经典数据集。 |
-| 5 | VGGSound | Audio + video | [Site](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) | CC BY 4.0 | 大规模野外音频识别 | [Paper](https://www.robots.ox.ac.uk/~vgg/publications/2020/Chen20/chen20.pdf) | 大类别音频识别里非常常见，也适合做音视频 grounding。 |
-| 6 | Clotho | English | [Site](https://zenodo.org/records/3490684) | Mixed / source-specific + non-commercial captions | 音频描述与音频文本检索 | [Paper](https://arxiv.org/abs/1910.09387) | 音频描述方向的核心数据集之一，也在检索页交叉收录。 |
-| 7 | AudioCaps | English | [Site](https://audiocaps.github.io/) | Unknown | 音频描述与音频语言 grounding | [Docs](https://audiocaps.github.io/) | 音频语言研究里最标准的两大 captioning 数据集之一。 |
-| 8 | WavCaps | English | [GitHub](https://github.com/XinhaoMei/WavCaps) | Academic-only / source-specific | 大规模音频语言预训练 | [Paper](https://arxiv.org/abs/2303.17395) | 面向 audio-language 多模态学习的高信号弱标注 caption 数据集。 |
-| 9 | AIR-Bench | Audio + language | [GitHub](https://github.com/OFA-Sys/AIR-Bench) | Unknown | 音频语言模型评测 | [Paper](https://arxiv.org/abs/2402.07729) | 近两年音频 foundation model 和 chat-style audio model 常见的强 benchmark。 |
-| 10 | MMAU | Audio + language | [Site](https://sakshi113.github.io/mmau_homepage/) | Unknown | 统一音频理解与推理评测 | [Paper](https://arxiv.org/abs/2410.19168) | 把语音、环境声音和音乐理解统一到同一个现代 benchmark 中。 |
-| 11 | DESED | Audio | [Site](https://project.inria.fr/desed/) | Mixed / source-specific | 家庭环境声音事件检测 | [Paper](https://hal.science/hal-03230036/document) | 它是很多现代 DCASE 声音事件检测 benchmark 背后的核心数据集家族。 |
-| 12 | TAU Urban Acoustic Scenes 2020 Mobile | Audio | [Site](https://dcase-repo.github.io/dcase_datalist/datasets/scenes/tau_asc_2020_mobile_dev.html) | Other (Non-Commercial) | 声学场景分类 | [Paper](https://arxiv.org/abs/2005.14623) | 它是 DCASE 体系里现代声学场景分类论文最常见的默认 benchmark 之一。 |
-| 13 | SONYC-UST | Audio | [Site](https://dcase-repo.github.io/dcase_datalist/datasets/sounds/sonyc.html) | CC BY 4.0 | 城市声音标签学习与噪声监测 | [Paper](https://arxiv.org/abs/2009.05188) | 这是弱多标签城市声音识别和城市声学监测里很高频的数据集。 |
+| 3 | FSDnoisy18k | Audio | [Site](https://www.eduardofonseca.net/FSDnoisy18k/) | CC BY 4.0 + clip-specific CC BY/CC0 | 含噪标签下的稳健声音分类 | [Paper](https://arxiv.org/abs/1901.01189) | 这是研究噪声标签鲁棒学习时非常经典、至今仍高频出现的音频基准。 |
+| 4 | ESC-50 | Audio | [GitHub](https://github.com/karolpiczak/ESC-50) | CC BY-NC | 环境声音分类 | [Paper](https://dl.acm.org/doi/10.1145/2733373.2806390) | 小规模音频分类里几乎人人都会拿来比较的经典基准。 |
+| 5 | UrbanSound8K | Audio | [Site](https://urbansounddataset.weebly.com/urbansound8k.html) | Unknown | 城市场景与环境声音分类 | [Docs](https://urbansounddataset.weebly.com/urbansound8k.html) | 环境音和城市声音识别里长期高频使用的经典数据集。 |
+| 6 | VGGSound | Audio + video | [Site](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) | CC BY 4.0 | 大规模野外音频识别 | [Paper](https://www.robots.ox.ac.uk/~vgg/publications/2020/Chen20/chen20.pdf) | 大类别音频识别里非常常见，也适合做音视频 grounding。 |
+| 7 | VocalSound | Audio | [GitHub](https://github.com/YuanGongND/vocalsound) | CC BY 4.0 | 人类非语言发声分类 | [Paper](https://arxiv.org/abs/2205.03433) | 这是做人类非语言发声识别时非常常见的基准，并带有丰富说话人元信息。 |
+| 8 | EPIC-SOUNDS | Audio + video | [Site](https://epic-kitchens.github.io/epic-sounds/) | CC BY-NC 4.0 | 第一视角音频事件识别与检测 | [Paper](https://arxiv.org/abs/2302.00646) | 它基于 EPIC-KITCHENS 扩展出高频使用的第一视角音频 benchmark，适合做 actions that sound。 |
+| 9 | Clotho | English | [Site](https://zenodo.org/records/3490684) | Mixed / source-specific + non-commercial captions | 音频描述与音频文本检索 | [Paper](https://arxiv.org/abs/1910.09387) | 音频描述方向的核心数据集之一，也在检索页交叉收录。 |
+| 10 | AudioCaps | English | [Site](https://audiocaps.github.io/) | Unknown | 音频描述与音频语言 grounding | [Docs](https://audiocaps.github.io/) | 音频语言研究里最标准的两大 captioning 数据集之一。 |
+| 11 | WavCaps | English | [GitHub](https://github.com/XinhaoMei/WavCaps) | Academic-only / source-specific | 大规模音频语言预训练 | [Paper](https://arxiv.org/abs/2303.17395) | 面向 audio-language 多模态学习的高信号弱标注 caption 数据集。 |
+| 12 | AIR-Bench | Audio + language | [GitHub](https://github.com/OFA-Sys/AIR-Bench) | Unknown | 音频语言模型评测 | [Paper](https://arxiv.org/abs/2402.07729) | 近两年音频 foundation model 和 chat-style audio model 常见的强 benchmark。 |
+| 13 | MMAU | Audio + language | [Site](https://sakshi113.github.io/mmau_homepage/) | Unknown | 统一音频理解与推理评测 | [Paper](https://arxiv.org/abs/2410.19168) | 把语音、环境声音和音乐理解统一到同一个现代 benchmark 中。 |
+| 14 | HEAR Benchmark | Audio | [Site](https://hearbenchmark.com/) | Mixed / task-specific open licenses | 通用音频表征评测 | [Paper](https://arxiv.org/abs/2203.03022) | 这是一个高频被引用的迁移评测套件，覆盖语音、环境声音和音乐任务。 |
+| 15 | DESED | Audio | [Site](https://project.inria.fr/desed/) | Mixed / source-specific | 家庭环境声音事件检测 | [Paper](https://hal.science/hal-03230036/document) | 它是很多现代 DCASE 声音事件检测 benchmark 背后的核心数据集家族。 |
+| 16 | TAU Urban Acoustic Scenes 2020 Mobile | Audio | [Site](https://dcase-repo.github.io/dcase_datalist/datasets/scenes/tau_asc_2020_mobile_dev.html) | Other (Non-Commercial) | 声学场景分类 | [Paper](https://arxiv.org/abs/2005.14623) | 它是 DCASE 体系里现代声学场景分类论文最常见的默认 benchmark 之一。 |
+| 17 | SONYC-UST | Audio | [Site](https://dcase-repo.github.io/dcase_datalist/datasets/sounds/sonyc.html) | CC BY 4.0 | 城市声音标签学习与噪声监测 | [Paper](https://arxiv.org/abs/2009.05188) | 这是弱多标签城市声音识别和城市声学监测里很高频的数据集。 |
 
 ## 相关评测
 

@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 29 topical directories
-- 611 primary entries
+- 615 primary entries
 - Links checked on 2026-04-22
 
 ## Inclusion Rules
@@ -30,7 +30,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Remote-Sensing | Satellite, aerial, overhead, multispectral, SAR, and geospatial mapping datasets. | [Open](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 23 |
 | Multimodal | Vision-language, VQA, chart and OCR-grounded reasoning, image-text alignment, and multimodal instruction datasets. | [Open](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 27 |
 | Speech-Audio | ASR, speech translation, speaker or language ID, speech emotion, and speech generation datasets. | [Open](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 25 |
-| Audio-Understanding | Sound events, audio captioning, audio-language learning, and non-music audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 13 |
+| Audio-Understanding | Sound events, audio captioning, audio-language learning, and non-music audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 17 |
 | Music-Audio | Music MIR, transcription, source separation, tagging, singing voice, and symbolic-audio learning datasets. | [Open](Music-Audio/README.md) | [中文](Music-Audio/README_ZH.md) | 12 |
 | Time-Series | Forecasting, classification, anomaly detection, clinical time series, and spatiotemporal sequence datasets. | [Open](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 20 |
 | Document-AI | OCR, layout analysis, forms, receipts, tables, charts, and document QA datasets. | [Open](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |

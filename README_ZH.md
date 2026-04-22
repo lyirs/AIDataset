@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 29 个分类目录
-- 611 条主条目
+- 615 条主条目
 - 链接整理与核验日期：2026-04-22
 
 ## 收录规则
@@ -30,7 +30,7 @@
 | 遥感（Remote-Sensing） | 卫星、航拍、高空、多光谱、SAR 与地理空间制图数据。 | [英文](Remote-Sensing/README.md) | [中文](Remote-Sensing/README_ZH.md) | 23 |
 | 多模态（Multimodal） | 视觉语言、VQA、图文对齐、图表与 OCR 感知推理、多模态指令数据。 | [英文](Multimodal/README.md) | [中文](Multimodal/README_ZH.md) | 27 |
 | 语音与音频（Speech-Audio） | ASR、语音翻译、说话人或语言识别、情感语音与语音生成数据。 | [英文](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 25 |
-| 音频理解（Audio-Understanding） | 声音事件、音频描述、音频语言学习与非音乐通用音频基础模型评测数据。 | [英文](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 13 |
+| 音频理解（Audio-Understanding） | 声音事件、音频描述、音频语言学习与非音乐通用音频基础模型评测数据。 | [英文](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 17 |
 | 音乐音频（Music-Audio） | 音乐 MIR、转录、源分离、标签学习、歌唱声音与符号-音频联合建模数据。 | [英文](Music-Audio/README.md) | [中文](Music-Audio/README_ZH.md) | 12 |
 | 时间序列（Time-Series） | 预测、分类、异常检测、临床时序与时空序列数据。 | [英文](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 20 |
 | 文档 AI（Document-AI） | OCR、版面分析、表单、票据、表格、图表与文档问答数据。 | [英文](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |
