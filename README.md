@@ -7,8 +7,8 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 29 topical directories
-- 622 primary entries
-- Links checked on 2026-04-22
+- 626 primary entries
+- Links checked on 2026-04-23
 
 ## Inclusion Rules
 
@@ -32,7 +32,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Speech-Audio | ASR, speech translation, speaker or language ID, speech emotion, and speech generation datasets. | [Open](Speech-Audio/README.md) | [中文](Speech-Audio/README_ZH.md) | 25 |
 | Audio-Understanding | Sound events, audio captioning, audio-language learning, and non-music audio foundation-model evaluation datasets. | [Open](Audio-Understanding/README.md) | [中文](Audio-Understanding/README_ZH.md) | 17 |
 | Music-Audio | Music MIR, transcription, source separation, tagging, singing voice, and symbolic-audio learning datasets. | [Open](Music-Audio/README.md) | [中文](Music-Audio/README_ZH.md) | 15 |
-| Time-Series | Forecasting, classification, anomaly detection, clinical time series, and spatiotemporal sequence datasets. | [Open](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 20 |
+| Time-Series | Forecasting, classification, anomaly detection, clinical time series, and spatiotemporal sequence datasets. | [Open](Time-Series/README.md) | [中文](Time-Series/README_ZH.md) | 24 |
 | Document-AI | OCR, layout analysis, forms, receipts, tables, charts, and document QA datasets. | [Open](Document-AI/README.md) | [中文](Document-AI/README_ZH.md) | 21 |
 | Code | Code generation, repair, execution, repository understanding, and software engineering agent datasets. | [Open](Code/README.md) | [中文](Code/README_ZH.md) | 21 |
 | Search-Retrieval | Embedding, retrieval, reranking, multilingual IR, RAG grounding, and multimodal or audio-text retrieval datasets. | [Open](Search-Retrieval/README.md) | [中文](Search-Retrieval/README_ZH.md) | 23 |
