@@ -37,4 +37,3 @@ Mobile UI understanding, screen grounding, and Android agent datasets and benchm
 
 - This page focuses on mobile screenshots, UI semantics, Android control trajectories, and smartphone-agent benchmarks.
 - Browser and desktop computer-use resources remain in [Computer-Use](../Computer-Use/README.md).
-- If this category keeps growing, it should be split into `Mobile-Understanding` and `Mobile-Agent`.

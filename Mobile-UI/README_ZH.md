@@ -37,4 +37,3 @@
 
 - 本页主要覆盖移动端截图、UI 语义、Android 控制轨迹与 smartphone-agent benchmark。
 - 浏览器和桌面方向的 computer-use 资源保留在 [Computer-Use](../Computer-Use/README_ZH.md)。
-- 如果这个分类继续增长，后续应拆成 `Mobile-Understanding` 和 `Mobile-Agent`。

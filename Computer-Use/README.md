@@ -42,4 +42,3 @@ Browser, desktop, and cross-platform GUI-grounded datasets and benchmarks for co
 
 - This page focuses on browser, desktop, and cross-platform computer-use resources.
 - Mobile UI understanding and smartphone-agent resources now live in [Mobile-UI](../Mobile-UI/README.md).
-- The browser-agent cluster is becoming dense; if it grows much further, it should be split into a dedicated web-agent category.
