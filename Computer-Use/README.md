@@ -24,6 +24,7 @@ Browser, desktop, and cross-platform GUI-grounded datasets and benchmarks for co
 | 16 | OS-Atlas Data | GUI screenshots + grounding | [HF](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data) | Unknown | Cross-platform GUI grounding pretraining | [Paper](https://arxiv.org/abs/2410.23218) | A large GUI grounding corpus spanning desktop, mobile, and web screenshots for computer-use action models. |
 | 17 | ScreenSpot | GUI screenshots | [HF](https://huggingface.co/datasets/rootsautomation/ScreenSpot) | Apache-2.0 | GUI grounding on desktop and mobile screens | [Paper](https://arxiv.org/abs/2401.10935) | Widely used benchmark for localizing target UI elements from screenshots. |
 | 18 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | High-resolution GUI grounding for computer-use agents | [Paper](https://arxiv.org/abs/2504.07981) | Standard reference for measuring GUI grounding quality in desktop and professional software settings. |
+| 19 | ClawBench | English | [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | Apache-2.0 | Live browser agents on everyday online tasks | [Paper](https://arxiv.org/abs/2604.08523) | Covers 153 tasks across 144 live websites with five-layer traces and request interception for auditable end-to-end evaluation. |
 
 ## Related Benchmarks
 
@@ -35,6 +36,7 @@ Browser, desktop, and cross-platform GUI-grounded datasets and benchmarks for co
 - [WebCanvas](https://github.com/iMeanAI/WebCanvas)
 - [OSWorld](https://os-world.github.io/)
 - [AssistantBench](https://assistantbench.github.io/)
+- [ClawBench](https://claw-bench.com/)
 - [OS-Atlas](https://osatlas.github.io/)
 - [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
 
