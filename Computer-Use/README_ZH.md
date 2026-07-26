@@ -24,6 +24,7 @@
 | 16 | OS-Atlas Data | GUI screenshots + grounding | [HF](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data) | Unknown | 跨平台 GUI grounding 预训练 | [Paper](https://arxiv.org/abs/2410.23218) | 它是覆盖桌面、移动与网页截图的大规模 GUI grounding 语料，常用于 computer-use action model。 |
 | 17 | ScreenSpot | GUI screenshots | [HF](https://huggingface.co/datasets/rootsautomation/ScreenSpot) | Apache-2.0 | 桌面与移动屏幕上的 GUI grounding | [Paper](https://arxiv.org/abs/2401.10935) | 它是从截图中定位目标 UI 元素时最常用的 benchmark 之一。 |
 | 18 | ScreenSpot-Pro | GUI screenshots | [GitHub](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) | MIT | 面向 computer-use agent 的高分辨率 GUI grounding | [Paper](https://arxiv.org/abs/2504.07981) | 它已成为桌面代理与专业软件 GUI grounding 评测的重要参考。 |
+| 19 | ClawBench | English | [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | Apache-2.0 | 真实网站上的日常在线任务评测 | [Paper](https://arxiv.org/abs/2604.08523) | 它覆盖 144 个真实网站上的 153 个任务，并通过五层轨迹记录与请求拦截支持可审计的端到端评测。 |
 
 ## 相关评测
 
@@ -35,6 +36,7 @@
 - [WebCanvas](https://github.com/iMeanAI/WebCanvas)
 - [OSWorld](https://os-world.github.io/)
 - [AssistantBench](https://assistantbench.github.io/)
+- [ClawBench](https://claw-bench.com/)
 - [OS-Atlas](https://osatlas.github.io/)
 - [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
 
