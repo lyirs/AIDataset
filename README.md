@@ -7,7 +7,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 ## Snapshot
 
 - 29 topical directories
-- 636 primary entries
+- 637 primary entries
 - Links checked on 2026-04-26
 
 ## Inclusion Rules
@@ -50,7 +50,7 @@ An AI dataset index covering major research areas such as NLP, computer vision, 
 | Medical-AI | Clinical, biomedical NLP, radiology, pathology, medical imaging, and healthcare datasets. | [Open](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |
 | Finance-Legal | Finance, regulation, legal reasoning, extraction, filing analysis, contract understanding, and compliance datasets. | [Open](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 20 |
 | Benchmarks | Cross-domain evaluation suites for NLP, CV, multimodal systems, retrieval, code, agents, and general platforms. | [Open](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 25 |
-| Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 10 |
+| Data-Portals | Dataset registries, search portals, and discovery hubs for AI data and benchmarks. | [Open](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 11 |
 | Safety-Evals | Safety eval suites, risk taxonomies, red-teaming collections, and agent safety resources. | [Open](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 20 |
 
 ## Source Families

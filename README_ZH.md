@@ -7,7 +7,7 @@
 ## 项目概览
 
 - 29 个分类目录
-- 636 条主条目
+- 637 条主条目
 - 链接整理与核验日期：2026-04-26
 
 ## 收录规则
@@ -50,7 +50,7 @@
 | 医疗 AI（Medical-AI） | 临床、生物医学 NLP、放射、病理、医学影像与医疗场景数据。 | [英文](Medical-AI/README.md) | [中文](Medical-AI/README_ZH.md) | 26 |
 | 金融与法律（Finance-Legal） | 金融、监管、法律推理、抽取、文件分析、合同理解与合规数据。 | [英文](Finance-Legal/README.md) | [中文](Finance-Legal/README_ZH.md) | 20 |
 | 综合评测（Benchmarks） | 覆盖 NLP、CV、多模态、检索、代码、Agent 与通用平台的跨领域评测套件。 | [英文](Benchmarks/README.md) | [中文](Benchmarks/README_ZH.md) | 25 |
-| 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 10 |
+| 数据门户（Data-Portals） | 面向 AI 数据与 benchmark 的注册表、搜索入口与发现型门户。 | [英文](Data-Portals/README.md) | [中文](Data-Portals/README_ZH.md) | 11 |
 | 安全评测（Safety-Evals） | 面向 LLM 与 Agent 的安全评测、风险 taxonomy、红队资源与安全 benchmark。 | [英文](Safety-Evals/README.md) | [中文](Safety-Evals/README_ZH.md) | 20 |
 
 ## 来源类型

@@ -16,6 +16,7 @@
 | 8 | Registry of Open Data on AWS | Multilingual | [Site](https://registry.opendata.aws/) | Platform / upstream-specific | 发现大规模云端公开数据集 | [Docs](https://registry.opendata.aws/) | 当训练流程需要大规模数据和直接云访问时尤其有价值。 |
 | 9 | PhysioNet | English | [Site](https://physionet.org/) | Platform / dataset-specific | 发现生理信号、ICU 记录与 challenge 数据 | [Docs](https://physionet.org/about/database/) | 它是生理信号与大量医疗时间序列 benchmark 最核心的公共门户。 |
 | 10 | OpenSLR | English | [Site](https://openslr.org/) | Platform / dataset-specific | 发现语音与语言资源 | [Docs](https://openslr.org/resources.php) | ASR 与语音研究里最常见的公开语音语料与词典索引之一。 |
+| 11 | Botstest | English | [Site](https://botstest.com/) | Unknown / upstream-specific | 发现具身智能数据集与机器人评测资源 | [数据集](https://botstest.com/category/datasets/) / [评测](https://botstest.com/category/benchmarks/) | 发现型目录，不是原始数据集；通过原始发布者链接查看上游资源与使用条款。 |
 
 ## 说明
 

@@ -16,6 +16,7 @@ Discovery hubs and dataset registries that help researchers search, filter, and 
 | 8 | Registry of Open Data on AWS | Multilingual | [Site](https://registry.opendata.aws/) | Platform / upstream-specific | Discovering large-scale public cloud-hosted datasets | [Docs](https://registry.opendata.aws/) | Useful when dataset scale and direct cloud access matter for training workflows. |
 | 9 | PhysioNet | English | [Site](https://physionet.org/) | Platform / dataset-specific | Discovering clinical signals, ICU records, and challenge datasets | [Docs](https://physionet.org/about/database/) | The canonical public portal for physiological signals and many medical time-series benchmarks. |
 | 10 | OpenSLR | English | [Site](https://openslr.org/) | Platform / dataset-specific | Discovering speech and language resources | [Docs](https://openslr.org/resources.php) | A standard public index for speech corpora, lexicons, and language resources used in ASR and speech research. |
+| 11 | Botstest | English | [Site](https://botstest.com/) | Unknown / upstream-specific | Discovering embodied-AI datasets and robotics benchmarks | [Datasets](https://botstest.com/category/datasets/) / [Benchmarks](https://botstest.com/category/benchmarks/) | A discovery directory, not a raw dataset; original publisher links carry the upstream resources and terms. |
 
 ## Notes
 
